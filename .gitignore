@@ -1,0 +1,12 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+Thumbs.db
+
+.hugo_build.lock
+/public/
+/resources/
+.Rdata
+.httr-oauth
