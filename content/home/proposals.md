@@ -4,7 +4,7 @@ active: true
 headless: true
 weight: 65
 
-title: Project Descriptions
+title: Proposals
 subtitle: ''
 
 content:
