@@ -15,7 +15,7 @@ appearance:
 
 marketing:
   seo:
-    site_type: Person
+    site_type: Organization
     local_business_type: ''
     org_name: ''
     description: 'A website for NCCC-170, the North Central Coordinating Committee.'
