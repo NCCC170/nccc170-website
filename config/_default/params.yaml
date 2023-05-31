@@ -42,7 +42,7 @@ header:
 
 footer:
   copyright:
-    notice: '© 2023 NCCC-170. This work is licensed under CC-0.'
+    notice: '© 2023 NCCC-170. This work is licensed under CC-4.'
     license:
       enable: true
       allow_derivatives: false
