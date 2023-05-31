@@ -25,9 +25,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/jaradniemi
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.com/citations?user=sRLc6F8AAAAJ&hl=en
