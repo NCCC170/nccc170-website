@@ -1,8 +1,7 @@
 ---
-cms_exclude: true
-header:
+banner:
   caption: ""
   image: ""
-title: Recent & Upcoming Talks
-view: 2
+title: Annual Meetings
+view: compact
 ---

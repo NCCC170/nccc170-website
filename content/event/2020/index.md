@@ -11,7 +11,6 @@ date_end: "2020-06-26T17:00:00Z"
 event: 2020 NCCC-170 Annual Meeting
 location: Oklahoma State University
 publishDate: "2020-06-26T00:00:00Z"
-summary: 2020 NCCC-170 Annual Meeting
 title: 2020 NCCC-170 Annual Meeting
 ---
 

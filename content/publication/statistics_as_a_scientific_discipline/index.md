@@ -36,7 +36,7 @@ featured: true
 publication: ASA Position Paper
 publication_short: ASA Position Paper
 publication_types:
-- "1"
+- "4"
 publishDate: "2018-01-05T00:00:00Z"
 tags: []
 url_pdf: "ASA_Website-Statistics-as-a-Scientific-Discipline.pdf"
