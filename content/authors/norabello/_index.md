@@ -8,5 +8,4 @@ organizations:
   url: "https://www.osu.edu/"
 user_groups:
   - Heads
-  - Members
 ---

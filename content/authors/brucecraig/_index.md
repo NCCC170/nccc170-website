@@ -9,5 +9,4 @@ organizations:
 user_groups:
   - Administrative Advisor
   - Heads
-  - Members
 ---
