@@ -26,13 +26,15 @@ To add update an existing person, find the appropriate folder within the
 [people/](https://github.com/NCCC-170/nccc170-website/content/people) folder.
 Edit the `_index.md` or other files accordingly. 
 
-## Add a paper
+## Add a publication
 
 To add a paper, copy a folder in the 
 [publication/](https://github.com/NCCC-170/nccc170-website/content/publication) folder.
 Name the folder using the title of the manuscript but using only letters, numbers, 
 and underscores. 
 Edit files within this folder as necessary. 
+
+[Publication types](https://wowchemy.com/docs/content/publications/)
 
 
 ## Add a book

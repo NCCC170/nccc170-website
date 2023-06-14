@@ -2,7 +2,7 @@
 title: Overview of Statistics as a Scientific Discipline and Practical Implications for the Evaluation of Faculty Excellence
 abstract: Statistics is at the same time a dynamic, stand-alone science with its own core research agenda and an inherently collaborative discipline, developing in response to scientific needs. In this sense, statistics fundamentally differs from many other domain-specific disciplines in science. This difference poses unique challenges for defining the standards by which faculty excellence is evaluated across the teaching, research, and service components.
 authors:
-- Bruce Craig
+- brucecraig
 - Philip Dixon
 - Edward E. Gbur
 - Kenneth J. Koehler
@@ -12,7 +12,7 @@ authors:
 - William C. Bridges
 - Raul E. Macchiavelli
 - Larry Madden
-- Nora M. Bello
+- norabello
 - Xin Dai
 - Jerry W. Davis
 - Sara Duke
@@ -36,7 +36,7 @@ featured: true
 publication: ASA Position Paper
 publication_short: ASA Position Paper
 publication_types:
-- "1"
+- "4"
 publishDate: "2018-01-05T00:00:00Z"
 tags: []
 url_pdf: "ASA_Website-Statistics-as-a-Scientific-Discipline.pdf"
