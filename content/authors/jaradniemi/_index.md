@@ -36,5 +36,5 @@ interests:
 - Computer Model Emulation
 superuser: true
 user_groups:
-- Members
+  - Members
 ---
