@@ -6,7 +6,7 @@ address:
   country: United States
   postcode: "53703"
   region: WI
-  street: 301 Math Sciences Building
+  street: 133 Service Memorial Institute (SMI)
 all_day: false
 authors: 
   - nicholaskeuler
