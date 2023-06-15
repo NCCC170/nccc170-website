@@ -8,6 +8,7 @@ address:
 all_day: false
 authors: 
   - carlagoad
+  - clarkkogan
 date: "2022-06-16T09:00:00Z"
 date_end: "2022-06-17T12:00:00Z"
 event: 2022 NCCC-170 Annual Meeting
