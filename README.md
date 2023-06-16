@@ -81,7 +81,7 @@ To add content to the website, please use a pull request.
     - Record publications in Excel/csv file
         - Write script to convert to Excel/csv data to website content
 - Pictures
-    - Upload to link sent by Nora
+    - Upload to OneDrive link sent by Nora
 
 Also
 
@@ -97,6 +97,8 @@ Also
     - [CRAN Task View: Agricultural Science](https://cran.r-project.org/web/views/Agriculture.html)
     - Projects:
         - Mixed models in R
+    - Sharing resources:
+        - Blog?
 
 
 
