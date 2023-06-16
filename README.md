@@ -33,7 +33,7 @@ As of summer 2022, there were two main websites for NCCC170:
 
 A new site has been created to replace the Arkansas site. 
 The new site is hosted by netlify and code is on 
-[github](https://github.com/NCCC-170/nccc170-website).. 
+[github](https://github.com/NCCC-170/nccc170-website).
 
 - [netlify site](https://nccc170.netlify.app/)
 
@@ -56,22 +56,19 @@ The new site is hosted by netlify and code is on
     
 ### What needs to be done    
    
-#### By me   
+#### By administrator
    
 - Domain
-    - Redirect old website to new website (SEO)
+    - Redirect <https://nccc170.uark.edu/> to new website (SEO)
     - Update [NIMSS website link](https://www.nimss.org/projects/view/links/18798)
-    - Add links from your personal websites (SEO)
 - Website
     - Link meeting talks to individuals
     - Add "Alum" section on [People page](https://nccc170.netlify.app/people/)
     - Remove/update [Tour page](https://nccc170.netlify.app/tour/)
+    - New favicon
+    - Add pictures
     
-#### By Arkansas
-
-- Permanently redirect <https://nccc170.uark.edu/> to new domain
-    
-#### By you?  
+#### By you
   
 All content for the website is located in the [content/](https://github.com/NCCC-170/nccc170-website/content/) folder.
 To add content to the website, please use a pull request. 
@@ -82,9 +79,13 @@ To add content to the website, please use a pull request.
 - Publications
     - Add publications, but how?
     - Record publications in Excel/csv file
-    - Write script to convert to 
+        - Write script to convert to Excel/csv data to website content
 - Pictures
-    - Please email me pictures [niemi@iastate.edu](mailto:niemi@iastate.edu)
+    - Upload to link sent by Nora
+
+Also
+
+- Add links from your personal websites (SEO)
 
 
 ### Questions
@@ -92,6 +93,10 @@ To add content to the website, please use a pull request.
 
 - Is it NCCC-170 or NCCC170? 
 - Purchase a domain?, e.g. <http://nccc170.org/> is available
+- Other content?
+    - [CRAN Task View: Agricultural Science](https://cran.r-project.org/web/views/Agriculture.html)
+    - Projects:
+        - Mixed models in R
 
 
 
