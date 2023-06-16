@@ -38,7 +38,7 @@ The new site is hosted by netlify and code is on
 - [netlify site](https://nccc170.netlify.app/)
 
 
-### What has been done.
+### What has been done
 
 - Old website
     - <https://nccc170.uark.edu/>
