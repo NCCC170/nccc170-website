@@ -3,13 +3,40 @@
 A [website for NCCC-170](https://nccc170.netlify.app/), 
 the North Central Coordinating Committee. 
 
-All content for the website is located in the [content/](https://github.com/NCCC-170/nccc170-website/content/) folder.
-To add content to the website, please use a pull request. 
+The code for the website is located in a 
+[github repository](https://github.com/NCCC-170/nccc170-website).
+If you are looking to add content, 
+please take a look at the 
+[content/](https://github.com/NCCC-170/nccc170-website/content/) folder.
+
+If you would like to add/update content and are familiar with git/github, 
+please use a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests).
+If you are uncomfortable making a pull request, 
+then feel free to email [Jarad Niemi](mailto:niemi@iastate.edu). 
+
+If you are interested in co-administering the website,
+e.g. updating your own content without having to go through me,
+I can add you as a collaborator on the 
+[github repository](https://github.com/NCCC-170/nccc170-website). 
 
 
 ## To do
 
 Here are some thoughts about what we should/could do with the NCCC170 website.
+
+### Background
+
+As of summer 2022, there were two main websites for NCCC170:
+
+- [official NIMSS](https://www.nimss.org/projects/view/mrp/outline/18798)
+- [Arkansas site](https://nccc170.uark.edu/)
+
+A new site has been created to replace the Arkansas site. 
+The new site is hosted by netlify and code is on 
+[github](https://github.com/NCCC-170/nccc170-website).. 
+
+- [netlify site](https://nccc170.netlify.app/)
+
 
 ### What has been done.
 
@@ -17,6 +44,7 @@ Here are some thoughts about what we should/could do with the NCCC170 website.
     - <https://nccc170.uark.edu/>
     - Archived at <https://github.com/NCCC-170/uark-archive>
 - New website
+    - Created [NCCC-170 Github organization](https://github.com/NCCC-170)
     - New domain <https://nccc170.netlify.app/>
     - Use [Hugo backend](https://gohugo.io/) with [wowchemy/hugo-starter-research-group](https://research-group.netlify.app/) theme deployed by [Netlify](https://www.netlify.com/)
     - Content is written in [Markdown](https://www.markdownguide.org/tools/hugo/) with [YAML frontmatter](https://gohugo.io/content-management/front-matter/)
@@ -38,6 +66,10 @@ Here are some thoughts about what we should/could do with the NCCC170 website.
     - Link meeting talks to individuals
     - Add "Alum" section on [People page](https://nccc170.netlify.app/people/)
     - Remove/update [Tour page](https://nccc170.netlify.app/tour/)
+    
+#### By Arkansas
+
+- Permanently redirect <https://nccc170.uark.edu/> to new domain
     
 #### By you?  
   
@@ -73,7 +105,8 @@ Ideally, NCCC170 members would use a
 [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
 through the 
 [Github repository for this website](https://github.com/NCCC-170/nccc170-website).
-If you cannot 
+If you are uncomfortable making a pull request, 
+then feel free to email [Jarad Niemi](mailto:niemi@iastate.edu). 
 
 
 
