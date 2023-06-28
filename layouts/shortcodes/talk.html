@@ -1,0 +1,8 @@
+<!-- Based on https://stackoverflow.com/questions/71691219/add-collapsible-section-in-hugo -->
+<details>
+  <summary>
+    <strong>{{ (.Get 0) | markdownify }}</strong>
+    <br><em>{{ (.Get 1) | markdownify }}</em>
+  </summary>
+  <div class="abstract">{{ .Inner | markdownify }}</div>
+</details>

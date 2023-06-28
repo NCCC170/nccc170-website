@@ -1,0 +1,27 @@
+.abstract {
+  font-size: smaller;
+}
+
+.abstract p {
+  border-left: 0px;
+  margin: 0px;
+  padding: 0px;
+}
+
+.abstract ol {
+  margin: 0px;
+}
+
+details {
+  margin: 0px;
+}
+
+.schedule {
+  line-height: 1.5;
+  display: grid;
+  grid-template-columns: max-content auto;
+  row-gap: 10px;
+  column-gap: 20px;
+  font-size: smaller;
+  padding-bottom: 2em;
+}
