@@ -127,12 +127,12 @@ An open discussion on research reproducibility. The National Academy of Sciences
 *Old Business:*
 
 3. Refresher/review of objectives for the current 2021-2026 project as per NIMSS. See https://www.nimss.org/projects/18798.
-4. Update on the upcoming new NCCC-170 website, with demonstration and feedback. Group discussion led by Jarad Niemi, Iowa State University.
+4. Update on the upcoming new NCCC170 website, with demonstration and feedback. Group discussion led by Jarad Niemi, Iowa State University.
 5.  Update from Walt Stroup regarding progress on on-going efforts towards publishing the second edition of his CRC textbook on Generalized Linear Mixed Models, with emphasis on updated materials and applications. Request for people interested in reviewing working drafts of the updated textbook.
 
 *New Business:*
 
-6. Planning for future NCCC-170 annual meetings: Location, dates.
+6. Planning for future NCCC170 annual meetings: Location, dates.
     * 2024: 	Potential venue: Puerto Rico (local host Raul Macchiavelli, UPR)
     Dates TBD. Program chair TBD.
     * 2025: 	???

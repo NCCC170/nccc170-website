@@ -1,5 +1,5 @@
 ---
-title: 2019 NCCC-170 Annual Meeting
+title: 2019 NCCC170 Annual Meeting
 authors: [Alex Lipka]
 location: University of Illinois Urbana-Champaign
 address:
