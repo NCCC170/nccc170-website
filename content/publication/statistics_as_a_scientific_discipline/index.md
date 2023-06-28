@@ -17,14 +17,14 @@ authors:
 - Jerry W. Davis
 - Sara Duke
 - Susan Durham
-- Carlo L. Good
+- carlagoad
 - Nick Kueer
 - Matthew H. Kramer
 - JungAe Lee-Bartlett
 - Bahram Momen
 - Jason A. Osborne
 - Neil D. Paton
-- Aaron Rendahl
+- aaronrendahl
 - Julia Sharp
 - John R. Stevens
 - Robert J. Tempelman
