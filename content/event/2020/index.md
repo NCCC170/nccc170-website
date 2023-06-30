@@ -1,16 +1,13 @@
 ---
-address:
-  city: Stillwater
-  country: United States
-  postcode: "74078"
-  region: OK
-  street: 301 Math Sciences Building
-all_day: false
-date: "2020-06-26T09:00:00Z"
-date_end: "2020-06-26T17:00:00Z"
-event: 2020 NCCC170 Annual Meeting
-location: Oklahoma State University
-publishDate: "2020-06-26T00:00:00Z"
 title: 2020 NCCC170 Annual Meeting
+summary: Online
+location: Online
+date: "2020-06-26"
+all_day: true
+share: false
+profile: false
 ---
 
+Originally scheduled for June 25-26 at Oklahoma State, this meeting was rescheduled online and consisted only of the annual business meeting.
+
+![2020 Attendees](NCCC170_2020sm.jpg)

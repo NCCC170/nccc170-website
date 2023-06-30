@@ -1,6 +1,6 @@
 ---
 title: 2023 NCCC170 Annual Meeting
-summary: Wisconsin - Madison
+summary: University of Wisconsin - Madison
 authors: 
   - aaronrendahl
   - nicholaskeuler
@@ -27,8 +27,9 @@ address:
   postcode: "53703"
 share: false
 profile: false
-publishDate: "2023-06-01T00:00:00Z"
 ---
+
+![2023 Attendees](DSC01297sm.jpg)
 
 **Thursday, June 15, 2023**
 
