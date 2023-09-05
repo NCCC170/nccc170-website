@@ -10,7 +10,7 @@ authors:
 - Mary Christman
 - Mark West
 - Matthew Kramer
-date: "2020-01-01"
+date: 2012-02-01
 doi: ""
 featured: true
 image: 
@@ -19,7 +19,6 @@ image:
 publication: John Wiley & Sons
 publication_types:
 - "5"
-publishDate: "2020-01-01T00:00:00Z"
 tags: []
 ---
 
