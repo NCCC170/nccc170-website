@@ -17,7 +17,7 @@ authors:
 - Sara Duke
 - Susan Durham
 - carlagoad
-- Nick Kueer
+- Nick Kueler
 - Matthew H. Kramer
 - JungAe Lee-Bartlett
 - Bahram Momen
