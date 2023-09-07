@@ -7,6 +7,5 @@ organizations:
 - name: Purdue University
   url: "https://www.purdue.edu/"
 user_groups:
-  - Administrative Advisor
   - Heads
 ---

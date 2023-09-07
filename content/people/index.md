@@ -7,7 +7,6 @@ sections:
     sort_by: Params.last_name
     title: Meet the Team
     user_groups:
-      - Administrative Advisor
       - Heads
       - Members
   design:
