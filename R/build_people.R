@@ -4,8 +4,8 @@ library(googlesheets4)
 library(googledrive)
 
 # authorize google access
-googlesheets4::gs4_auth()
-googledrive::drive_auth()
+# googlesheets4::gs4_auth()
+# googledrive::drive_auth()
 
 # The links to the spreadsheet and photos folder:
 # https://docs.google.com/spreadsheets/d/1NNMWOoCZCW4COgzmy13xn-JzqD_g5DqAhahL3BnqQv8
@@ -61,9 +61,13 @@ yaml1 <- function(a) {
   
   ints <- str_split(a$Interests, "; *")[[1]] |> setdiff(c(NA, ""))
   if(length(ints)>0) out <- c(out, list(interests=ints))
-  
-  out$user_groups <- list("Members")
 
+  if (a$Code %in% c("norabello", "brucecraig")) {
+    out$user_groups <- list("Heads")
+  } else {
+    out$user_groups <- list("Members")
+  }
+  
   out$superuser <- FALSE
   
   out <- paste0("---\n", as.yaml(out), "---")
@@ -75,7 +79,8 @@ yaml1 <- function(a) {
 d0 <- read_sheet(roster_google_id, skip=1)
 d <- d0 |> 
   rename_with(str_replace_all, pattern="[ ?]", replacement="") |>
-  mutate(Email = if_else(!is.na(DisplayEmail) & DisplayEmail=="Yes", Email, DisplayEmail),
+  mutate(DisplayEmail=DisplayEmail |> na_if("No"),
+         Email = if_else(!is.na(DisplayEmail) & DisplayEmail=="Yes", Email, DisplayEmail),
          Email = if_else(!is.na(Email), paste0("mailto:", Email), NA)) |>
   select(-DisplayEmail)
 
@@ -104,3 +109,4 @@ for(idx in seq_len(nrow(aut))) {
     system2("mogrify", paste("-resize '1200x1200>' -sampling-factor 4:2:0 -strip -quality 75 -interlace JPEG", imgpath))
   }
 }
+
