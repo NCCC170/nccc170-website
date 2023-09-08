@@ -8,10 +8,17 @@ organizations:
   url: https://www.osu.edu/
 education:
   courses:
-  - course: PhD Animal Science, Michigan State University, 2010
-  - course: MS Applied Statistics and MS Animal Science, Michigan State University,
-      2006/2008
-  - course: DVM, Catholic University of Cordoba, Argentina
+  - course: PhD Animal Science
+    institution: Michigan State University
+    year: 2010
+  - course: MS Applied Statistics
+    institution: Michigan State University
+    year: 2008
+  - course: MS Animal Science
+    institution: Michigan State University
+    year: 2006
+  - course: DVM
+    institution: Catholic University of Cordoba, Argentina
 social:
 - icon: envelope
   icon_pack: fas
