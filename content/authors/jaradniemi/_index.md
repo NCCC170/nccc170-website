@@ -5,7 +5,7 @@ title: Jarad Niemi
 role: Professor of Statistics
 organizations:
 - name: Iowa State University
-  url: "https://www.iastate.edu/"
+  url: https://www.iastate.edu/
 education:
   courses:
   - course: PhD in Statistical Science
@@ -37,7 +37,7 @@ interests:
 - Bayesian Statistics
 - Gaussian Processes
 - Computer Model Emulation
-superuser: true
 user_groups:
-  - Members
+- Members
+superuser: no
 ---
