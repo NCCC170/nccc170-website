@@ -35,26 +35,23 @@ then feel free to email [Jarad Niemi](mailto:niemi@iastate.edu).
 
 
 
-### People
+### Individual Profiles
 
 Individuals associated with NCCC170 can have a profile on this website. 
 These profiles live in the 
 [authors/](https://github.com/NCCC170/nccc170-website/content/authors) folder. 
 
-#### Add a new person
+It's now easy to make a profile, as Aaron Rendahl has automated the process; all you need to do now is to fill out a line in a spreadsheet and upload a profile picture. Access to this spreadsheet is limited, you will receive a link by email. Email Aaron at rend0020@umn.edu to request access.
 
-To add a new person, copy a folder in the 
-[authors/](https://github.com/NCCC170/nccc170-website/content/authors) folder.
-Edit the folder name to the new person's first and last name (no space)
-and modify the content within the folder. 
-The `_index.md` file provides the profile while the `avatar.jpg` is used for 
-including a picture of the individual.
+- In the Google Drive folder, you'll find a spreadsheet named NCCC170 Participant Info; there's one row for each of you. To have a profile on the website, give yourself a code (all lowercase, usually "firstlast") and fill out the columns that you want included in your profile. 
 
-#### Update an existing person
+- Title, Affiliation, and a profile photo are most helpful; there's also places for your education, interests, and links to profiles on other sites. For some of the fields, you'll use a semicolon to separate the parts; see Jarad's row for an example. Other fields are possible too but are not automated yet; if you want to include other information let me know. Also check that your name is how you want it to be presented. 
 
-To add update an existing person, find the appropriate folder within the
-[authors/](https://github.com/NCCC170/nccc170-website/content/authors) folder.
-Edit the `_index.md` or other files accordingly. 
+- Then in the Profile Photos folder, drop a profile photo named "<yourcode>.jpg" (it only works with jpgs right now). It should be square, but don't worry about optimizing for resolution or file size, that is automatically done when the site is built. I can also crop it for you if need be. 
+
+That's it! Email Aaron at rend0020@umn.edu when you're done and he will make your profile. 
+
+We would like to include past members who are now retired, so if that describes you, please contribute as well. We've made a guess about this in the "retired?" column.
 
 ### Add a publication
 
