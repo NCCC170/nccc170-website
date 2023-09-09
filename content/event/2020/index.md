@@ -9,5 +9,3 @@ profile: false
 ---
 
 Originally scheduled for June 25-26 at Oklahoma State, this meeting was rescheduled online and consisted only of the annual business meeting.
-
-![2020 Attendees](NCCC170_2020sm.jpg)

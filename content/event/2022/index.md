@@ -29,8 +29,6 @@ share: false
 profile: false
 ---
 
-![2022 Attendees](DSC09584sm.jpg)
-
 **Thursday, June 16, 2022**
 
 {{< schedule >}}

@@ -26,8 +26,6 @@ share: false
 profile: false
 ---
 
-![2019 Attendees](DSC05614sm.jpg)
-
 **Thursday, June 20, 2019**
 
 {{< schedule >}}

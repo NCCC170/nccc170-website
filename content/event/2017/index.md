@@ -25,8 +25,6 @@ share: false
 profile: false
 ---
 
-![2017 Attendees](DSC02201sm.jpg)
-
 **Thursday, June 22, 2017**
 
 {{< schedule >}}
