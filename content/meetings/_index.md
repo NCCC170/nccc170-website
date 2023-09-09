@@ -3,5 +3,5 @@ banner:
   caption: ""
   image: ""
 title: Annual Meetings
-view: compact
+view: meeting_list
 ---

@@ -1,0 +1,31 @@
+{{- define "main" -}}
+<!-- based on _default/list.html -->
+<!-- but with pub/article-container to make the page narrower -->
+
+{{ partial "page_header.html" . }}
+
+<div class="pub">
+<div class="article-container">
+  {{ with .Content }}
+    <div class="article-style">{{ . }}</div>
+  {{ end }}
+
+
+  {{ if templates.Exists (printf "partials/views/%s-start.html" (lower $.Params.view | default "compact")) }}
+    {{ partial "functions/render_view" (dict "page" $ "item" . "view" (printf "%s-start" $.Params.view) "index" 0) }}
+  {{ end }}
+
+  {{ $paginator := .Paginate .Pages }}
+  {{ range $index, $post := $paginator.Pages }}
+    {{ partial "functions/render_view" (dict "page" $ "item" . "view" ($.Params.view | default "compact") "index" $index) }}
+  {{end}}
+
+  {{ if templates.Exists (printf "partials/views/%s-end.html" (lower $.Params.view | default "compact")) }}
+    {{ partial "functions/render_view" (dict "page" $ "item" . "view" (printf "%s-end" $.Params.view) "index" 0) }}
+  {{ end }}
+
+  {{ partial "pagination" . }}
+</div>
+</div>
+
+{{- end -}}

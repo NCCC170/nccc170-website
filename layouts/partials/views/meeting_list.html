@@ -1,0 +1,43 @@
+{{ $item := .item }}
+
+{{/* Dynamic view adjusts to content type. */}}
+{{ $link := $item.RelPermalink }}
+{{ $target := "" }}
+{{ if $item.Params.external_link }}
+  {{ $link = $item.Params.external_link }}
+  {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
+{{ end }}
+
+{{ $has_attachments := partial "functions/has_attachments" $item }}
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+
+      {{ $t1 := time $item.Date }}
+      <a href="{{$link}}" {{ $target | safeHTMLAttr }}> {{ $t1.Year }}: {{ $item.Params.location }}</a>
+    </div>
+
+    <div class="article-style">
+      {{ partial "functions/get_event_dates" $item }}
+    </div>
+    
+    {{ if $has_attachments }}
+    <div class="btn-links">
+      {{ partial "page_links" (dict "page" $item "is_list" 1) }}
+    </div>
+    {{ end }}
+
+  </div>
+  <div class="ml-3">
+    {{ $resource := partial "functions/get_featured_image.html" $item }}
+    {{ with $resource }}
+      {{ $image := .Resize "150x webp" }}
+      <a href="{{$link}}" {{ $target | safeHTMLAttr }}>
+        <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
+            alt="{{ $item.Title }}" loading="lazy">
+      </a>
+    {{end}}
+  </div>
+</div>
