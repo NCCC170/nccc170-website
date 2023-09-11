@@ -19,8 +19,8 @@ find_authors <- function(x, namelist) {
   }
 }
 
-add_authors <- function(x, namelist) {
-  a <- find_authors(x$yaml$authors, namelist)
+add_authors <- function(x, namelist, from="authors") {
+  a <- find_authors(x$yaml[[from]], namelist)
   x$yaml$authors <- a$code
   x$yaml$authors_display <- a$display
   x
