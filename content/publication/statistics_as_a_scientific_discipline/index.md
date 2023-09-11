@@ -1,5 +1,6 @@
 ---
-title: Overview of Statistics as a Scientific Discipline and Practical Implications for the Evaluation of Faculty Excellence
+title: Overview of Statistics as a Scientific Discipline and Practical Implications
+  for the Evaluation of Faculty Excellence
 author_names:
 - Bruce Craig
 - Philip Dixon
@@ -29,18 +30,70 @@ author_names:
 - Robert J. Tempelman
 - Brian S. Yandell
 - Kathleen M. Yeater
-date: "2018-01-05T00:00:00Z"
-doi: ""
-featured: true
+date: '2018-01-05T00:00:00Z'
+doi: ''
+featured: yes
 publication: ASA Position Paper
 publication_short: ASA Position Paper
 publication_types:
-- "4"
-publishDate: "2018-01-05T00:00:00Z"
+- '4'
+publishDate: '2018-01-05T00:00:00Z'
 tags: []
-url_pdf: "https://www.amstat.org/docs/default-source/amstat-documents/pol-statistics-as-a-scientific-discipline.pdf"
+url_pdf: https://www.amstat.org/docs/default-source/amstat-documents/pol-statistics-as-a-scientific-discipline.pdf
+authors:
+- norabello
+- williambridges
+- brucecraig
+- xindai
+- phildixon
+- saraduke
+- susandurham
+- edwardgbur
+- carlagoad
+- nicholaskeuler
+- kenkoehler
+- mattkramer
+- raulmacchiavelli
+- larrymadden
+- dannettleton
+- neilpaton
+- aaronrendahl
+- juliasharp
+- johnstevens
+- walterstroup
+- roberttempelman
+- kathyyeater
+- junzhu
+authors_display:
+- '{{% mention_name "brucecraig" "Bruce Craig" %}}'
+- '{{% mention_name "phildixon" "Philip Dixon" %}}'
+- '{{% mention_name "edwardgbur" "Edward E. Gbur" %}}'
+- '{{% mention_name "kenkoehler" "Kenneth J. Koehler" %}}'
+- '{{% mention_name "dannettleton" "Dan Nettleton" %}}'
+- '{{% mention_name "walterstroup" "Walt W. Stroup" %}}'
+- '{{% mention_name "junzhu" "Jun Zhu" %}}'
+- '{{% mention_name "williambridges" "William C. Bridges" %}}'
+- '{{% mention_name "raulmacchiavelli" "Raul E. Macchiavelli" %}}'
+- '{{% mention_name "larrymadden" "Larry Madden" %}}'
+- '{{% mention_name "norabello" "Nora M. Bello" %}}'
+- '{{% mention_name "xindai" "Xin Dai" %}}'
+- Jerry W. Davis
+- '{{% mention_name "saraduke" "Sara Duke" %}}'
+- '{{% mention_name "susandurham" "Susan Durham" %}}'
+- '{{% mention_name "carlagoad" "Carla Goad" %}}'
+- '{{% mention_name "nicholaskeuler" "Nick Keuler" %}}'
+- '{{% mention_name "mattkramer" "Matthew H. Kramer" %}}'
+- JungAe Lee-Bartlett
+- Bahram Momen
+- Jason A. Osborne
+- '{{% mention_name "neilpaton" "Neil D. Paton" %}}'
+- '{{% mention_name "aaronrendahl" "Aaron Rendahl" %}}'
+- '{{% mention_name "juliasharp" "Julia Sharp" %}}'
+- '{{% mention_name "johnstevens" "John R. Stevens" %}}'
+- '{{% mention_name "roberttempelman" "Robert J. Tempelman" %}}'
+- Brian S. Yandell
+- '{{% mention_name "kathyyeater" "Kathleen M. Yeater" %}}'
 ---
-
 This document is an official position by the [Board of Directors of the American Statistical Association](https://www.amstat.org/policy-and-advocacy/asa-board-statements) on matters affecting the statistical profession. 
 
 
