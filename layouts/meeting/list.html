@@ -42,6 +42,11 @@
     {{ $address := partial "functions/get_address" (dict "root" . "address" .Params.address) }}
     <span class="middot-divider"></span>{{ $address }}</p>
   {{ end }}
+  {{ if .Params.leadership }}
+    {{ range .Params.leadership }} 
+      {{ .role | markdownify }}: {{ .who | markdownify }}<br>
+    {{ end }}
+  {{ end }}
   </div>
 </div>
 
