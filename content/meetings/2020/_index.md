@@ -1,0 +1,32 @@
+---
+title: 2020 NCCC170 Annual Meeting
+location: Online
+participants:
+- Raul Macchiavelli
+- Bruce Craig
+- Nora Bello
+- Susan Durham
+- Bill Price
+- Walt Stroup
+- Kathy Yeater
+- Larry Madden
+- Carla Goad
+- Dan Nettleton
+- William Bridges
+- Philip Dixon
+- Sara Duke
+- Linda Young
+- John Stevens
+- Kathy Hanford
+- Xuelin Luo
+- Julia Piaskowski
+- Xin Dai
+- Ed Gbur
+- Jun Zhu
+- Nick Keuler
+date: '2020-06-26'
+all_day: yes
+type: meeting
+view: schedule
+---
+Originally scheduled for June 25-26 at Oklahoma State, this meeting was rescheduled online and consisted only of the annual business meeting.
