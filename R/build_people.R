@@ -1,17 +1,7 @@
 library(tidyverse)
 library(yaml)
-library(googlesheets4)
-library(googledrive)
 
-# authorize google access
-# googlesheets4::gs4_auth()
-# googledrive::drive_auth()
-
-# The links to the spreadsheet and photos folder:
-# https://docs.google.com/spreadsheets/d/1NNMWOoCZCW4COgzmy13xn-JzqD_g5DqAhahL3BnqQv8
-# https://drive.google.com/drive/folders/1bAYRkwYp_yJuaQDFDgQd8PLnovyIh-8g
-roster_google_id <- "1NNMWOoCZCW4COgzmy13xn-JzqD_g5DqAhahL3BnqQv8"
-roster_photos_id <- "1bAYRkwYp_yJuaQDFDgQd8PLnovyIh-8g"
+to_list <- function(x) { if(length(x) == 1) { list(x) } else { x } }
 
 ## helper function to create a directory if it doesn't exist
 dir.create_if <- function(x) if(!dir.exists(x)) dir.create(x)
@@ -29,7 +19,7 @@ listify <- function(x) {
 
 ## a complicated function to read a row of the spreadsheet
 ## and turn it into the desired yaml
-yaml1 <- function(a) {
+yaml1 <- function(a, user_groups) {
   stopifnot(nrow(a)==1)
   out <- list(first_name = a$First,
               last_name = a$Last,
@@ -62,10 +52,8 @@ yaml1 <- function(a) {
   ints <- str_split(a$Interests, "; *")[[1]] |> setdiff(c(NA, ""))
   if(length(ints)>0) out <- c(out, list(interests=ints))
 
-  if (a$Code %in% c("norabello", "brucecraig")) {
-    out$user_groups <- list("Heads")
-  } else {
-    out$user_groups <- list("Members")
+  if(!missing(user_groups)) {
+    out$user_groups <- user_groups |> filter(Code==a$Code) |> pull(Group) |> to_list()
   }
   
   out$superuser <- FALSE
@@ -74,39 +62,26 @@ yaml1 <- function(a) {
   
 }
 
-  
-## read google sheet, fix names, and prep Email column
-d0 <- read_sheet(roster_google_id, skip=1)
-d <- d0 |> 
-  rename_with(str_replace_all, pattern="[ ?]", replacement="") |>
-  mutate(DisplayEmail=DisplayEmail |> na_if("No"),
-         Email = if_else(!is.na(DisplayEmail) & DisplayEmail=="Yes", Email, DisplayEmail),
-         Email = if_else(!is.na(Email), paste0("mailto:", Email), NA)) |>
-  select(-DisplayEmail)
+d <- read_csv(here::here("R", "people.csv"))
 
-## get list of photos in photos folder
-img <- drive_ls(as_id(roster_photos_id)) |>
-  mutate(name=str_remove(name, "\\.jpg$"))
+groups <- local({
+  has_profile <- d$Code[!is.na(d$Title)]
+  heads <- c("norabello", "brucecraig")
+  members <- setdiff(has_profile, heads)
+  bind_rows(tibble(Group="Heads", Code=heads),
+            tibble(Group="Members", Code=members))
+})
 
 ## make authors folder if needed
 apath <- "content/authors"
 dir.create_if(apath)
 
-## for each row that has a code
+## for each row that has a code, 
+## make folder if needed, get the yaml, and write to the file
 aut <- d |> filter(!is.na(Code))
 for(idx in seq_len(nrow(aut))) {
   a <- aut[idx,]
-  ## make folder if needed
   dir.create_if(file.path(apath, a$Code))
-  ## get the yaml and write to the file
-  yaml1(a) |> cat(file=file.path(apath, a$Code, "_index.md"))
-  ## download the photo if there is one
-  if(!is.na(imgk <- match(a$Code, img$name))) {
-    message("downloading ", a$Code)
-    imgpath <- file.path(apath, a$Code, "avatar.jpg")
-    googledrive::drive_download(img[imgk,], path=imgpath, overwrite=TRUE)
-    ## reduce file size of avatar image
-    system2("mogrify", paste("-resize '1200x1200>' -sampling-factor 4:2:0 -strip -quality 75 -interlace JPEG", imgpath))
-  }
+  yaml1(a, user_groups=groups) |> cat(file=file.path(apath, a$Code, "_index.md"))
 }
 
