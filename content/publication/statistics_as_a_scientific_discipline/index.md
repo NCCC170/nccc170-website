@@ -1,7 +1,7 @@
 ---
 title: Overview of Statistics as a Scientific Discipline and Practical Implications for the Evaluation of Faculty Excellence
-authors:
-- brucecraig
+author_names:
+- Bruce Craig
 - Philip Dixon
 - Edward E. Gbur
 - Kenneth J. Koehler
@@ -11,19 +11,19 @@ authors:
 - William C. Bridges
 - Raul E. Macchiavelli
 - Larry Madden
-- norabello
+- Nora M. Bello
 - Xin Dai
 - Jerry W. Davis
 - Sara Duke
 - Susan Durham
-- carlagoad
-- Nick Kueler
+- Carla Goad
+- Nick Keuler
 - Matthew H. Kramer
 - JungAe Lee-Bartlett
 - Bahram Momen
 - Jason A. Osborne
 - Neil D. Paton
-- aaronrendahl
+- Aaron Rendahl
 - Julia Sharp
 - John R. Stevens
 - Robert J. Tempelman
