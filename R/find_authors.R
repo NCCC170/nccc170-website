@@ -1,3 +1,5 @@
+library(tidyverse)
+
 read_authors <- function(file) {
   read_csv(file, show_col_types = FALSE) |>
     mutate(Name=paste(First, Last)) |> select(code=Code, name=Name, alt="AlternateNames") |>

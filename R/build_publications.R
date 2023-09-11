@@ -1,3 +1,4 @@
+library(tidyverse)
 source(here::here("R", "find_authors.R"))
 people <- read_authors(here::here("R", "people.csv"))
 
