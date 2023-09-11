@@ -2,7 +2,7 @@ library(tidyverse)
 source(here::here("R", "find_authors.R"))
 people <- read_authors(here::here("R", "people.csv"))
 
-pubs <- list.files("content/publication") |> setdiff("_index.md")
+pubs <- basename(list.dirs("content/publication")) |> setdiff("publication")
 
 for(glub in pubs) {
   f <- sprintf("content/publication/%s/index.md", glub)
