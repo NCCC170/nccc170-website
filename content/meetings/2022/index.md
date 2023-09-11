@@ -13,7 +13,7 @@ authors:
   - carlagoad
   - "Laurence Madden"
   - "Alex Lipka"
-  - "Julia Piaskowski"
+  - jpiaskowski
   - "Phil Alderman"
   - "Huizi Wang"
   - aaronrendahl

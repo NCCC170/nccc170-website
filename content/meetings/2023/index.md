@@ -12,7 +12,7 @@ authors:
   - clarkkogan
   - "Steven Moen"
   - "Dan Runcie"
-  - "Julia Piaskowski"
+  - jpiaskowski
 author_notes:
   - "Program Chair"
   - "Site Host"
