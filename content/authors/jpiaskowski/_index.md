@@ -30,7 +30,8 @@ social:
   link: https://www.linkedin.com/in/julia-piaskowski-4623145a/
 interests:
 - reproducible research
-- spatial statistics, variety testing
+- spatial statistics
+- variety testing
 user_groups:
 - Members
 superuser: no
