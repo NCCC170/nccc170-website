@@ -1,10 +1,9 @@
 {{- define "main" -}}
 <!-- based on _default/list.html -->
-<!-- but with pub/article-container to make the page narrower -->
+<!-- but with article-container to make the page narrower -->
 
 {{ partial "page_header.html" . }}
 
-<div class="pub">
 <div class="article-container">
   {{ with .Content }}
     <div class="article-style">{{ . }}</div>
@@ -25,7 +24,6 @@
   {{ end }}
 
   {{ partial "pagination" . }}
-</div>
 </div>
 
 {{- end -}}
