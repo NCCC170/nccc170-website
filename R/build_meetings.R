@@ -8,7 +8,7 @@ make_list <- function(x, n) {
 }
 
 yaml_flexible <- function(x, force_list=c())  {
-  if(grepl("^\\s*$", tail(x, 1))) {
+  while(grepl("^\\s*$", tail(x, 1))) {
     x <- head(x, -1)
   }
   ## inspired by xfun::yaml_body
@@ -24,11 +24,11 @@ yaml_flexible <- function(x, force_list=c())  {
 }
 
 write_yaml <- function(yaml, file, dir=".", path=file.path(dir, paste0(file, ".md")), verbose=TRUE) {
-  if(verbose) message(sprintf(" - %s", file))
-  c("---\n", yaml::as.yaml(yaml$yaml), "---\n") |> cat(file=path, sep="")
+  if(verbose) message(sprintf(" - %s", path))
   if(!is.null(yaml$body)) {
-    c(yaml$body, "\n") |> cat(file=path, sep="", append=TRUE)
+    yaml$body <- paste0(paste(yaml$body, collapse="\n"), "\n")
   }
+  c("---\n", yaml::as.yaml(yaml$yaml), "---\n", yaml$body) |> cat(file=path, sep="")
 }
 
 split_time <- function(x) {
