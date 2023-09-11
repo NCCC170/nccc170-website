@@ -12,20 +12,6 @@ leadership:
   who: Ed Gbur
 - role: Program Chair
   who: John Stevens
-participants:
-- Alex Lipka
-- Nora Bello
-- JungAe Lee-Bartlett
-- Raul Macchiavelli
-- Rob Tempelman
-- Laurence Madden
-- Bruce Craig
-- Susan Durham
-- Edzard van Santen
-- Matt Kramer
-- Walt Stroup
-- Nick Keuler
-- Jun Zhu
 date: '2018-06-28'
 date_end: '2018-06-29'
 all_day: yes
