@@ -1,0 +1,20 @@
+{{/*
+    Based on "mention"
+    Docs: https://wowchemy.com/docs/content/writing-markdown-latex/#mention-a-user
+
+    Parameters
+    ----------
+    #0 : User account in Wowchemy to link to.
+    #1 : Name to display
+*/}}
+
+{{- $username := .Get 0 -}}
+{{- $nametxt  := .Get 1 -}}
+{{- $username_url := $username | urlize -}}
+{{- $taxonomy := "authors" -}}
+{{- $profile_page := site.GetPage (printf "/%s/%s" $taxonomy $username_url) -}}
+{{- with $profile_page -}}
+  <a href="{{$profile_page.RelPermalink}}">{{ $nametxt }}</a>
+{{- else -}}
+  {{- $nametxt -}}
+{{- end -}}
