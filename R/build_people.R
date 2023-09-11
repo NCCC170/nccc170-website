@@ -52,7 +52,7 @@ yaml1 <- function(a, user_groups) {
   ints <- str_split(a$Interests, "; *")[[1]] |> setdiff(c(NA, ""))
   if(length(ints)>0) out <- c(out, list(interests=ints))
 
-  if(!missing(user_groups)) {
+  if(!missing(user_groups) && a$Code %in% user_groups$Code) {
     out$user_groups <- user_groups |> filter(Code==a$Code) |> pull(Group) |> to_list()
   }
   
