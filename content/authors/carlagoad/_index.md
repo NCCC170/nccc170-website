@@ -5,7 +5,8 @@ title: Carla Goad
 role: Professor of Statistics
 organizations:
 - name: Oklahoma State University
-  url: "https://www.okstate.edu/"
+  url: https://www.okstate.edu/
 user_groups:
-  - Members
+- Members
+superuser: no
 ---

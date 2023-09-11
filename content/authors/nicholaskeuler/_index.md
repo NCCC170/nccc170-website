@@ -5,7 +5,8 @@ title: Nicholas Keuler
 role: Faculty Associate
 organizations:
 - name: University of Wisconsin - Madison
-  url: "https://www.wisc.edu/"
+  url: https://www.wisc.edu/
 user_groups:
-  - Members
+- Members
+superuser: no
 ---
