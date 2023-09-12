@@ -23,7 +23,8 @@ read_authors <- function(file) {
 find_authors <- function(x, namelist) {
   ## put back to a vector and see which are present
   x <- unlist(x)
-  a <- namelist[str_detect(paste(x, collapse="\n"), fixed(namelist$name)),]
+  a <- namelist |> mutate(k=str_locate(paste(x, collapse="\n"), fixed(namelist$name))[,1]) |>
+    filter(!is.na(k)) |> arrange(k)
   if(nrow(a) > 0) {
     pat <- a$name
     rep <- sprintf('{{%% mention_name "%s" "%s" %%}}', a$code, a$name)
