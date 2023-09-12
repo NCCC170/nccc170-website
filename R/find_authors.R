@@ -1,5 +1,18 @@
 library(tidyverse)
 
+to_list <- function(x) { if(length(x) == 1) { list(x) } else { x } }
+make_list <- function(x, n) {
+  for(ni in n) { x[[ni]] <- to_list(x[[ni]]) }
+  x
+}
+write_yaml <- function(yaml, file, dir=".", path=file.path(dir, paste0(file, ".md")), verbose=TRUE) {
+  if(verbose) message(sprintf(" - %s", path))
+  if(!is.null(yaml$body)) {
+    yaml$body <- paste0(paste(yaml$body, collapse="\n"), "\n")
+  }
+  c("---\n", yaml::as.yaml(yaml$yaml), "---\n", yaml$body) |> cat(file=path, sep="")
+}
+
 read_authors <- function(file) {
   read_csv(file, show_col_types = FALSE) |>
     mutate(Name=paste(First, Last)) |> select(code=Code, name=Name, alt="AlternateNames") |>

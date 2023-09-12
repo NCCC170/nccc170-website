@@ -1,11 +1,5 @@
 library(tidyverse)
-
-
-to_list <- function(x) { if(length(x) == 1) { list(x) } else { x } }
-make_list <- function(x, n) {
-  for(ni in n) { x[[ni]] <- to_list(x[[ni]]) }
-  x
-}
+source(here::here("R", "find_authors.R"))
 
 yaml_flexible <- function(x, force_list=c())  {
   while(grepl("^\\s*$", tail(x, 1))) {
@@ -21,14 +15,6 @@ yaml_flexible <- function(x, force_list=c())  {
     list(yaml = yaml::yaml.load(x[1:(i-1)]) |> make_list(force_list), 
          body = x[(i+1):length(x)])
   }
-}
-
-write_yaml <- function(yaml, file, dir=".", path=file.path(dir, paste0(file, ".md")), verbose=TRUE) {
-  if(verbose) message(sprintf(" - %s", path))
-  if(!is.null(yaml$body)) {
-    yaml$body <- paste0(paste(yaml$body, collapse="\n"), "\n")
-  }
-  c("---\n", yaml::as.yaml(yaml$yaml), "---\n", yaml$body) |> cat(file=path, sep="")
 }
 
 split_time <- function(x) {
@@ -117,7 +103,6 @@ write_meeting <- function(m, outdir, verbose=TRUE) {
 }
 
 
-source(here::here("R", "find_authors.R"))
 people <- read_authors(here::here("R", "people.csv"))
 mtgs <- list.files(pattern="meeting.txt", path="content/meetings", recursive=TRUE, full.names = TRUE)
 for(path1 in dirname(mtgs)) {

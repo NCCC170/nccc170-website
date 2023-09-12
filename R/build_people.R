@@ -1,7 +1,6 @@
 library(tidyverse)
 library(yaml)
-
-to_list <- function(x) { if(length(x) == 1) { list(x) } else { x } }
+source(here::here("R", "find_authors.R"))
 
 ## helper function to create a directory if it doesn't exist
 dir.create_if <- function(x) if(!dir.exists(x)) dir.create(x)
