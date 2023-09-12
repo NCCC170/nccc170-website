@@ -39,7 +39,7 @@ publication_types:
 - '4'
 publishDate: '2018-01-05T00:00:00Z'
 tags: []
-url_pdf: https://www.amstat.org/docs/default-source/amstat-documents/pol-statistics-as-a-scientific-discipline.pdf
+#url_pdf: https://www.amstat.org/docs/default-source/amstat-documents/pol-statistics-as-a-scientific-discipline.pdf
 authors:
 - norabello
 - williambridges
