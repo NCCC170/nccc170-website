@@ -40,12 +40,14 @@
   {{ partial "functions/get_event_dates" . }}
   {{ if .Params.address }}
     {{ $address := partial "functions/get_address" (dict "root" . "address" .Params.address) }}
-    <span class="middot-divider"></span>{{ $address }}</p>
+    <span class="middot-divider"></span>{{ $address }}
   {{ end }}
   {{ if .Params.leadership }}
-    {{ range .Params.leadership }} 
-      {{ .role | markdownify }}: {{ .who | markdownify }}<br>
+    <div>
+    {{ range $index, $value:=.Params.leadership }} 
+      {{ if gt $index 0 }}<br>{{ end }}{{ .role | markdownify }}: {{ .who | markdownify }}
     {{ end }}
+    </div>
   {{ end }}
   </div>
 </div>
@@ -84,9 +86,10 @@
   {{ if gt $authorLen 0 }}
     <div class="article-container pt-3">
     <div class="article-metadata">
-    {{ range $page.Params.participants }}
-      {{ . | markdownify }};
+    {{ range $index, $value := $page.Params.participants }}
+      {{- if gt $index 0 }}; {{ end -}}{{- . | markdownify -}}
     {{ end }}
+    {{- "." -}}
     </div>
     </div>
   {{ end }}
