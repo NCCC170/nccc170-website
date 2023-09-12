@@ -1,13 +1,13 @@
 ---
 title: Analysis of Generalized Linear Mixed Models in the Agricultural and Natural
   Resources Sciences
-abstract: <i>Analysis of Generalized Linear Mixed Models in the Agricultural and Natural Resources
-  Sciences</i> provides readers with an understanding and appreciation for the design
-  and analysis of mixed models for non-normally distributed data. It is the only publication
-  of its kind directed specifically toward the agricultural and natural resources
-  sciences audience. Readers will especially benefit from the numerous worked examples
-  based on actual experimental data and the discussion of pitfalls associated with
-  incorrect analyses.
+abstract: <i>Analysis of Generalized Linear Mixed Models in the Agricultural and Natural
+  Resources Sciences</i> provides readers with an understanding and appreciation for
+  the design and analysis of mixed models for non-normally distributed data. It is
+  the only publication of its kind directed specifically toward the agricultural and
+  natural resources sciences audience. Readers will especially benefit from the numerous
+  worked examples based on actual experimental data and the discussion of pitfalls
+  associated with incorrect analyses.
 slug: glmm-in-agricultural-sciences
 author_names:
 - Edward E. Gbur
@@ -32,11 +32,11 @@ publication_types:
 - '5'
 tags: []
 authors:
-- susandurham
 - edwardgbur
-- mattkramer
 - walterstroup
+- susandurham
 - lindayoung
+- mattkramer
 authors_display:
 - '{{% mention_name "edwardgbur" "Edward E. Gbur" %}}'
 - '{{% mention_name "walterstroup" "Walter W. Stroup" %}}'
@@ -47,7 +47,6 @@ authors_display:
 - Mark West
 - '{{% mention_name "mattkramer" "Matthew Kramer" %}}'
 ---
-
 <i>Analysis of Generalized Linear Mixed Models in the Agricultural and Natural Resources Sciences</i> was written by members of NCCC-170 as part of the project’s educational outreach. The authors were Edward Gbur, Walter Stroup, Kevin McCarter, Susan Durham, Linda Young, Mary Christman, Mark West and Matthew Kramer. The book was published in 2012 by the American Society of Agronomy.
 
 ## Data Files for Selected Examples

@@ -30,12 +30,12 @@ publication_types:
 - '2'
 authors:
 - norabello
-- brucecraig
-- edwardgbur
 - mattkramer
-- walterstroup
 - roberttempelman
+- walterstroup
+- brucecraig
 - lindayoung
+- edwardgbur
 authors_display:
 - '{{% mention_name "norabello" "Nora M. Bello" %}}'
 - '{{% mention_name "mattkramer" "Matthew Kramer" %}}'

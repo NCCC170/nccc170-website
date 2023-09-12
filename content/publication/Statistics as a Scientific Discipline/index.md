@@ -39,31 +39,30 @@ publication_types:
 - '4'
 publishDate: '2018-01-05T00:00:00Z'
 tags: []
-#url_pdf: https://www.amstat.org/docs/default-source/amstat-documents/pol-statistics-as-a-scientific-discipline.pdf
 authors:
-- norabello
-- williambridges
 - brucecraig
-- xindai
 - phildixon
-- saraduke
-- susandurham
 - edwardgbur
-- carlagoad
-- nicholaskeuler
 - kenkoehler
-- mattkramer
+- dannettleton
+- walterstroup
+- junzhu
+- williambridges
 - raulmacchiavelli
 - larrymadden
-- dannettleton
+- norabello
+- xindai
+- saraduke
+- susandurham
+- carlagoad
+- nicholaskeuler
+- mattkramer
 - neilpaton
 - aaronrendahl
 - juliasharp
 - johnstevens
-- walterstroup
 - roberttempelman
 - kathyyeater
-- junzhu
 authors_display:
 - '{{% mention_name "brucecraig" "Bruce Craig" %}}'
 - '{{% mention_name "phildixon" "Philip Dixon" %}}'
