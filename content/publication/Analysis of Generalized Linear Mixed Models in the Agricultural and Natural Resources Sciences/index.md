@@ -20,6 +20,9 @@ author_names:
 date: '2012-02-01'
 doi: ''
 featured: yes
+links:
+- name: Buy
+  url: https://www.wiley.com/en-us/Analysis+of+Generalized+Linear+Mixed+Models+in+the+Agricultural+and+Natural+Resources+Sciences-p-9780891181828
 image:
   focal_point: ''
   preview_only: no
