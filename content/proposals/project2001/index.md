@@ -1,6 +1,5 @@
 ---
 date: "2001-10-01"
-external_link: "https://www.nimss.org/projects/2001"
 summary: "2001-2006"
 title: Research Advances in Agricultural Statistics 
 subtitle: 2001 Renewal
