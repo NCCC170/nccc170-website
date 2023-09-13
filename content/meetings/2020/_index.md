@@ -14,6 +14,7 @@ participants:
 - Dan Nettleton
 - William Bridges
 - Philip Dixon
+- Guilherme Rosa
 - Sara Duke
 - Linda Young
 - John Stevens
