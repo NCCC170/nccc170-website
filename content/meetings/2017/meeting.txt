@@ -9,6 +9,11 @@ address:
 leadership:
 - role: Site Host
   who: "Neil Paton"
+- role: Program Chair
+  who: Nora Bello
+participants:
+- "MEMBERS: Nora Bello (KS), Bruce Craig (IN, Admin.), Philip Dixon (IA), Sara Duke (USDA-ARS), Susan Durham (UT), Ed Gbur (AR), Carla Goad (OK), Matt Kramer (UDSA-ARS), Nick Keuler (WI), Neil Paton (Cargill), Raul Macchiavelli (PR), Larry Madden (OH), Bahram Momen (MD), Julia Sharp (SC), John Stevens (UT), Rob Tempelman (MI), Kathy Yeater (USDA-ARS)"
+- "OTHERS: William Bridges (SC), JungAe Lee (AR), Kelci Miclaus (SAS), Jason Osborne (NC), Aaron Rendahl (MN), Brian Rice (IL), Esperanza Shenstone (IL), Qiong Hu (Cargill), Tatiana Lust (Cargill), Andrea Ostrom (Cargill), Travis Wolter (Cargill)"
 
 date: 2017-06-22
 
