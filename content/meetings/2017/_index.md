@@ -13,14 +13,16 @@ leadership:
 - role: Program Chair
   who: Nora Bello
 participants:
-- 'MEMBERS: Nora Bello (KS), Bruce Craig (IN, Admin.), Philip Dixon (IA), Sara Duke
-  (USDA-ARS), Susan Durham (UT), Ed Gbur (AR), Carla Goad (OK), Matt Kramer (UDSA-ARS),
-  Nick Keuler (WI), Neil Paton (Cargill), Raul Macchiavelli (PR), Larry Madden (OH),
-  Bahram Momen (MD), Julia Sharp (SC), John Stevens (UT), Rob Tempelman (MI), Kathy
-  Yeater (USDA-ARS)'
-- 'OTHERS: William Bridges (SC), JungAe Lee (AR), Kelci Miclaus (SAS), Jason Osborne
-  (NC), Aaron Rendahl (MN), Brian Rice (IL), Esperanza Shenstone (IL), Qiong Hu (Cargill),
-  Tatiana Lust (Cargill), Andrea Ostrom (Cargill), Travis Wolter (Cargill)'
+- '(Sitting, left to right): John Stevens (UT), Rob Tempelman (MI), Carla Goad (OK),
+  Julia Sharp (SC), Nora Bello (KS)'
+- '(Standing, left to right): Bahram Momen (MD), Matt Kramer (UDSA-ARS), JungAe Lee
+  (AR), Neil Paton (Cargill), Kathy Yeater (USDA-ARS); William Bridges (SC), Susan
+  Durham (UT), Nick Keuler (WI),  Sara Duke (USDA-ARS), Larry Madden (OH), Philip
+  Dixon (IA), Aaron Rendahl (MN), Raul Macchiavelli (PR),  Bruce Craig (IN, Admin.),
+  Ed Gbur (AR)'
+- 'OTHERS: Kelci Miclaus (SAS), Jason Osborne (NC), Brian Rice (IL), Esperanza Shenstone
+  (IL), Qiong Hu (Cargill), Tatiana Lust (Cargill), Andrea Ostrom (Cargill), Travis
+  Wolter (Cargill)'
 date: '2017-06-22'
 date_end: '2017-06-23'
 all_day: yes
