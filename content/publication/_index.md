@@ -2,6 +2,6 @@
 banner:
   caption: ""
   image: ""
-title: Publications
+title: Joint Efforts
 view: citation
 ---
