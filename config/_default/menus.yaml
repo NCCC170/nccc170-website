@@ -16,8 +16,8 @@ main:
   - name: Joint Efforts
     url: publication
     weight: 50
-  - name: Proposals
-    url: proposals
+  - name: NIMSS
+    url: https://www.nimss.org/projects/view/mrp/outline/18798
     weight: 60
   - name: Contact
     url: contact
