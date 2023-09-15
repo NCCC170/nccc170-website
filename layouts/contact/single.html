@@ -1,0 +1,26 @@
+{{- define "main" -}}
+{{/* Simplified version of parse_block_v2.html and blocks/contact.html */}}
+<section class="home-section wg-contact">
+<div class="container">
+  <div class="row justify-content-center">
+    <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
+    {{ with .Params.title }}<h1 class="mb-0">{{ . | markdownify | emojify }}</h1>{{ end }}
+    {{ with .Params.subtitle }}<p class="mt-1">{{ . | markdownify | emojify }}</p>{{ end }}
+    </div>
+    
+    <div class="col-12 col-lg-8">
+    {{ with .Content }}{{ . | markdownify | emojify }}{{ end }}
+      
+    <ul class="fa-ul">
+    {{- range .Params.contact -}}
+    <li>
+      <i class="fa-li fas fa-envelope fa-2x" aria-hidden="true"></i>
+      <span id="person-email"><a href="mailto:{{ .email }}">{{ .who }}</a></span>
+    </li>
+    {{- end -}}
+    </ul>
+    </div>
+  </div>
+</div>
+</section>
+{{- end -}}
