@@ -1,15 +1,15 @@
 ---
-title: Annual Reports
+title: NIMSS Projects and Annual Reports
 ---
 
 -   2021 -- 2026: 
     [Home](https://www.nimss.org/projects/18798) •
-    [Proposal](https://www.nimss.org/projects/view/mrp/outline/18798)
+    [Outline](https://www.nimss.org/projects/view/mrp/outline/18798)
     -   Annual Reports: 
         [2022](https://www.nimss.org/seas/52142)
 -   2016 -- 2021: 
     [Home](https://www.nimss.org/projects/17816) •
-    [Proposal](https://www.nimss.org/projects/view/mrp/outline/17816)
+    [Outline](https://www.nimss.org/projects/view/mrp/outline/17816)
     -   Annual Reports: 
         [2017](https://www.nimss.org/seas/51041) • 
         [2018](https://www.nimss.org/seas/51315) • 
@@ -18,7 +18,7 @@ title: Annual Reports
         [2021](https://www.nimss.org/seas/51943)
 -   2011 -- 2016:
     [Home](https://www.nimss.org/projects/13076) •
-    [Proposal](https://www.nimss.org/projects/view/mrp/outline/13076)
+    [Outline](https://www.nimss.org/projects/view/mrp/outline/13076)
     -   Annual Reports: 
         [2012](https://www.nimss.org/seas/34041) •
         [2013](https://www.nimss.org/seas/38881) • 
@@ -27,7 +27,7 @@ title: Annual Reports
         [2016](https://www.nimss.org/seas/50825)
 -   2006 -- 2011:
     [Home](https://www.nimss.org/projects/7856) •
-    [Proposal](https://www.nimss.org/projects/view/mrp/outline/7856)
+    [Outline](https://www.nimss.org/projects/view/mrp/outline/7856)
     -   Annual Reports: 
         [2007](https://www.nimss.org/seas/12061) •
         [2008](https://www.nimss.org/seas/15782) • 
@@ -36,7 +36,7 @@ title: Annual Reports
         [2011](https://www.nimss.org/seas/29121)
 -   2001 -- 2006:
     [Home](https://www.nimss.org/projects/2001) •
-    [Proposal](https://www.nimss.org/projects/view/mrp/outline/2001)
+    [Outline](https://www.nimss.org/projects/view/mrp/outline/2001)
     -   Annual Reports: 
         [2002](https://www.nimss.org/seas/408) •
         [2003](https://www.nimss.org/seas/409) • 
