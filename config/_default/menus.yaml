@@ -13,7 +13,7 @@ main:
   - name: Meetings
     url: meetings
     weight: 40
-  - name: Publications
+  - name: Joint Efforts
     url: publication
     weight: 50
   - name: Proposals
