@@ -8,4 +8,4 @@ contact:
 type: contact
 ---
 
-We should put something here. Perhaps just information about who can join and who they should contact. 
+If you have any questions or are interested in joining NCCC170: Research Advances in Agricultural Statistics, feel free to contact us.
