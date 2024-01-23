@@ -66,15 +66,9 @@ Edit files within this folder as necessary.
 
 ### Add annual meeting
 
-Annual meetings are added by the website administrator, 
-currently Jarad Niemi. 
+Annual meetings are currently added by the website co-administrator, Aaron Rendahl. 
 
-To add the annual meeting, copy a folder in the 
-[event/](https://github.com/NCCC170/nccc170-website/content/publication) folder.
-Currently this group only has one meeting per year. 
-Name the folder using the year. 
-Edit files within this folder as necessary. 
-
+These are automatically generated from a "meeting.txt" file within each year's folder. Do not edit markdown files or add manually to these folders; instead add or edit the "meeting.txt" file and run "build_meetings.R" to generate the markdown.
 
 ### Add proposals
 
