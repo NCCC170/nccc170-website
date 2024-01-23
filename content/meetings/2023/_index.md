@@ -10,7 +10,7 @@ leadership:
 - role: Site Host
   who: Nick Keuler, University of Wisconsin
 - role: Program Chair
-  who: Aaron Rendahl, University of Minnesota
+  who: Aaron Rendahl, University of Minnesotaa
 participants:
 - Xin Dai
 - Rob Tempelman
