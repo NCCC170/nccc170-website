@@ -4,7 +4,7 @@ location: University of Puerto Rico at Mayagüez
 address:
   city: Mayagüez
   region: Puerto Rico
-  postcode: 00680
+  postcode: '00680'
 leadership:
 - role: Site Host
   who: Raul Macchiavelli, University of Puerto Rico at Mayagüez
