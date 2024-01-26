@@ -1,13 +1,13 @@
 ---
 title: 2024 NCCC170 Annual Meeting
-location: University of Puerto Rico at Mayagüez
+location: University of Puerto Rico at Mayaguez
 address:
-  city: Mayagüez
+  city: Mayaguez
   region: Puerto Rico
   postcode: '00680'
 leadership:
 - role: Site Host
-  who: Raul Macchiavelli, University of Puerto Rico at Mayagüez
+  who: Raul Macchiavelli, University of Puerto Rico at Mayaguez
 - role: Program Chair
   who: Kathy Yeater
 date: '2024-06-13'
