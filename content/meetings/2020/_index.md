@@ -2,29 +2,29 @@
 title: 2020 NCCC170 Annual Meeting
 location: Online
 participants:
-- Raul Macchiavelli
-- Bruce Craig
-- Nora Bello
-- Susan Durham
-- Bill Price
-- Walt Stroup
-- Kathy Yeater
-- Larry Madden
-- Carla Goad
-- Dan Nettleton
-- William Bridges
-- Philip Dixon
-- Guilherme Rosa
-- Sara Duke
-- Linda Young
-- John Stevens
-- Kathy Hanford
-- Xuelin Luo
-- Julia Piaskowski
-- Xin Dai
-- Ed Gbur
-- Jun Zhu
-- Nick Keuler
+- '{{% mention_name "raulmacchiavelli" "Raul Macchiavelli" %}}'
+- '{{% mention_name "brucecraig" "Bruce Craig" %}}'
+- '{{% mention_name "norabello" "Nora Bello" %}}'
+- '{{% mention_name "susandurham" "Susan Durham" %}}'
+- '{{% mention_name "billprice" "Bill Price" %}}'
+- '{{% mention_name "walterstroup" "Walt Stroup" %}}'
+- '{{% mention_name "kathyyeater" "Kathy Yeater" %}}'
+- '{{% mention_name "larrymadden" "Larry Madden" %}}'
+- '{{% mention_name "carlagoad" "Carla Goad" %}}'
+- '{{% mention_name "dannettleton" "Dan Nettleton" %}}'
+- '{{% mention_name "williambridges" "William Bridges" %}}'
+- '{{% mention_name "phildixon" "Philip Dixon" %}}'
+- '{{% mention_name "guilhermerosa" "Guilherme Rosa" %}}'
+- '{{% mention_name "saraduke" "Sara Duke" %}}'
+- '{{% mention_name "lindayoung" "Linda Young" %}}'
+- '{{% mention_name "johnstevens" "John Stevens" %}}'
+- '{{% mention_name "kathyhanford" "Kathy Hanford" %}}'
+- '{{% mention_name "xuelinluo" "Xuelin Luo" %}}'
+- '{{% mention_name "jpiaskowski" "Julia Piaskowski" %}}'
+- '{{% mention_name "xindai" "Xin Dai" %}}'
+- '{{% mention_name "edwardgbur" "Ed Gbur" %}}'
+- '{{% mention_name "junzhu" "Jun Zhu" %}}'
+- '{{% mention_name "nicholaskeuler" "Nick Keuler" %}}'
 date: '2020-06-26'
 all_day: yes
 type: meeting

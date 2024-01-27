@@ -9,24 +9,24 @@ address:
   street: 301 Math Sciences Building
 leadership:
 - role: Site Host
-  who: Carla Goad
+  who: '{{% mention_name "carlagoad" "Carla Goad" %}}'
 - role: Program Chair
-  who: Clark Kogan
+  who: '{{% mention_name "clarkkogan" "Clark Kogan" %}}'
 participants:
-- Nora Bello
-- Carla Goad
-- Clark Kogan
-- Nick Keuler
-- Larry Madden
-- Xin Dai
-- Bruce Craig
-- Julia Sharp
-- John Stevens
-- Kathy Yeater
-- Susan Durham
+- '{{% mention_name "norabello" "Nora Bello" %}}'
+- '{{% mention_name "carlagoad" "Carla Goad" %}}'
+- '{{% mention_name "clarkkogan" "Clark Kogan" %}}'
+- '{{% mention_name "nicholaskeuler" "Nick Keuler" %}}'
+- '{{% mention_name "larrymadden" "Larry Madden" %}}'
+- '{{% mention_name "xindai" "Xin Dai" %}}'
+- '{{% mention_name "brucecraig" "Bruce Craig" %}}'
+- '{{% mention_name "juliasharp" "Julia Sharp" %}}'
+- '{{% mention_name "johnstevens" "John Stevens" %}}'
+- '{{% mention_name "kathyyeater" "Kathy Yeater" %}}'
+- '{{% mention_name "susandurham" "Susan Durham" %}}'
 - Huizi Wang
-- Aaron Rendahl
-- Jarad Niemi
+- '{{% mention_name "aaronrendahl" "Aaron Rendahl" %}}'
+- '{{% mention_name "jaradniemi" "Jarad Niemi" %}}'
 date: '2022-06-16'
 date_end: '2022-06-17'
 all_day: yes

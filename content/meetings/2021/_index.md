@@ -3,17 +3,29 @@ title: 2021 NCCC170 Annual Meeting
 location: Online
 leadership:
 - role: Program Chair
-  who: Nora Bello
+  who: '{{% mention_name "norabello" "Nora Bello" %}}'
 participants:
-- 'Members Present: Nora Bello (KS), Bruce Craig (IN, Admin.), Xin Dai (UT), Philip
-  Dixon (IA), Sara Duke (USDA-ARS), Susan Durham (UT), Ed Gbur (AR), Carla Goad (OK),
-  Kathy Hanford (NE), Clark Kogan (WA), Matt Kramer (USDA-ARS), Xuelin Luo (GA), Raul
-  Macchiavelli (PR), Larry Madden (OH), Gayla Olbricht (MO), Julia Piaskowski (ID),
-  Bill Price (ID), Guilherme Rosa (WI), Daniel Runcie (CA), Julia Sharp (CO), Rob
-  Tempelman (MI)'
-- 'Others Present: Arianna Bunnell (UT), Nick Keuler (WI), Neil Paton (Cargill), Hannah
-  Phillips (MN), Hans-Peter Piepho (Germany), Aaron Rendahl (MN), John Stevens (UT),
-  Walt Stroup (NE emeritus), Edzard van Santen (FL)'
+- 'Members Present: {{% mention_name "norabello" "Nora Bello" %}} (KS), {{% mention_name
+  "brucecraig" "Bruce Craig" %}} (IN, Admin.), {{% mention_name "xindai" "Xin Dai"
+  %}} (UT), {{% mention_name "phildixon" "Philip Dixon" %}} (IA), {{% mention_name
+  "saraduke" "Sara Duke" %}} (USDA-ARS), {{% mention_name "susandurham" "Susan Durham"
+  %}} (UT), {{% mention_name "edwardgbur" "Ed Gbur" %}} (AR), {{% mention_name "carlagoad"
+  "Carla Goad" %}} (OK), {{% mention_name "kathyhanford" "Kathy Hanford" %}} (NE),
+  {{% mention_name "clarkkogan" "Clark Kogan" %}} (WA), {{% mention_name "mattkramer"
+  "Matt Kramer" %}} (USDA-ARS), {{% mention_name "xuelinluo" "Xuelin Luo" %}} (GA),
+  {{% mention_name "raulmacchiavelli" "Raul Macchiavelli" %}} (PR), {{% mention_name
+  "larrymadden" "Larry Madden" %}} (OH), {{% mention_name "gaylaolbricht" "Gayla Olbricht"
+  %}} (MO), {{% mention_name "jpiaskowski" "Julia Piaskowski" %}} (ID), {{% mention_name
+  "billprice" "Bill Price" %}} (ID), {{% mention_name "guilhermerosa" "Guilherme Rosa"
+  %}} (WI), {{% mention_name "danielruncie" "Daniel Runcie" %}} (CA), {{% mention_name
+  "juliasharp" "Julia Sharp" %}} (CO), {{% mention_name "roberttempelman" "Rob Tempelman"
+  %}} (MI)'
+- 'Others Present: Arianna Bunnell (UT), {{% mention_name "nicholaskeuler" "Nick Keuler"
+  %}} (WI), {{% mention_name "neilpaton" "Neil Paton" %}} (Cargill), Hannah Phillips
+  (MN), Hans-Peter Piepho (Germany), {{% mention_name "aaronrendahl" "Aaron Rendahl"
+  %}} (MN), {{% mention_name "johnstevens" "John Stevens" %}} (UT), {{% mention_name
+  "walterstroup" "Walt Stroup" %}} (NE emeritus), {{% mention_name "edzardvansanten"
+  "Edzard van Santen" %}} (FL)'
 date: '2021-06-25'
 all_day: yes
 type: meeting
