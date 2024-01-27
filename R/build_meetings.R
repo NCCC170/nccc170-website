@@ -86,6 +86,17 @@ read_meeting <- function(file, namelist, verbose=TRUE) {
     fill_dates() |>
     lapply(add_authors, namelist) |>
     add_types()
+  if(!is.null(out[[1]]$yaml$participants)) {
+    participants <- out[[1]]$yaml$participants |> find_authors(namelist)
+    out[[1]]$yaml$participants <- participants$display
+  }
+  if(!is.null(out[[1]]$yaml$leadership)) {
+    leadership <- out[[1]]$yaml$leadership |> map(bind_rows) |> bind_rows() |>
+      mutate(file=role |> str_remove("[^A-Za-z]") |> tolower()) |>
+      mutate(n=n(), file=if_else(n>1, paste0(file, 1:n()), file), .by=file) |> select(-n) |>
+      mutate(map(who, \(x) find_authors(x, namelist) |> map(unlist) |> bind_rows()) |> bind_rows())
+    out[[1]]$yaml$leadership <- leadership |> select(role, who=display) |> purrr::transpose()
+  }
   out
 }
 
@@ -101,7 +112,6 @@ write_meeting <- function(m, outdir, verbose=TRUE) {
     write_yaml(x, file, dir=outdir, verbose=verbose)
   }
 }
-
 
 people <- read_authors(here::here("R", "people.csv"))
 mtgs <- list.files(pattern="meeting.txt", path="content/meetings", recursive=TRUE, full.names = TRUE)
