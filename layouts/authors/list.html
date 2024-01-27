@@ -29,8 +29,10 @@
       <h3>Annual Meetings</h3>
       <ul>
         {{ range $query }}
+        {{ $link := .RelPermalink}}
+        {{ if eq .Type "role" }} {{ $link = .Parent.RelPermalink }} {{ end }}
         <li>
-          {{ (time .Date).Year }}: <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+          {{ (time .Parent.Date).Year }}: <a href="{{ $link }}">{{ .Title }}</a>
         </li>
         {{ end }}
       </ul>
