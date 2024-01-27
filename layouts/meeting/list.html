@@ -101,7 +101,8 @@
     <div class="article-style">{{ . }}</div>
   {{ end }}
 
-  {{ range (.Pages.GroupByDate "2006-01-02").Reverse }}
+  {{ $query := where .Pages  ".Type" "ne" "role" }}
+  {{ range ($query.GroupByDate "2006-01-02").Reverse }}
     <p><strong>{{ time.Format "Monday, January 2, 2006" (time .Key) }}</strong></p>
     <div class="schedule">
       {{ range $index, $item := .Pages.Reverse }}
