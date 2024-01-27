@@ -89,6 +89,12 @@ read_meeting <- function(file, namelist, verbose=TRUE) {
   if(!is.null(out[[1]]$yaml$participants)) {
     participants <- out[[1]]$yaml$participants |> find_authors(namelist)
     out[[1]]$yaml$participants <- participants$display
+    yi <- list(file="participants",
+               yaml=list(title="Participant", 
+                         authors=participants$code, 
+                         authorlist=participants$display,
+                         date=out[[1]]$yaml$date, date_end=out[[1]]$yaml$date_end, type="role"))
+    out <- c(out, list(yi))
   }
   if(!is.null(out[[1]]$yaml$leadership)) {
     leadership <- out[[1]]$yaml$leadership |> map(bind_rows) |> bind_rows() |>
@@ -96,6 +102,12 @@ read_meeting <- function(file, namelist, verbose=TRUE) {
       mutate(n=n(), file=if_else(n>1, paste0(file, 1:n()), file), .by=file) |> select(-n) |>
       mutate(map(who, \(x) find_authors(x, namelist) |> map(unlist) |> bind_rows()) |> bind_rows())
     out[[1]]$yaml$leadership <- leadership |> select(role, who=display) |> purrr::transpose()
+    yi <- leadership |> mutate(authors=map(code, list), authorlist=map(display, list)) |>
+      select(file, title=role, authors, authorlist) |> 
+      mutate(date=out[[1]]$yaml$date, date_end=out[[1]]$yaml$date_end, type="role") |>
+      purrr::transpose() |>
+      map(\(x) list(file=x$file, yaml=list_modify(x, file=zap())))
+    out <- c(out, yi)
   }
   out
 }
@@ -106,6 +118,8 @@ write_meeting <- function(m, outdir, verbose=TRUE) {
     x <- m[[idx]]
     if(idx==1) {
       file <- "_index"
+    } else if(!is.null(x$file)) {
+      file <- x$file
     } else {
       file <- x$yaml$date |> str_remove_all("[-: ]") |> str_replace("T", "_") |> str_remove("00$")
     }
