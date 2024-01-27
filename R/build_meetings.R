@@ -86,21 +86,13 @@ read_meeting <- function(file, namelist, verbose=TRUE) {
     fill_dates() |>
     lapply(add_authors, namelist) |>
     add_types()
-  if(!is.null(out[[1]]$yaml$participants)) {
-    participants <- out[[1]]$yaml$participants |> find_authors(namelist)
-    out[[1]]$yaml$participants <- participants$display
-    yi <- list(file="participants",
-               yaml=list(title="Participant", 
-                         authors=participants$code, 
-                         authorlist=participants$display,
-                         date=out[[1]]$yaml$date, date_end=out[[1]]$yaml$date_end, type="role"))
-    out <- c(out, list(yi))
-  }
+  presenters <- map(out[-1], \(x) x$yaml$authors) |> unlist() |> unname()
   if(!is.null(out[[1]]$yaml$leadership)) {
     leadership <- out[[1]]$yaml$leadership |> map(bind_rows) |> bind_rows() |>
       mutate(file=role |> str_remove("[^A-Za-z]") |> tolower()) |>
       mutate(n=n(), file=if_else(n>1, paste0(file, 1:n()), file), .by=file) |> select(-n) |>
       mutate(map(who, \(x) find_authors(x, namelist) |> map(unlist) |> bind_rows()) |> bind_rows())
+    presenters <- c(presenters, leadership$code)
     out[[1]]$yaml$leadership <- leadership |> select(role, who=display) |> purrr::transpose()
     yi <- leadership |> mutate(authors=map(code, list), authorlist=map(display, list)) |>
       select(file, title=role, authors, authorlist) |> 
@@ -108,6 +100,16 @@ read_meeting <- function(file, namelist, verbose=TRUE) {
       purrr::transpose() |>
       map(\(x) list(file=x$file, yaml=list_modify(x, file=zap())))
     out <- c(out, yi)
+  }
+  if(!is.null(out[[1]]$yaml$participants)) {
+    participants <- out[[1]]$yaml$participants |> find_authors(namelist)
+    out[[1]]$yaml$participants <- participants$display
+    yi <- list(file="participants",
+               yaml=list(title="Participant", 
+                         authors=setdiff(participants$code, presenters),
+                         authorlist=participants$display,
+                         date=out[[1]]$yaml$date, date_end=out[[1]]$yaml$date_end, type="role"))
+    out <- c(out, list(yi))
   }
   out
 }
