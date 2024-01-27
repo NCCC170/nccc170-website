@@ -22,7 +22,7 @@
 
     {{ $Pages := where .Pages ".IsNode" false }}
 
-    {{ $query := where $Pages ".Type" "eq" "meetings" }}
+    {{ $query := where $Pages ".Type" "in" (slice "meetings" "role") }}
     {{ $count := len $query }}
     {{ if $count }}
     <div class="article-widget content-widget-hr">
@@ -37,7 +37,7 @@
     </div>
     {{ end }}
 
-    {{ $query := where $Pages ".Type" "ne" "meetings"}}
+    {{ $query := where $Pages ".Type" "not in" (slice "meetings" "role") }}
     {{ $count := len $query }}
     {{ if $count }}
     <div class="article-widget content-widget-hr">
