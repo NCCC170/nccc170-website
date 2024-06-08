@@ -1,6 +1,6 @@
 ---
-first_name: Raul
+first_name: Raúl
 last_name: Macchiavelli
-title: Raul Macchiavelli
+title: Raúl Macchiavelli
 superuser: no
 ---

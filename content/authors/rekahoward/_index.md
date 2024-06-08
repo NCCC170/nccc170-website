@@ -1,7 +1,7 @@
 ---
-first_name: Reka
+first_name: Réka
 last_name: Howard
-title: Reka Howard
+title: Réka Howard
 role: Associate Professor of Statistics
 organizations:
 - name: University of Nebraska - Lincoln
