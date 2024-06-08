@@ -130,6 +130,7 @@ write_meeting <- function(m, outdir, verbose=TRUE) {
 }
 
 people <- read_authors(here::here("R", "people.csv"))
+people <- rbind(people |> mutate(name=toupper(name)), people)
 mtgs <- list.files(pattern="meeting.txt", path="content/meetings", recursive=TRUE, full.names = TRUE)
 for(path1 in dirname(mtgs)) {
   file.remove(list.files(path1, pattern="*.md", full.names = TRUE))
