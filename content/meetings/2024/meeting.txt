@@ -11,4 +11,92 @@ leadership:
   who: Kathy Yeater
 
 date: 2024-06-13
+
+time: 8:00a Registration, check-in, coffee, juice, snacks
+
+time: 8:45a
+title: Welcome
+authors: RAÚL E. MACCHIAVELLI, Dean and Director, College of Agricultural Sciences, University of Puerto Rico, Mayagüez, PR
+
+time: 9:00a
+title: Quantifying evidence for the omnigenic genetic architecture through a simulation study.
+authors: ALEX LIPKA, Dept. of Crop Sciences, University of Illinois, Urbana-Champaign, IL 
+---
+Typical GWAS and GS statistical models make assumptions on genetic architecture that were derived from RA Fisher’s milestone 1918 paper. Empirical findings from GWAS and GS support these assumptions, namely that gene effect sizes underlying complex traits become infinitesimally small and that the resulting genetic value converges to a normal distribution. The omnigenic model of Boyle et al. (2017) and Liu et al. (2019) is a prominent example of how findings in molecular and functional biology that have occurred since 1918 can be incorporated into the established framework of complex genetic architecture. This model partitions genes underlying complex traits into a core set that directly controls the trait and a peripheral set that indirectly controls a trait through trans regulation. A refinement of the omnigenic model from Mathieson (2021) postulates that for a given trait, core gene effects are the same across subpopulations, while peripheral gene effect networks change across subpopulations. We hypothesize is that the omnigenic model accurately depicts the genetic architecture across subpopulations. Therefore, the purpose of this ongoing work is to explore how genetic architecture evolves across subpopulations. We are conducting a forward-in-time simulation study to simulate three divergent breeding programs, and then study the evolution of trait genetic architecture. For each generation, traits that are dependent upon additive and epistatic effects of core and peripheral genes are being simulated. The population variances of these effects vary according to a 3x4x4x4 factorial experiment. A combination of GWAS results, variance component estimates, and predictive abilities from multiple genomic prediction models will be used to evaluate the results of this factorial experiment. If this simulation study suggests that the omnigenic model is an accurate depiction of cross-subpopulation genetic architecture, then GWAS and GS models that incorporate features of this model should become more widely used in practice. Such models could result in a refined understanding of genetic architecture and could help optimize breeding values on a species-wide basis. 
+
+time: 9:40a
+title: Exploring the options for quantifying uncertainty in derivatives of splines
+authors:
+- QUENTIN D. READ, USDA Agricultural Research Service, Raleigh, NC
+- Fred Breidt, USDA Agricultural Research Service and Dept. of Food, Bioprocessing, and Nutrition Sciences, North Carolina State University, Raleigh, NC.
+
+---
+Generalized additive mixed models (GAMMs) are a powerful tool for flexibly fitting time series data with both fixed and random effects. WE can use semiparametric GAMMs to make inference about bacterial growth curves that may not play well with fully parametric growth equations. Here, we fit GAMMs to growth trends of a probiotic bacterium found in fermented foods (Lactiplantibacillus pentosus) on cucumber juice medium. These data were collected to address a debate about whether estimates of bacterial growth parameters measured from optical density on microtiter plates are dependent on initial cell density. The growth parameters estimated include maximum relative growth rate, maximum biomass, and lag time, which require us to estimate the first derivatives of the GAMM splines and to quantify their uncertainty. We present a fully Bayesian approach and a hybrid frequentist-Bayesian approach in which the model is fit using maximum likelihood and posterior draws are simulated using a multivariate normal approximation. The hybrid frequentist approach produces a simultaneous 95% confidence interval across the domain of the spline and its first derivative. We make inferences about how the growth parameters vary with initial cell density and medium type. Both approaches produce similar results: as initial cell density decreases, estimated maximum growth rate increases, maximum biomass decreases, and lag time either increases or stays constant, depending on medium type. However, the hybrid frequentist approach is computationally much faster. Ultimately, we plan to incorporate it into software that will be used by fermentation scientists.
+
+time: 10:20a Morning break
+
+time: 10:40a
+title: Integrating genomic, weather, and secondary trait data for multiclass classification
+authors: RÉKA HOWARD, Dept. of Statistics, University of Nebraska, Lincoln, NE
+---
+The development of genomic selection (GS) methods has allowed plant breeding programs to select favorable lines using genomic data before performing field trials. Improvements in genotyping technology and automated data collection have enabled scientists to characterize genotypes and phenotypes in more precise ways. However, these technologies are producing high-dimensional data sets which can be difficult to incorporate into statistical models. To leverage the different types and dimensions of data collected for the purpose of predicting desirable phenotypes, we proposed a three-stage classification method for multi-class traits by integrating three data types — genomic, weather, and secondary trait using chickpea data. The classifiers obtained using our method were highly sparse, allowing for a straightforward interpretation of relationships between the response and the selected predictors. 
+
+time: 11:20a
+title: Food insecurity in Puerto Rico
+authors: JULIO CESAR HERNANDEZ, Dept. of Agricultural Economics and Rural Sociology, University of Puerto Rico, Mayagüez
+
+time: 12:00p Lunch
+
+time: 1:15p
+title: A Discrete-Time Zero-inflated Beta Bayesian Model for Disease Prevalence Over Time
+authors:
+- CLARK KOGAN, Department of Pharmaceutical Sciences, Washington State University, Spokane, WA
+- Travis Galoppo, Independent Statistics Consultant, Princeton, NC
+- Lori Gustafson, USDA APHIS Veterinary Services, Center for Epidemiology and Animal Health, Fort Collins, CO
+- Marta Remmenga, USDA APHIS Veterinary Services, Center for Epidemiology and Animal Health, Fort Collins, CO
+---
+Current methods for estimating disease freedom probabilities in aquaculture combine prior disease freedom probability with data likelihood and introduction probability to produce posterior freedom over time. These methods aim to establish freedom from disease above a design prevalence. In this study, we present updates to this methodology that differentiate between absolute freedom (actual zero prevalence) and effective freedom (disease occurring below the design prevalence). We implement these updates using a zero-inflated Beta distribution for both prior prevalence and introduction prevalence at each time step. Additionally, we introduce an assumption of exponential disease progression over time to allow for natural increases. We derive the posterior distribution and validate our methodology through simulation. Our approach offers a more nuanced assessment of disease freedom, enhancing decision-making for aquaculture health management.
+
+time: 1:55p
+title: Systematic Reviews
+authors: BRUCE CRAIG, Dept. of Statistics, Purdue University, West Lafayette, IN
+---
+
+
+time: 2:35p
+title: What is Data? The Statistician’s Role in Data Management Planning 
+authors: SARA DUKE and KATHLEEN YEATER, USDA Agricultural Research Service, Office of the Director, Fort Collins, CO 
+---
+In 2013, the White House Office of Science Technology Policy released a memorandum (Holdren) which mandated increasing access to the results of federally funded research.  Almost 10 years later, Dr. Alondra Nelson (Acting Director, OSTP) updated the memo to reflect “all peer-reviewed scholarly publications authored or co-authored by individuals or institutions resulting from federally funded research are made freely available and publicly accessible by default in agency-designated repositories without any embargo or delay after publication.”  As Area Statisticians for the Plains Area in the USDA/ARS, we were tasked to lead our scientists in embracing and moving towards an Open Access environment.  Data Management Best Practices is a tenet of OA, one which many of us learn by doing, but there are foundational rules and principles with which many scientists struggle. In this presentation, we will describe our communication and training strategy with ARS scientists to set them on an efficient path towards data sharing.  
+
+time: 3:15p Break
+
+
+time: 3:30p
+title: Statistical consulting training in academia
+authors: RÉKA HOWARD, Dept. of Statistics, University of Nebraska, Lincoln, NE
+---
+Statistical consulting plays a critical role in advancing research and decision-making, so it is important to provide quality training to students and statisticians in this area to ensure competence, credibility, and ethical standard. In my presentation, I provide a detailed overview of the structured consulting courses provided by the Department of Statistics at University of Nebraska – Lincoln, along with the consulting activities available to master’s and PhD students. Following the presentation, the session will invite open discussions regarding consulting education in academia, emphasizing challenges and collaborative strategies to enhance students’ development into proficient statistical consultants.
+
+time: 4:10p Open Discussion
+
+time: 4:30p Adjourn
+
+
 date: 2024-06-14
+
+time: 9:00a
+title: "What SAS and R software users need to know about GLMMs: an example-driven discussion"
+authors:
+- NORA M. BELLO, USDA Agricultural Research Service, Northeast Area, Beltsville, MD
+- WALTER STROUP, Dept. of Statistics, University of Nebraska, Lincoln, NE
+- RAÚL MACCHIAVELLI, College of Agricultural Sciences, University of Puerto Rico, Mayagüez, PR
+- BRUCE CRAIG, Dept. of Statistics, Purdue University, West Lafayette, IN
+- MARINA PTUKHINA, Dept. of Statistics, Whitman College, Walla Walla, WA
+- JULIE COUTON, Loop Returns
+
+---
+This group discussion will target conceptual and methodological best practices that users of generalized linear mixed models (GLMM) should know and address appropriately, regardless of choice of software platform. Using an example driven approach, we further describe software implementation of GLMMs in SAS and R. We present differential capabilities of these software platforms to address specific GLMM issues (to the best of our abilities). Last, we invite contributions from R-literate readers. 
+
+time: 10:30a NCCC-170 Business meeting
+time: 12:00p Lunch
