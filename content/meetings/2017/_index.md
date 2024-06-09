@@ -23,8 +23,8 @@ participants:
   mention_name "williambridges" "William Bridges" %}} (SC), {{% mention_name "susandurham"
   "Susan Durham" %}} (UT), {{% mention_name "nicholaskeuler" "Nick Keuler" %}} (WI),  {{%
   mention_name "saraduke" "Sara Duke" %}} (USDA-ARS), {{% mention_name "larrymadden"
-  "Larry Madden" %}} (OH), {{% mention_name "phildixon" "Philip Dixon" %}} (IA), {{%
-  mention_name "aaronrendahl" "Aaron Rendahl" %}} (MN), {{% mention_name "raulmacchiavelli"
+  "Larry Madden" %}} (OH), {{% mention_name "philipdixon" "Philip Dixon" %}} (IA),
+  {{% mention_name "aaronrendahl" "Aaron Rendahl" %}} (MN), {{% mention_name "raulmacchiavelli"
   "Raul Macchiavelli" %}} (PR),  {{% mention_name "brucecraig" "Bruce Craig" %}} (IN,
   Admin.), {{% mention_name "edwardgbur" "Ed Gbur" %}} (AR)'
 - 'OTHERS: Kelci Miclaus (SAS), Jason Osborne (NC), Brian Rice (IL), Esperanza Shenstone

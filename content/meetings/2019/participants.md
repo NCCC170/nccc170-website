@@ -29,7 +29,7 @@ authorlist:
 - 'Back row: Debra Palmquist (USDA-ARS), {{% mention_name "johnstevens" "John Stevens"
   %}} (UT), Kathryn Goode (IA), {{% mention_name "edzardvansanten" "Edzard van Santen"
   %}} (FL),  {{% mention_name "larrymadden" "Larry Madden" %}} (OH), {{% mention_name
-  "phildixon" "Philip Dixon" %}} (IA), {{% mention_name "roberttempelman" "Rob Tempelman"
+  "philipdixon" "Philip Dixon" %}} (IA), {{% mention_name "roberttempelman" "Rob Tempelman"
   %}} (MI), {{% mention_name "neilpaton" "Neil Paton" %}} (Cargill)'
 - 'Not depicted: {{% mention_name "carlagoad" "Carla Goad" %}} (OK), {{% mention_name
   "lindayoung" "Linda Young" %}} (USDA-NASS)'

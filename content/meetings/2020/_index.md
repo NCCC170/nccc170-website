@@ -13,7 +13,7 @@ participants:
 - '{{% mention_name "carlagoad" "Carla Goad" %}}'
 - '{{% mention_name "dannettleton" "Dan Nettleton" %}}'
 - '{{% mention_name "williambridges" "William Bridges" %}}'
-- '{{% mention_name "phildixon" "Philip Dixon" %}}'
+- '{{% mention_name "philipdixon" "Philip Dixon" %}}'
 - '{{% mention_name "guilhermerosa" "Guilherme Rosa" %}}'
 - '{{% mention_name "saraduke" "Sara Duke" %}}'
 - '{{% mention_name "lindayoung" "Linda Young" %}}'

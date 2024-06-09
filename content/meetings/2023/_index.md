@@ -32,7 +32,7 @@ participants:
 - '{{% mention_name "raulmacchiavelli" "Raul Macchiavelli" %}}'
 - '{{% mention_name "nicholaskeuler" "Nick Keuler" %}}'
 - '{{% mention_name "brucecraig" "Bruce Craig" %}}'
-- '{{% mention_name "phildixon" "Philip Dixon" %}}'
+- '{{% mention_name "philipdixon" "Philip Dixon" %}}'
 - '{{% mention_name "jpiaskowski" "Julia Piaskowski" %}} (not pictured)'
 date: '2023-06-15'
 date_end: '2023-06-16'

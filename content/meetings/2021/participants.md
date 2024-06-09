@@ -3,7 +3,7 @@ title: Participant
 authors:
 - brucecraig
 - xindai
-- phildixon
+- philipdixon
 - saraduke
 - susandurham
 - edwardgbur
@@ -27,7 +27,7 @@ authors:
 authorlist:
 - 'Members Present: {{% mention_name "norabello" "Nora Bello" %}} (KS), {{% mention_name
   "brucecraig" "Bruce Craig" %}} (IN, Admin.), {{% mention_name "xindai" "Xin Dai"
-  %}} (UT), {{% mention_name "phildixon" "Philip Dixon" %}} (IA), {{% mention_name
+  %}} (UT), {{% mention_name "philipdixon" "Philip Dixon" %}} (IA), {{% mention_name
   "saraduke" "Sara Duke" %}} (USDA-ARS), {{% mention_name "susandurham" "Susan Durham"
   %}} (UT), {{% mention_name "edwardgbur" "Ed Gbur" %}} (AR), {{% mention_name "carlagoad"
   "Carla Goad" %}} (OK), {{% mention_name "kathyhanford" "Kathy Hanford" %}} (NE),
