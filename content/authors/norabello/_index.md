@@ -2,10 +2,10 @@
 first_name: Nora M.
 last_name: Bello
 title: Nora M. Bello
-role: Professor of Systems Modeling and Statistics, Department of Animal Science
+role: Statistician
 organizations:
-- name: The Ohio State University
-  url: https://www.osu.edu/
+- name: USDA Agricultural Research Service
+  url: https://www.ars.usda.gov/
 education:
   courses:
   - course: PhD Animal Science
@@ -22,10 +22,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:bello.69@osu.edu
+  link: mailto:nora.bello@usda.gov
 - icon: globe
   icon_pack: fas
-  link: https://ansci.osu.edu/our-people/nora-m-bello-phd-dvm
+  link: https://www.ars.usda.gov/northeast-area/people/nora-m-bello/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=J70khoAAAAAJ&hl=en&oi=ao
