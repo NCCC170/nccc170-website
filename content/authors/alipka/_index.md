@@ -2,7 +2,7 @@
 first_name: Alex
 last_name: Lipka
 title: Alex Lipka
-role: Associate Professor of BIometry
+role: Associate Professor of Biometry
 organizations:
 - name: University of Illinois
   url: https://cropsciences.illinois.edu/directory/alipka
