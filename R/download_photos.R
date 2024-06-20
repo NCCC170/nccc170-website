@@ -15,6 +15,8 @@ img <- googledrive::drive_ls(googledrive::as_id(roster_photos_id)) |>
 apath <- "content/authors"
 img_use <- img |> filter(file.exists(file.path(apath, name)))
 
+img_use <- img |> filter(!file.exists(file.path(apath, name, "avatar.jpg")))
+
 ## download the photo if there is one
 for(idx in seq_len(nrow(img_use))) {
   code <- img_use$name[idx]
