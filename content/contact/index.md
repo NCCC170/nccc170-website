@@ -2,7 +2,7 @@
 title: Contact
 contact:
 - who: Nora Bello
-  email: "bello.69@osu.edu"
+  email: "nora.bello@usda.gov"
 - who: Bruce Craig
   email: "bacraig@purdue.edu"
 type: contact
