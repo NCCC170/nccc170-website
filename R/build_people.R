@@ -49,6 +49,7 @@ yaml1 <- function(a, user_groups) {
   if(length(soc)>0) out <- c(out, list(social=soc))
   
   ints <- str_split(a$Interests, "; *")[[1]] |> setdiff(c(NA, ""))
+  if(length(ints)==1) ints <- list(ints)
   if(length(ints)>0) out <- c(out, list(interests=ints))
 
   if(!missing(user_groups) && a$Code %in% user_groups$Code) {
