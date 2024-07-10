@@ -8,7 +8,12 @@ leadership:
 - role: Site Host
   who: Raul Macchiavelli, University of Puerto Rico at Mayagüez
 - role: Program Chair
-  who: Kathy Yeater
+  who: Kathy Yeater, USDA Agricultural Research Service
+participants:
+- "Standing: Simon Riley, Julia Piaskowski, Guilherme Rosa, Quentin Read, Rob Tempelman, Carla Goad, Phil Dixon, Bruce Craig, Kathy Yeater, Nick Keuler, Reka Howard, Neil Paton, Raul Macchiavelli, Conor Fair"
+- "Kneeling: Susan Durham, Nora Bello, Josefina Lacasa, Xin Dai"
+- "Zoom: Dan Palmer, Alex Lipka, Walt Stroup, Dan Runcie, Samuel Fernandes"
+- "Not pictured: Clark Kogan"
 
 date: 2024-06-13
 
