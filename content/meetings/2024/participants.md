@@ -25,10 +25,11 @@ authorlist:
 - 'Kneeling: {{% mention_name "susandurham" "Susan Durham" %}}, {{% mention_name "norabello"
   "Nora Bello" %}}, {{% mention_name "josefinalacasa" "Josefina Lacasa" %}}, {{% mention_name
   "xindai" "Xin Dai" %}}'
-- 'Zoom: Dan Palmer, {{% mention_name "alipka" "Alex Lipka" %}}, {{% mention_name
+- 'Zoom: Daniel Palmer, {{% mention_name "alipka" "Alex Lipka" %}}, {{% mention_name
   "walterstroup" "Walt Stroup" %}}, {{% mention_name "danielruncie" "Dan Runcie" %}},
   {{% mention_name "samuelfernandes" "Samuel Fernandes" %}}'
-- 'Not pictured: {{% mention_name "clarkkogan" "Clark Kogan" %}}'
+- 'Not pictured: {{% mention_name "saraduke" "Sara Duke" %}}, {{% mention_name "clarkkogan"
+  "Clark Kogan" %}}'
 date: '2024-06-13'
 date_end: '2024-06-14'
 type: role

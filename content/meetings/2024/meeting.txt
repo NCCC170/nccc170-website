@@ -12,8 +12,8 @@ leadership:
 participants:
 - "Standing: Simon Riley, Julia Piaskowski, Guilherme Rosa, Quentin Read, Rob Tempelman, Carla Goad, Phil Dixon, Bruce Craig, Kathy Yeater, Nick Keuler, Reka Howard, Neil Paton, Raul Macchiavelli, Conor Fair"
 - "Kneeling: Susan Durham, Nora Bello, Josefina Lacasa, Xin Dai"
-- "Zoom: Dan Palmer, Alex Lipka, Walt Stroup, Dan Runcie, Samuel Fernandes"
-- "Not pictured: Clark Kogan"
+- "Zoom: Daniel Palmer, Alex Lipka, Walt Stroup, Dan Runcie, Samuel Fernandes"
+- "Not pictured: Sara Duke, Clark Kogan"
 
 date: 2024-06-13
 
