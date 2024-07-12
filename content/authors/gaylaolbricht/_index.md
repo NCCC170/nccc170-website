@@ -26,7 +26,7 @@ social:
   link: https://scholar.google.com/citations?user=dV0N0U0AAAAJ&hl=en&inst=15611845720231691803
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/gayla-olbricht-7b3a5b9/
+  link: https://www.linkedin.com/in/gayla-r-olbricht-7b3a5b9
 interests:
 - Statistical Genomics
 user_groups:
