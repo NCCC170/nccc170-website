@@ -1,5 +1,7 @@
+library(conflicted)
 library(tidyverse)
 library(yaml)
+conflicts_prefer(dplyr::filter)
 source(here::here("R", "find_authors.R"))
 
 ## helper function to create a directory if it doesn't exist

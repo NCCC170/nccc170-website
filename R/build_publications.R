@@ -1,4 +1,6 @@
+library(conflicted)
 library(tidyverse)
+conflicts_prefer(dplyr::filter)
 source(here::here("R", "find_authors.R"))
 
 people <- read_authors(here::here("R", "people.csv"))
