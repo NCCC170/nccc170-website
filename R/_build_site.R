@@ -1,3 +1,5 @@
+## to update copyright year, edit config/_default/params.yaml
+
 ## if running the server, best to stop before rebuilding the site
 blogdown::stop_server()
 
