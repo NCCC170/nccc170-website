@@ -104,7 +104,7 @@ authors:
 This group discussion will target conceptual and methodological best practices that users of generalized linear mixed models (GLMM) should know and address appropriately, regardless of choice of software platform. Using an example driven approach, we further describe software implementation of GLMMs in SAS and R. We present differential capabilities of these software platforms to address specific GLMM issues (to the best of our abilities). Last, we invite contributions from R-literate readers. 
 
 time: 10:30a
-title: NCCC-170 Business meeting
+title: NCCC170 Business meeting
 ---
 *Announcements:*
 
@@ -121,7 +121,7 @@ https://docs.google.com/document/d/1h0nHgxMXOmNhnGKfKlsIWeGElB2v_kmI7851xzRfP8U/
 *Old Business:*
 
 4. Refresher/review of objectives for the current 2021-2026 project as per NIMSS. See https://nimss.org/projects/view/mrp/outline/18798
-5. NCCC-170 website up and running: http://www.nccc170.org
+5. NCCC170 website up and running: http://www.nccc170.org
     + Thanks to Jarad Niemi and Aaron Rendahl
     + Reminder: Profile setup for current and retired members
         + Coordinated by Aaron Rendahl. See instructions in email dated 06/07/24.

@@ -47,7 +47,7 @@ authors_display:
 - Mark West
 - '{{% mention_name "mattkramer" "Matthew Kramer" %}}'
 ---
-<i>Analysis of Generalized Linear Mixed Models in the Agricultural and Natural Resources Sciences</i> was written by members of NCCC-170 as part of the project’s educational outreach. The authors were Edward Gbur, Walter Stroup, Kevin McCarter, Susan Durham, Linda Young, Mary Christman, Mark West and Matthew Kramer. The book was published in 2012 by the American Society of Agronomy.
+<i>Analysis of Generalized Linear Mixed Models in the Agricultural and Natural Resources Sciences</i> was written by members of NCCC170 as part of the project’s educational outreach. The authors were Edward Gbur, Walter Stroup, Kevin McCarter, Susan Durham, Linda Young, Mary Christman, Mark West and Matthew Kramer. The book was published in 2012 by the American Society of Agronomy.
 
 ## Data Files for Selected Examples
 
