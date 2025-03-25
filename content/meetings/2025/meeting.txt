@@ -1,0 +1,17 @@
+title: 2025 NCCC170 Annual Meeting
+location: University of Idaho
+address:
+  city: Moscow
+  region: Idaho
+  postcode: '83844'
+leadership:
+- role: Site Host
+  who: Julia Piaskowski, University of Idaho
+- role: Program Chair
+  who: Conor Fair, University of Georgia
+--- 
+
+[NIMMS Meeting Authorization](https://nimss.org/meetings/52849)
+
+date: 2025-06-05
+date: 2025-06-06
