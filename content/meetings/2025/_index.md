@@ -44,9 +44,15 @@ The week of the NCCC170 also coincides with the annual statewide FFA convention,
 
 ### Potential Wednesday plans  (day and evening)
 
-I would like to invite people to join me on a jet boat tour of the Snake River Wednesday, June 4th. This starts at 8 am, takes 4 hours and will cost $196 per person. It is a beautiful trip through Idaho’s gorgeous Hells Canyon, and a bit of wild ride (watch [their video](https://snakeriveradventures.com/wp-content/uploads/2021/02/Snake-River-Adventures-Clips.mp4) to see what I mean). Since it is an extra-curricular activity, you each need to make your reservations directly with the company, [Snake River Adventures](https://snakeriveradventures.com/).
+I would like to invite people to join me on a jet boat tour of the Snake River Wednesday, June 4th. This starts at 8 am, takes 4 hours and will cost $196 per person. It is a beautiful trip through Idaho’s gorgeous Hells Canyon, and a bit of wild ride (watch [their video](https://snakeriveradventures.com/wp-content/uploads/2021/02/Snake-River-Adventures-Clips.mp4) below to see what I mean). Since it is an extra-curricular activity, you each need to make your reservations directly with the company, [Snake River Adventures](https://snakeriveradventures.com/).
 
 We will also hold an evening dinner Wednesday, June 4th, at Bill Price’s house in Deary, Idaho. 
+
+<div class="container" align="center">
+<iframe class="responsive-iframe" width=420 height=238
+  src="https://snakeriveradventures.com/wp-content/uploads/2021/02/Snake-River-Adventures-Clips.mp4">
+</iframe>
+</div>
 
 
 ### Air Transportation
