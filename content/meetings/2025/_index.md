@@ -22,7 +22,7 @@ view: schedule
 The meeting will be held on June 5–6, 2025, at the University of Idaho, Moscow, Idaho.
 See the [NIMMS Meeting Authorization](https://nimss.org/meetings/52849).
 
-The week of the NCCC-170 meeting coincides with the annual statewide FFA convention so housing will be tight. Reservations should be made promptly. 
+The week of the NCCC170 meeting coincides with the annual statewide FFA convention so housing will be tight. Reservations should be made promptly. 
 
 The information below now has a hotel reservation link. Please book by May 23, 2025 to receive the group rate. Also below is information on:
  1. Information on several hotels in the area (including the main one with a small block of rooms)
@@ -35,12 +35,12 @@ The information below now has a hotel reservation link. Please book by May 23, 2
 
 *There are several within a 30-minute walk (or less) from campus:* 
 
-* [Fairfield Inn & Suites by Marriott](https://www.marriott.com/en-us/hotels/puwfi-fairfield-inn-and-suites-moscow/overview/) – Newest and quite nice, very close to campus and affordable. We have a small block of rooms reserved for NCCC-170 for ($170 – this is coincidental). [Reservation Link](https://www.marriott.com/event-reservations/reservation-link.mi?guestreslink2=true&id=1740697332321&key=GRP)
+* [Fairfield Inn & Suites by Marriott](https://www.marriott.com/en-us/hotels/puwfi-fairfield-inn-and-suites-moscow/overview/) – Newest and quite nice, very close to campus and affordable. We have a small block of rooms reserved for NCCC170 for ($170 – this is coincidental). [Reservation Link](https://www.marriott.com/event-reservations/reservation-link.mi?guestreslink2=true&id=1740697332321&key=GRP)
 * [Best Western Plus University Inn](https://www.bestwestern.com/en_US/book/hotels-in-moscow/best-western-plus-university-inn/propertyCode.13035.html) – fanciest, probably the most family friendly (has a pool), close to campus
 * [The Monarch Motel](http://moscowmonarch.com/) – hipster hotel, great downtown location, fun vibe, close to campus
 * [FairBridge Inn & Suites](https://fairbridgeinns.com/hotel/moscow-pullman-idaho) – recently renovated/rebranded, also close to campus
 
-The week of the NCCC-170 also coincides with the annual statewide FFA convention, so housing will be very tight. Please make your housing reservations soon! 
+The week of the NCCC170 also coincides with the annual statewide FFA convention, so housing will be very tight. Please make your housing reservations soon! 
 
 ### Potential Wednesday plans  (day and evening)
 
