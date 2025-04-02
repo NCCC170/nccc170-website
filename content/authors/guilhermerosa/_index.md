@@ -17,9 +17,13 @@ social:
   link: mailto:grosa@wisc.edu
 - icon: globe
   icon_pack: fas
-  link: www.gjmrosa.org
+  link: https://rosalab.cals.wisc.edu/
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-9172-6461
 interests:
 - Quantitative Genetics and Genomics
+- Precision Agriculture
 user_groups:
 - Members
 superuser: no
