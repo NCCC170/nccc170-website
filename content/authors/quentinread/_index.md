@@ -31,8 +31,10 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/quentin-read-314077143/
 interests:
-- Bayesian statistics, reproducibility, generalized linear mixed models, generalized
-  additive mixed models
+- Bayesian statistics
+- reproducibility
+- generalized linear mixed models
+- generalized additive mixed models
 user_groups:
 - Members
 superuser: no
