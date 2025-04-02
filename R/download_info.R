@@ -11,7 +11,9 @@ conflicts_prefer(dplyr::filter)
 roster_google_id <- "1NNMWOoCZCW4COgzmy13xn-JzqD_g5DqAhahL3BnqQv8"
 
 ## read google sheet, fix names, and prep Email column
-d0 <- googlesheets4::read_sheet(roster_google_id, skip=1)
+d0 <- bind_rows(googlesheets4::read_sheet(roster_google_id, sheet=1, skip=1),
+                googlesheets4::read_sheet(roster_google_id, sheet=2, skip=1)) |>
+  arrange(str_to_upper(Last), str_to_upper(First))
 d <- d0 |> 
   rename_with(str_replace_all, pattern="[ ?]", replacement="") |>
   mutate(DisplayEmail=DisplayEmail |> na_if("No"),
