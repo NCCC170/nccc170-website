@@ -2,7 +2,7 @@
 first_name: Nora M.
 last_name: Bello
 title: Nora M. Bello
-role: Statistician
+role: Area Statistician
 organizations:
 - name: USDA Agricultural Research Service
   url: https://www.ars.usda.gov/
