@@ -41,7 +41,7 @@ publishDate: '2018-01-05T00:00:00Z'
 tags: []
 authors:
 - brucecraig
-- phildixon
+- philipdixon
 - edwardgbur
 - kenkoehler
 - dannettleton
@@ -65,7 +65,7 @@ authors:
 - kathyyeater
 authors_display:
 - '{{% mention_name "brucecraig" "Bruce Craig" %}}'
-- '{{% mention_name "phildixon" "Philip Dixon" %}}'
+- '{{% mention_name "philipdixon" "Philip Dixon" %}}'
 - '{{% mention_name "edwardgbur" "Edward E. Gbur" %}}'
 - '{{% mention_name "kenkoehler" "Kenneth J. Koehler" %}}'
 - '{{% mention_name "dannettleton" "Dan Nettleton" %}}'
