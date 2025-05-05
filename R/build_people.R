@@ -67,7 +67,8 @@ yaml1 <- function(a, user_groups) {
 d <- read_csv(here::here("R", "people.csv"))
 
 groups <- local({
-  has_profile <- d$Code[!is.na(d$Title)]
+  ## ONLY INCLUDE ON WEB SITE IF HAS EITHER "Title" or "Education 1"
+  has_profile <- d$Code[!is.na(d$Title) | !is.na(d$Education1)]
   heads <- c("norabello", "brucecraig")
   members <- setdiff(has_profile, heads)
   bind_rows(tibble(Group="Heads", Code=heads),
