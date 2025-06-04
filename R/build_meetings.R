@@ -138,4 +138,6 @@ for(path1 in dirname(mtgs)) {
   file.remove(list.files(path1, pattern="*.md", full.names = TRUE))
   m <- read_meeting(file.path(path1, "meeting.txt"), namelist=people)
   write_meeting(m, path1)
+  extra <- setdiff(list.files(path1, pattern="*.txt"), "meeting.txt")
+  file.copy(file.path(path1, extra), file.path(path1, str_replace(extra, "txt$", "md")))
 }
