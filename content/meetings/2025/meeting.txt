@@ -1,0 +1,186 @@
+title: 2025 NCCC170 Annual Meeting
+location: University of Idaho
+address:
+  city: Moscow
+  region: Idaho
+  postcode: '83844'
+leadership:
+- role: Site Host
+  who: Julia Piaskowski, University of Idaho
+- role: Program Chair
+  who: Conor Fair, University of Georgia
+
+date: 2025-06-05
+
+time: 8:00a Registration, check-in, coffee
+
+time: 8:50a
+title: Welcome to NCCC170 2025
+authors: Julia Piaskowski, Director of Statistical Programs, College of Agricultural and Life Sciences, University of Idaho, Moscow, ID
+
+time: 9:00a
+title: Introductions to University of Idaho Agricultural Experiment Station
+authors: Matt Powell, Interim Associate Dean of Research & Director of Idaho Agricultural Experiment Station, University of Idaho, Moscow, ID
+
+time: 9:10a
+title: Improving interpretability in machine learning using confidence intervals in ALE plots
+authors:
+- John Stevens, Department of Math and Statistics Utah State University, Logan, UT
+- Matthew Lister, Utah State University and Space Dynamics Laboratory, Logan, UT,
+---
+Machine learning models that predict a response based on a collection of predictor variables usually do not provide simple numeric summaries of predictor effects and so are often referred to as black box models. Accumulated local effects (ALE) plots have been developed to allow visual interpretability of predictor effects in such black box models. We present R package AleCI, which improves the original ALE implementation by adding a bootstrapped confidence interval around each prediction showing the range where the true value of the predictor’s effect should exist, for categorical as well as continuous predictors. AleCI is applicable across a variety of machine learning models and updates the graphing capabilities of the original implementation by using ggplot2.
+
+time: 9:40a
+title: Goodhardt’s law and plant breeding. Is cross-validation misleading about the success of genomic prediction?
+authors: Daniel E. Runcie, Department of Plant Sciences, University of California – Davis, Davis, CA
+---
+Goodhart’s law says that "when a measure becomes a target, it ceases to be a good measure." Plant breeding aims to increase the genetic value of varieties, and the Breeder’s Equation states that the rate of gain is proportional to the accuracy of selection. In the past two decades, Genomic Prediction has been tested in many plant breeding systems, for many traits, using ever-increasing complexity of statistical models. These models are almost universally evaluated empirically using cross-validation to quantify their accuracy. However, cross-validation can make Genomic Prediction look much better than it really is. I am concerned that our singular focus on accuracy has led to many discoveries of ways to improve accuracy that do not improve genetic gain. I will lay out this argument with preliminary results from a literature survey and simulations. But I also hope for a broader discussion of whether similar issues occur in other areas of applied statistics in agriculture, and how to solve them.
+
+time: 10:10a
+title: Using an extension of fragmentary data analysis methods to predict sex from fragments of bones
+authors:
+- Philip Dixon, Department of Statistics, Iowa State University, Ames, IA
+- Mallory Levens, Department of World Languages and Cultures, Iowa State University, Ames, IA
+- Andrew Somerville. Department of World Languages and Cultures, Iowa State University, Ames, IA
+---
+This project started when an Anthropology student in my methods class asked me to be on her advisory committee. She had bone measurements from individuals recovered in an archeological dig and needed to predict each individual’s sex. Some individuals could be sexed based on other characteristics. Sounds like a straightforward logistic regression problem but it wasn’t straightforward, because many bone measurements were missing. Fragmentary data analysis is a new approach to predict outcomes for all individuals, even those missing some covariate values. However, those methods rely on having many individuals with complete data. Mallory and Andrew’s data had complete data for 3 individuals.
+
+My solution had four components:
+1)	Identify a subset of known-sexed individuals and subset of bone measurements that is complete.
+2)	Use the complete data to fit logistic regressions, one bone at a time, to predict sex 
+3)	Predict the logit probabilities that an individual was female using all possible bones for that individual
+4)	Use model averaging to combine the logit probabilities into a single prediction.
+
+A Bayesian approach was needed because some bones had complete separation of covariate values. This was implemented using rstanarm functions. Predictions generally agreed with the sex of known-sex individuals. When they didn’t, the archeologists had reasons to suspect a mistake in the original sex determination.
+
+time: 10:40a Morning break
+
+time: 11:00a
+title: Leveraging TAPS extension efforts for research purposes – opportunities, and challenges
+authors:
+- Josefina Lacasa, Department of Statistics, Kansas State University, Manhattan, KS
+- Daran Rudnick, Department of Biological and Agricultural Engineering, Kansas State University, Manhattan, KS
+---
+The “Testing Ag Performance Solutions” (TAPS) program is an ongoing nationwide initiative aiming to connect producers, researchers, extensionists, faculty, and industry partners through a farm management competition for testing and demonstrating efficient input management practices. TAPS programs were originally established with an extension mission, and have evolved into a potential platform for applied research. However, the existing treatment allocations within TAPS programs may be suboptimal to address specific research questions. In this talk, we present our initial efforts in leveraging ongoing TAPS programs by augmenting the field trials with additional treatments. We analyze opportunities under the existing practical constraints, and discuss potential limitations to this approach for addressing particular research questions.
+
+time: 11:30a
+title: Comparing the effects of sewage sludge ash and other recycled phosphorus fertilizers on soil quality; a two-way design plus control with several repeated measures
+authors: Aaron Rendahl, Department of Veterinary and Biomedical Sciences, University of Minnesota, Minneapolis, MN
+---
+In this study, I worked with researchers who were studying options for recycled phosphorus fertilizers, with particular interest in sewage sludge ash from the St. Paul Wastewater Treatment Plant. This ash contains significant amounts of phosphorus, which is essential to healthy plant development and is regularly applied in agronomic settings to ensure maximum crop yields. This study was originally developed as a two-way factorial design, with four phosphorus sources and five application rates. Various soil quality parameters were measured multiple times throughout the growing season for three years, and the crop was rotated between corn and soybeans. The initial complication was to realize that because one of the application rates was zero, the design was actually a two-way plus control design. This was made additionally complex because the effect of application rate on soil phosphorus was expected to be linear and so the rate of increase in soil for a given application rate was of interest. Finally, various random effects for repeated measures within each growing season and across years had to be considered.
+
+time: 12:00p Lunch
+
+time: 1:30p
+title: Mixed random forest-based GWAS and a forward-in-time simulation study
+authors: Alexander E. Lipka, Department of Crop Sciences, University of Illinois at Urbana-Champaign, Champaign, IL
+---
+I run a statistical genetics lab at UIUC. My lab seeks to explore how statistical genetics can be optimized to gain a better understanding on the genetic architecture of traits. This could lead to even more efficient applications of genomic prediction to crop breeding programs. In this presentation, I am going to give a progress report on both recently completed on three projects. The first involves using a mixed random forest approach to identify rare variants in a manner that rigorously controls the type I error rate. The second is an update on what I presented last year, namely a study of the omnigenic model of genetic architecture. The third is a completed project in which we use empirical distributions of a measurement of prediction accuracy to identify a set of maize genes that putatively also contribute to phenotypic variance in sorghum. I look forward to your feedback, and would be thrilled to incorporate suggestions into our ongoing work.
+
+time: 2:00p
+title: Best practices for GLMMs with zero-inflation – unique challenges for repeated-measures data and fitting covariates in binary process
+authors:
+- Conor G. Fair, College of Agricultural and Environmental Sciences, University of Georgia, Griffin, GA
+- Julia Piaskowski, Director of Statistical Programs, College of Agricultural and Life Sciences University of Idaho, Moscow, ID
+- Raúl Macchiavelli, College of Agricultural Sciences, University of Puerto Rico, Mayagüez, PR
+- Josefina Lacasa, Department of Statistics, Kansas State University, Manhattan, KS
+- Bruce A. Craig, Department of Statistics, Purdue University, West Lafayette, IN
+- Walter W. Stroup, Department of Statistics, University of Nebraska-Lincoln, Lincoln, NE
+---
+The GLMM working group continues its efforts to compare the implementation of zero-inflation models across SAS and R software platforms with the analysis of this data set where the counts of beneficial insects were measured weekly from sugar beet plots exposed to different insecticidal treatments following a randomized complete block design. SAS uses proc nlmixed to fit zero-inflation models with random effects. However, there are limited capabilities for the covariance structures with nlmixed to model the repeated measures data. We used the R package glmmTMB which allows for flexibility in fitting zero-inflation models with random effects and various covariance structures. Overall, the estimation of covariates in the binary process is prolonged to determine optimal model fit statistics. This must be done iteratively since methods like drop1() function only can be used to test terms in the observed counts data generating process. Furthermore, the value of assessing the impact of the covariates on the probability of observing a zero is likely limited as the zeros are often considered a nuisance in the data or not the primary focus of the analysis.
+
+time: 2:30p
+title: GLMM working group updates and plans to move forward
+authors:
+- Nora M. Bello, United States Department of Agriculture – Agricultural Research Service, Beltsville, MD
+- Walter W. Stroup, Department of Statistics, University of Nebraska-Lincoln, Lincoln, NE
+- Julia Piaskowski, Director of Statistical Programs, College of Agricultural and Life Sciences University of Idaho, Moscow, ID
+- Josefina Lacasa, Department of Statistics Kansas State University, Manhattan, KS
+- Reka Howard, Department of Statistics, University of Nebraska-Lincoln, Lincoln, NE
+- Daniel G. Palmer, StatsCraft, Spokane, WA
+- Quentin D. Read, United States Department of Agriculture – Agricultural Research Service, Beltsville, MD
+- Susan L. Durham, Department of Watershed Sciences and Ecology Center, Utah State University, Logan, UT
+- Conor G. Fair, College of Agricultural and Environmental Sciences, University of Georgia, Griffin, GA
+- Clark Kogan, Department of Pharmaceutical Sciences, Washington State University, Spokane, WA
+- Raúl E. Macchiavelli, College of Agricultural Sciences, University of Puerto Rico, Mayagüez, PR
+- Bruce A. Craig, Department of Statistics, Purdue University, West Lafayette, IN
+---
+Outline: Ongoing work on Best Practices for GLMM Implementation
+
+Objectives of the Session
+I.	Articulate any remaining technical aspects of examples presented at CASANR
+II.	Discuss group’s approach to move advanced examples
+III.	Discuss alternative outlet venues
+IV.	Produce a gameplan for next steps
+
+Agenda items for specific discussion
+I.	Examples presented at CASANR with brief update on state of work
+II.	Examples not presented at CASANR with discussion on future direction for these examples
+III.	Outlet venues for best practices on GLMM implementation
+IV.	Discuss credit allocation
+V.	New interest in joining the GLMM joint effort working group
+
+time: 5:00p Adjourn
+
+
+date: 2025-06-06
+
+time: 9:00a
+title: Residuals and diagnostics for multinomial regression models
+authors: 
+- Bruce A. Craig, Department of Statistics, Purdue University, West Lafayette, IN
+- Eric A.E. Gerber, Khoury College of Computer Science, Northeastern University, Evanston, IL
+---
+Multinomial logistic and other similar regression models have been used to describe multinomial data in applications ranging from modeling the human microbiome to modeling outcomes in sports. Though much work has been done on model diagnostics for discrete, binary, and ordinal outcomes, model diagnostics for multinomial regression models are limited. Goodness of fit methods for multinomial regression models have mainly dealt with difficult to interpret deviance type residuals which exist on a category, and not observation, level. In this talk, I will describe residuals based on an alternative approach using squared Mahalanobis distances, extending the idea of a single randomized quantile residual for each observation in order to detect misspecification of the mean and overdispersion in multinomial regression models. I’ll illustrate the residuals' use in both simulation and real data studies.
+
+time: 9:30a Break
+
+time: 9:50a
+title: NCCC170 Business meeting
+---
+Announcements:
+
+-	Thank you to our local host Julia Piaskowski and program chair Conor Fair
+-	Welcome to new NCCC170 members: Daniel Palmer (StatCraft), Heike Hofmann (UNL)
+-	NCCC170 website https://nccc170.org has links including member profiles: check it out!
+    - Thanks to Jarad Niemi and Aaron Rendahl for website design and maintenance, respectively
+    - Reminder: any new members or changes to profile details should be shared with Aaron Rendahl (or through Google sheet)
+-	Preparation of 2024-2025 annual report
+    - Deadline August 6, 2025
+    - Request for information on papers, presentations, awards, etc.
+          - 	From: July 1, 2024 to June 30, 2025
+    - Template: 2023-2024 annual report available at https://nimss.org/seas/52566 
+    - Use Google docs to expedite reporting: link to be shared
+    - Check email for reminders of deadlines and specific instructions to submit report
+
+Old Business:
+
+-	NCCC170 2021-2026 project objectives through NIMSS: https://nimss.org/projects/view/mrp/outline/18798 
+    - Please read through these materials shared by Nora beforehand via email
+          - 	Statement of Issues and Justification
+          - 	Objectives
+          - 	Procedures and Activities
+          - 	Expected Outcomes and Impact
+          
+New Business:
+
+-	Project renewal: 2026-2031 with specific objectives to address over the next five years
+    - Proposal Committee
+          - 	Bruce Craig, Nora Bello(?), Alex Lipka(?)
+    - Discussion/Updates on Objectives, Expected Outcomes, etc.
+          - 	Ideas previously mentioned: ML and AI applications
+          - 	Next steps of the GLMM joint effort
+-	Future NCCC170 Meeting
+    - Location: Neil Paton (Cargill) has volunteered to host 2026 meeting in Ohio (Dayton area)
+    - Dates to be determined
+    - Program Chair volunteers?
+    - Any interest in host for 2027 meeting?
+    - New Secretary? – Nora’s position in limbo, volunteers?
+-	Group picture
+
+Adjourn Meeting at Noon.
+
+time: 12:00p Lunch
+
+time: 2:00p
+title: Tour the Deep Soil Ecotron (the only one in the entire United States!)
