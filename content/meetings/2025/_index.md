@@ -23,6 +23,6 @@ Meeting Planning Information: [Link to planning document](about)
 Location information:
 - In-person attendees: We are meeting in the [Ag Science](https://www.google.com/maps/place/606+S+Rayburn+St,+Moscow,+ID+83844) building, room 62 for both days. You can park for free in any lot except: Gold, Green, and metered parking. No parking is allowed in spots specially labeled as such (e.g. “delivery permit required”, “CALS Dean”). Consult the University of Idaho [parking map](../IdahoParkingMap.pdf); lot 17 and street parking 86 provide the closest free parking. The Ag Science building is a 0.5 mile walk from both the Fairfield and Monarch hotels. I have arranged for morning coffee and lunch for both days.
 
-- Zoom attendees: [Zoom link](https://uidaho.zoom.us/j/84532540910) (See email for password.)
+- Zoom attendees: See email for link.
 
 Schedule:
