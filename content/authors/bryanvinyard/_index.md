@@ -2,8 +2,10 @@
 first_name: Bryan
 last_name: Vinyard
 title: Bryan Vinyard
+role: Area Statistician
 organizations:
 - name: USDA Agricultural Research Service
+  url: https://www.ars.usda.gov/
 education:
   courses:
   - course: PhD Mathematical Statistics
