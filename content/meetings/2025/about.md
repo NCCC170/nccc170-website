@@ -6,6 +6,7 @@ address:
   region: Idaho
   postcode: '83844'
 date: '2025-02-28'
+type: role
 ---
 
 **Visit the University of Idaho, located in the Palouse!** Home of the highest yielding wheat acreage in the world and also the lentil capital of the world. The 1500-acre campus is located on the western side of Moscow, Idaho, two miles from the Washington state line and seven miles from Washington State University. Palouse agriculture is largely defined by dryland/rainfed small grains production, and some canola acreage. Summers are a very pleasant time in Moscow with warm days, cool nights, and less traffic and waiting since half of the town (the students) is largely absent. The daily highs are usually in the mid-70s (°F) and the lows are in the mid-40’s. 
