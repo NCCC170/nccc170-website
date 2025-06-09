@@ -1,0 +1,14 @@
+title: 2026 NCCC170 Annual Meeting
+location: Cargill, Lewisburg, Ohio
+leadership:
+- role: Site Host
+  who: Neil Paton, Cargill
+- role: Program Chair
+  who: Conor Fair, University of Georgia
+---
+
+&nbsp;
+
+date: 2026-06-11
+date: 2026-06-12
+
