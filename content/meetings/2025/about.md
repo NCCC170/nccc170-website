@@ -1,11 +1,11 @@
 ---
-title: About the 2025 meeting
+title: 2025 NCCC170 Meeting Information
 location: University of Idaho
 address:
   city: Moscow
   region: Idaho
   postcode: '83844'
-date: '2025-02-28'
+date: '2025-06-04'
 type: role
 ---
 
@@ -27,7 +27,7 @@ The information below now has a hotel reservation link. Please book by May 23, 2
 
 *There are several within a 30-minute walk (or less) from campus:* 
 
-* [Fairfield Inn & Suites by Marriott](https://www.marriott.com/en-us/hotels/puwfi-fairfield-inn-and-suites-moscow/overview/) – Newest and quite nice, very close to campus and affordable. We have a small block of rooms reserved for NCCC170 for ($170 – this is coincidental). [Reservation Link](https://www.marriott.com/event-reservations/reservation-link.mi?guestreslink2=true&id=1740697332321&key=GRP)
+* [Fairfield Inn & Suites by Marriott](https://www.marriott.com/en-us/hotels/puwfi-fairfield-inn-and-suites-moscow/overview/) – Newest and quite nice, very close to campus and affordable. We have a small block of rooms reserved for NCCC170 for ($170 – this is coincidental).
 * [Best Western Plus University Inn](https://www.bestwestern.com/en_US/book/hotels-in-moscow/best-western-plus-university-inn/propertyCode.13035.html) – fanciest, probably the most family friendly (has a pool), close to campus
 * [The Monarch Motel](http://moscowmonarch.com/) – hipster hotel, great downtown location, fun vibe, close to campus
 * [FairBridge Inn & Suites](https://fairbridgeinns.com/hotel/moscow-pullman-idaho) – recently renovated/rebranded, also close to campus
