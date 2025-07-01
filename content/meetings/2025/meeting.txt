@@ -13,7 +13,7 @@ leadership:
 participants:
 - "Front Row: Raul Macchiavelli, Samuel Fernandes, Susan Durham, Clark Kogan, Phil Dixon, Conor Fair"
 - "Back Row: Julia Piaskowski, Xin Dai, Harpreet Kaur, John Stevens, Josefina Lacasa, Reka Howard, Dan Runcie, Bruce Craig, Nick Keuler, Aaron Rendahl, Alex Lipka, Carla Goad"
-- "Zoom: Nora Bello, Daniel Palmer, Brian Vinyard, Quentin Read, Linda Young, Neil Paton"
+- "Zoom: Nora Bello, Daniel Palmer, Bryan Vinyard, Quentin Read, Linda Young, Neil Paton, Larry Madden"
 - "Not pictured: Walt Stroup, Kathy Yeater"
 ---
 
