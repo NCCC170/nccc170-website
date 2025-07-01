@@ -10,6 +10,11 @@ leadership:
   who: Julia Piaskowski, University of Idaho
 - role: Program Chair
   who: Conor Fair, University of Georgia
+participants:
+- "Front Row: Raul Macchiavelli, Samuel Fernandes, Susan Durham, Clark Kogan, Phil Dixon, Conor Fair"
+- "Back Row: Julia Piaskowski, Xin Dai, Harpreet Kaur, John Stevens, Josefina Lacasa, Reka Howard, Dan Runcie, Bruce Craig, Nick Keuler, Aaron Rendahl, Alex Lipka, Carla Goad"
+- "Zoom: Nora Bello, Daniel Palmer, Brian Vinyard, Quentin Read, Linda Young, Neil Paton"
+- "Not pictured: Walt Stroup, Kathy Yeater"
 ---
 
 [Meeting Information](about)
