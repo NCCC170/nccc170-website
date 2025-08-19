@@ -5,7 +5,7 @@ title: Guilherme Rosa
 role: Professor
 organizations:
 - name: University of Wisconsin-Madison
-  url: www.wisc.edu
+  url: https://www.wisc.edu
 education:
   courses:
   - course: PhD Biostatistics

@@ -5,7 +5,7 @@ title: Samuel Fernandes
 role: Assistant Professor of Agricultural Statistics and Quantitative Genetics
 organizations:
 - name: University of Arkansas
-  url: https://crop-soil-environmental-sciences.uark.edu/people/faculty-directory/uid/samuelbf/name/Samuel+B+Fernandes/
+  url: https://crop-soil-environmental-sciences.uark.edu/
 education:
   courses:
   - course: PhD in Genetics and Plant Breeding
@@ -21,6 +21,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:samuelbf@uark.edu
+- icon: globe
+  icon_pack: fas
+  link: https://www.fernandeslab.org
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=aR0shJYAAAAJ&hl=en

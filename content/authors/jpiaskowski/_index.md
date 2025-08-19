@@ -5,7 +5,7 @@ title: Julia Piaskowski
 role: Director of Statistical Programs
 organizations:
 - name: University of Idaho
-  url: www.uidaho.edu
+  url: https://www.uidaho.edu
 education:
   courses:
   - course: 'PhD Crop Science, Minor: Statistics'
