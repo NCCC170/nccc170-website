@@ -69,7 +69,7 @@ d <- read_csv(here::here("R", "people.csv"))
 groups <- local({
   ## ONLY INCLUDE ON WEB SITE IF HAS EITHER "Title" or "Education 1"
   has_profile <- d$Code[!is.na(d$Title) | !is.na(d$Education1)]
-  heads <- c("norabello", "brucecraig")
+  heads <- c("jpiaskowski", "brucecraig")
   members <- setdiff(has_profile, heads)
   bind_rows(tibble(Group="Heads", Code=heads),
             tibble(Group="Members", Code=members))

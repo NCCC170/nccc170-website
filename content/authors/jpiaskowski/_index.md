@@ -33,6 +33,6 @@ interests:
 - spatial statistics
 - variety testing
 user_groups:
-- Members
+- Heads
 superuser: no
 ---

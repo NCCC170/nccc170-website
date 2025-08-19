@@ -33,6 +33,6 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/norabello/
 user_groups:
-- Heads
+- Members
 superuser: no
 ---
