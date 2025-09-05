@@ -10,16 +10,16 @@ education:
   courses:
   - course: PhD Ecology
     institution: Duke University
-    year: '2000'
+    year: 2000
   - course: MS Bayesian Statistics
     institution: Duke University
-    year: '2000'
-  - course: MS
-    institution: Ecology
-    year: University of Central Florida
+    year: 2000
+  - course: MS Ecology
+    institution: University of Central Florida
+    year: 1994
   - course: BS Engineering
     institution: Cornell University
-    year: '1989'
+    year: 1989
 social:
 - icon: envelope
   icon_pack: fas
@@ -38,12 +38,11 @@ social:
   link: https://brianbeckage.github.io
 interests:
 - Bayesian statistics
-- machine learning
+- Machine learning
 - AI
-- neural nets
-- computational modeling
-- ABMs
-- SD modeling
+- Neural nets
+- Agent-based models
+- System dynamics
 user_groups:
 - Members
 superuser: no
