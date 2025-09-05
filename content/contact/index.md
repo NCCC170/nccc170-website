@@ -1,10 +1,10 @@
 ---
 title: Contact
 contact:
-- who: Nora Bello
-  email: "nora.bello@usda.gov"
 - who: Bruce Craig
   email: "bacraig@purdue.edu"
+- who: Julia Piaskowski
+  email: "jpiaskowski@uidaho.edu"
 type: contact
 ---
 
