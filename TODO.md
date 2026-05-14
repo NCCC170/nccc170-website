@@ -25,6 +25,7 @@ The new site is hosted by netlify and code is on
 
 ### What has been done
 
+- Update proposals and objectives for 2026-2031 proposal
 - Old website
     - <https://nccc170.uark.edu/>
     - Archived at <https://github.com/NCCC170/uark-archive>
