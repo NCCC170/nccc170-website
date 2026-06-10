@@ -7,8 +7,166 @@ leadership:
   who: Conor Fair, University of Georgia
 ---
 
-&nbsp;
+## Meeting Information
+[Meeting Information](about)
+
+
+
+
+## Technical Program
+
+*Virtual attendees, see link from Neil.*
 
 date: 2026-06-11
+time: 8:00a Registration, check-in, coffee
+
+time: 8:45a
+title: Welcome to NCCC170 2026 and Cargill
+authors: Neil Paton, Principal Statistician - Cargill, Lewisburg, OH, US
+
+time: 9:00a
+title: Matrix-free High Dimensional Gaussian Simulation
+authors: Somak Dutta, Department of Statistics, Iowa State University, Ames, IA, US
+---
+Sampling from high-dimensional Gaussian distributions arises frequently in both Bayesian and frequentist inference. Such sampling is typically carried out using dense matrix factorizations, which can be computationally prohibitive and difficult to scale. In this talk, I will discuss a new matrix-free method for sampling from high-dimensional distributions, with applications to a broad class of Gaussian and generalized linear models. This talk is based on several joint works with Debashis Mondal and PhD students Subrata Pal, Aniruddha Pathak, and Hongyuan Wang.
+
+time: 9:30a
+title: Deep Learning and Machine Learning Frameworks for Sorghum Yield Forecasting Using UAV and Laboratory Imagery
+authors:
+- Md Abdullah Al Bari, Department of Agronomy, Kansas State University, and Department of Plant and Environmental Sciences, New Mexico State University
+- Aliva Bakshi, Jahid Chowdhury Choton, Swaraj Pramanik, Doina Caragea: Department of Computer Science, Kansas State University
+- Trevor D. Witt, Department of Entomology, Kansas State University
+- Scott Bean, Center for Grain and Animal Health Research, ARS-USDA, Manhattan, KS
+- S.V. Krishna Jagadish, Department of Plant and Soil Science, Texas Tech University
+- Terry Felderhoff*, Department of Agronomy, Kansas State University
+---
+Recent advances in artificial intelligence (AI), graphics processing units (GPUs), and open-source computing platforms have accelerated the application of machine learning (ML) and deep learning (DL) approaches in agricultural research. These technologies enable rapid extraction of phenotypic information from imagery and offer new opportunities for digital phenotyping and yield forecasting in plant breeding programs. Accurate yield prediction can improve selection efficiency and accelerate cultivar development. 
+
+A field experiment consisting of 36 diverse sorghum genotypes was conducted in 2023 at Ashland Bottoms, Kansas, using a three-replicated randomized complete block design (RCBD). Field images were collected using a DJI Matrice 300 UAV at 6 m above ground level from both nadir (90°) and oblique (45°) viewing angles. Deep learning models, including YOLO and Faster R-CNN (Detectron2), were trained to extract yield-related traits from UAV field imagery and laboratory-acquired panicle images. YOLO consistently outperformed Faster R-CNN for panicle detection, achieving mAP@0.50 values ranging from 0.92 to 0.98 compared with 0.61 to 0.89 for Faster R-CNN. Predicted field panicle counts were strongly associated with manually measured counts (r = 0.86). Analysis of laboratory images enabled estimation of panicle area, seed number, and seed area, with correlations of 0.79, 0.94, and 0.25, respectively, relative to ground-truth measurements. Image-derived phenotypic features were subsequently integrated into machine learning models for grain yield prediction. Random Forest Regression (RFR), Multilayer Perceptron (MLP), and Extreme Gradient Boosting (XGBoost) achieved prediction accuracies (r) of 0.84, 0.88, and 0.90, respectively, with XGBoost providing the highest predictive performance. These results demonstrate that YOLO-based deep learning models can effectively extract biologically relevant and yield-predictive traits from UAV and laboratory imagery. The integration of deep learning-derived phenotypes with machine learning predictive analytics offers a scalable framework for digital phenotyping, yield forecasting, and data-driven selection in sorghum breeding programs, with the potential to enhance selection efficiency and accelerate genetic gain.
+
+time: 10:00a
+title: Environmental Survival of Avian Metapneumovirus on Common Agricultural Surfaces
+authors: Aaron Rendahl, College of Veterinary Medicine, University of Minnesota
+---
+Avian metapneumovirus (aMPV) is a major respiratory pathogen of poultry worldwide. While it is known to be transmitted through the air, the contribution of surface contamination to viral spread is unknown. This study evaluated the environmental survival of two viral subtypes on nine surfaces commonly found in agricultural settings, at two temperatures. Several issues contributed to the complexity of the analysis. In particular, the observed rate of decay was clearly non-linear and so a simple exponential model was not appropriate. Instead, Weibull curves were fit, and the area under the curve (AUC) was used as an overall measure of survival. A parametric bootstrap was then used to obtain standard errors and the survival on the various surfaces was compared using Wald tests. Additionally, the experimental design was suboptimal, so some desired comparisons were not able to be made. This talk will discuss the pros and cons of the experimental design and the chosen analysis and hopefully elicit feedback on alternative options.
+
+time: 10:30a Morning break
+
+time: 11:00a
+title: Revisiting Meta-analytic Strategies for Latin Square Designs
+authors: Robert J. Tempelman, Department of Animal Science, Michigan State University
+---
+Meta-analyses studies continue to be published within the Journal of Dairy Science (JDS), with much of the corresponding analysis techniques developed in some landmark JDS papers. These techniques have served the JDS research community reasonably well with respect to the estimation of overall treatment effects or slopes and their standard errors in completely randomized designs (CRD). I recently published a simulation study in JDS that demonstrated these techniques to be less suitable compared to more proper and widely used (outside JDS) likelihood-based techniques developed by statisticians. Most importantly, these methods can be used to provide prediction intervals (PI) on treatment effects. These PI are rarely reported in JDS but should be of critical relevance to extension efforts as they best reflect a plausible range of treatment effects within any one commercial environment or future study. It is rather straightforward to apply R and SAS mixed model software to conduct a proper meta-analyses for CRD. However, a current conundrum with respect to adapting these techniques to Latin square (LS) designs is the extraction of standard errors of mean differences (SED). That is, only standard errors of the means (SEM), rather than SED, are typically reported in JDS studies. With random blocking factors (e.g., cows), SEM are functions of several variance components whereas SED are functions of only the estimated residual variance (MSE) in LS designs; hence, it is challenging to use SEM to derive SED. It has been previously demonstrated by Larry Madden’s group that treatment mean separation based on, for example, Tukey’s test can be used to derive SED. Nevertheless, I demonstrate using simulation that this strategy has limited effectiveness if only a few (i.e., 2-4) treatments are compared within component studies as is typical in JDS. Other potential strategies involve using P-values for contrasts (e.g., orthogonal polynomial, 2 x 2 factorial) to backsolve for MSE/SED; however, that also invokes various challenges as I will share. Hence, reporting SED or estimated variance components might be routinely encouraged in future JDS papers to facilitate more reliable meta-estimates and PI in subsequent meta-analyses. However, feedback as to how to best include past/current studies would be welcome.
+
+time: 11:30a
+title: Robust Variance Estimation in Meta-analysis with correlated effect sizes
+authors: 
+- Laurence V. Madden, Ohio State University
+- Pierce A. Paul, Ohio State University
+- Felipe Dalla Lana, Louisiana State University AgCenter
+---
+Meta-analysis has grown greatly in popularity in the agricultural sciences over the past quarter-century for synthesizing the results from multiple independent studies. In a classical random-effects meta-analysis, there is one estimated effect size per study, such as a mean difference, log response ratio, log odds, slope, or correlation coefficient. Often, more than one effect size in a study may meet the criteria to be included in the dataset. For instance, in an analysis of the effects of a fungicide on plant disease control, three slightly different treatments (differences in application timing or dosage) may have been tested in some studies, all of which meet the selection criteria. Estimated effect sizes within studies are likely to be correlated, although the magnitude of the correlation may be unknown, different for each study, and almost certainly not recoverable directly from the published primary studies. One could average the effect sizes within studies or randomly select one of the treatments prior to a classical meta-analysis, although this results in a loss of information. Alternatively, one can conduct a meta-analysis that properly accounts for the multiple (correlated) estimated effect sizes in those studies. 
+
+A review of the literature across 10 disciplines reveals that there is more than one effect size in some of the studies in over 50% of published meta-analyses, but that the authors accounted for the multiple effect sizes in their analysis in less than half the cases (Wu et al. 2025 [Res. Synth. Meth.]). This may be due, in part, because specialized software, including commercial programs developed for meta-analysis, assume that each effect size comes from a separate study (at least as the default), and are thus independent. Assuming that estimated effect sizes are independent will result in artificially low estimated variances for estimated parameters (e.g., mean, coefficients of moderator variables, etc.). Starting with the work of Hedges et al. (2010 [Res. Synth. Meth.]), a recommended approach is to assume a common correlation of estimated effect sizes () to construct a within-study working variance-covariance matrix for each study (Ri), hold these matrices fixed in the analysis, and then use empirical (sandwich) estimation for the variances of estimated parameters. The classical sandwich estimate is known to be downward biased, so many bias-corrected estimators have been proposed (Gosho et al. [Int. Stat. Rev.]). Tipton (2014 [Psy. Meth.]) and Pustejovsky and Tipton (2018 [J. Bus. Econ. Stat.]) developed a new sandwich estimator and implemented it in the clubSandwich R package. However, it is not clear how the Tipton estimator compares with some of the other robust and non-robust estimators, especially those available in the GLIMMIX procedure of SAS. Using GLIMMIX with fixed Ri (based on a constant ) requires an easy “trick” to fix the residual matrix within each study (a method we have not seen previously reported).
+
+I will compare results—such as Type I error rates and coverage percentages—for several robust and non-robust estimators when fitting different meta-analytical models to simulated datasets that are applicable in the plant sciences. The Tipton method has its greatest advantage when the number of studies is very small.
+
+time: 12:00p Lunch
+
+time: 1:30p
+title: "Best Practices for GLMM Implementation: Group Updates and Planning"
+authors:
+- Nora M. Bello, United States Department of Agriculture – Agricultural Research Service, Beltsville, MD
+- Bruce A. Craig, Department of Statistics, Purdue University
+- Xin Dai, Animal, Dairy & Veterinary Sciences, Utah State University
+- Philip Dixon, Department of Statistics, Iowa State University
+- Susan L. Durham, Department of Watershed Sciences and Ecology Center, Utah State University
+- Conor G. Fair, College of Agricultural and Environmental Sciences, University of Georgia
+- Réka Howard, Department of Statistics, University of Nebraska-Lincoln
+- Clark Kogan, Department of Pharmaceutical Sciences, Washington State University
+- Josefina Lacasa, Department of Statistics, Kansas State University
+- Raúl E. Macchiavelli, College of Agricultural Sciences, University of Puerto Rico
+- Daniel G. Palmer, StatsCraft, Spokane, WA
+- Julia Piaskowski, Director of Statistical Programs, College of Agricultural and Life Sciences, University of Idaho
+- Quentin D. Read, United States Department of Agriculture – Agricultural Research Service, Beltsville, MD
+- Walter W. Stroup, Department of Statistics, University of Nebraska-Lincoln
+---
+Our ongoing project initiated in 2024 and investigates best practices for the application of Generalized Linear Mixed Models (GLMMs), including topics in statistical modeling and software implementation. As we transition into the project's next phase, this meeting will serve as a working session to review our progress and plan our future steps. We will prioritize discussions around our publication roadmap and the immediate actionable steps required to successfully deliver our findings.
+
+time: 3:00p Afternoon break
+
+time: 3:30p
+title: "New Resource: Online Guide for Implementing Linear Mixed Model"
+authors: Julia Piaskowski, Director of Statistical Programs, College of Agricultural and Life Sciences University of Idaho
+---
+Linear mixed models (LMMs) are commonly used for analyzing agricultural studies. SAS, R and GUI-based tools (e.g. SPSS) are popular options for implementing LMMs. The documentation for implementing LMMs in SAS is detailed, easy to find and navigate, and provides numerous helpful examples. The documentation for implementation of LMMs in R is dispersed across packages and lacks in a comprehensive set of examples. The CRAN task view for ‘mixed models’ lists over 80 packages implementing mixed models, some with overlapping functionality, different algorithms for solving the equations, and non-standardized package documentation. This documentation can vary widely in (1) the extent of detail for function arguments, (2) technical details of implementation; and (3) examples of implementation and different approaches available for the package functions. Two major packages are used for implementing mixed models in R: ‘nlme’ and its successor, ‘lme4’, each with their strengths and weaknesses. In order to facilitate analysis of common agricultural experimental field designs, an online guide was developed to demonstrate implementation of LMMs using ‘nlme’ and ‘lme4’. Analytical pipelines for 7 experimental designs are demonstrated, in addition to special sections devoted to studies with repeated measures, handling heteroscedasticity, inference on fixed and random effects, and error troubleshooting. This resource is available at https://idahoagstats.github.io/mixed-models-in-R/ and the supporting code is publicly available on GitHub. 
+
+time: 4:00p
+title: "Agricultural Affairs Regional/Multi-state Project and DC Update"
+authors: Jane Schuh, Associate Dean, Kansas Agricultural Experiment Station
+---
+An overview of the role and importance of multistate research within the region, emphasizing its value in fostering collaboration, leveraging shared resources, and delivering impactful outcomes across land grant institutions. It outlines the funding structure under the Hatch Act, current federal funding considerations, and the organizational framework of agInnovation North Central. Overall, the presentation underscores the committee’s role in strengthening regional research through coordinated, accountable, and strategic collaboration.
+
+time: 4:30p
+title: "Assessing Accuracy and Precision of Measurement and Sampling Schemes in Aquaculture Research"
+authors: 
+- Nora Bello, USDA Agricultural Research Service Northeast Area Office, Beltsville, MD
+- Gary Burr, USDA Agricultural Research Service, National Cold Water Marine Aquaculture Center (NCWMAC), Franklin, ME
+- Brian C. Peterson, USDA Agricultural Research Service, National Cold Water Marine Aquaculture Center (NCWMAC), Franklin, ME
+---
+Measurement and sampling techniques commonly used in aquaculture research studies are varied and range from bulk-tank measurements (i.e. netting fish from a tank into a smaller calming receptacle on a scale to determine the total weight of fish in a tank) to individual weighing of all or a netted subset of fish from a tank. Beyond considerations for animal welfare and research logistics, concerns about differential data quality call for an evidence-based approach to inform selection of measurement and sampling schemes.
+
+To this end, we assess accuracy and precision of measurement and sampling schemes commonly used for the evaluation of weight performance in dietary studies conducted on Atlantic salmon (Salmo salar). We use pilot data consisting of weekly weights, both individual and bulk-tank, for 1080 pit-tagged parr-sized fish (average initial weight 58g, SD 17g) sourced from 45 families, stocked into 24 0.19m3 recirculating aquaculture system tanks and fed the same commercial diet. Using a combination of graphical tools, descriptive statistics and mixed-model-based analyses fitted to tank-level data and to fish-level data, we first evaluate relative accuracy of weight observations across measurements and sampling schemes. We then use a variance components approach to characterize hierarchical sources of non-systematic variability in a typical aquaculture production system and quantify their differential relative magnitudes under each scheme. Finally, we explore inferential precision for detecting putative dietary effects across measurement and sampling schemes using mixed-models based precision analyses tailored to the design of aquaculture studies. Ultimately, we endeavor to elicit recommendations for high-quality data collection schemes in aquaculture research. This is work in progress; we seek input from the group and welcome open discussion.
+
+time: 5:00p Adjourn
+
+
 date: 2026-06-12
 
+time: 9:00a
+title: AI Discussion Panel
+authors: 
+- Bruce Craig, Department of Statistics, Purdue University
+- Neil Paton, Principal Statistician - Cargill, Lewisburg, OH
+
+
+time: 10:00a Break
+
+time: 10:30a
+title: NCCC-170 Business meeting
+--- 
+Announcements:
+- Thank you to our local host Neil Paton and program chair Conor Fair
+- A special thank you to Angela Vencil for all the catering and local arrangements
+- NCCC170 website https://nccc170.org has links including member profiles: check it out!
+  - Thanks to Jarad Niemi and Aaron Rendahl for website design and maintenance, respectively
+  - Reminder: any new members or changes to profile details should be shared with Aaron Rendahl
+-	Preparation of 2025-2026 annual report
+  - Deadline August XX, 2026
+  - Request for information on papers, presentations, awards, etc.
+    - From: July 1, 2025 to June 30, 2026
+  - Template: 2024-2025 annual report: link to be shared
+  - Use Google docs to expedite reporting: link to be shared
+  - Check email for reminders of deadlines and specific instructions to submit report
+
+Old Business:
+- Project renewal: 2026-2031 with specific objectives to address over the next five years
+  - Proposal Committee
+    - Bruce Craig, Julia Piaskowski, Nora Bello, Alex Lipka, Josefina Lacasa, and Conor Fair
+  - Discussion/Updates on Objectives, Expected Outcomes, etc.
+    - Ideas previously mentioned: ML and AI applications
+    - Next steps of the GLMM joint effort
+
+New Business:
+- Future NCCC170 Meeting
+  - Offer for 2027 meeting location?
+  - Dates to be determined
+  - Program Chair volunteers?
+  - Any interest in host for 2028 meeting?
+- Group picture
+
+Adjourn Meeting at Noon
+
+time: 12:00p Lunch
+
+time: 1:00p Tour
