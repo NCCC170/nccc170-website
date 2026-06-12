@@ -3,6 +3,8 @@ library(tidyverse)
 conflicts_prefer(dplyr::filter)
 # library(googlesheets4)
 
+d_orig <- readr::read_csv(here::here("R", "people.csv"))
+
 # authorize google access
 # googlesheets4::gs4_auth()
 
@@ -20,5 +22,8 @@ d <- d0 |>
          Email = if_else(!is.na(DisplayEmail) & DisplayEmail=="Yes", Email, DisplayEmail),
          Email = if_else(!is.na(Email), paste0("mailto:", Email), NA)) |>
   select(-DisplayEmail)
+
+setdiff(names(d), names(d_orig))
+d <- d[names(d_orig)]
 
 write_csv(d, here::here("R", "people.csv"), na = "")
