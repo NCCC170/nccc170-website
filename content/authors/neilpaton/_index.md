@@ -18,7 +18,9 @@ education:
     institution: University of Natal
     year: 1991
 interests:
-- Applied Statistics, Applications Inference, Experimental Design
+- Applied Statistics
+- Applications Inference
+- Experimental Design
 user_groups:
 - Members
 superuser: no
