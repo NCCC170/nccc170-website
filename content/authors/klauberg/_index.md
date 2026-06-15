@@ -6,23 +6,23 @@ role: Research Associate Scientist and Director, IFAS Statistical and Data Analy
   Consulting Unit
 organizations:
 - name: University of Florida
-  url: https://sdacu.ifas.ufl.edu/about/
+  url: https://sdacu.ifas.ufl.edu/
 education:
   courses:
   - course: PhD Forest Management
-    institution: University of Sao Paulo
-    year: 2014
-  - course: B.S Forest Engineer, University of Satate of Santa Catarina, Brazil, 2009
+    institution: University of Sao Paulo, 2014
+  - course: B.S. Forestry Engineering
+    institution: University of Santa Catarina State, Brazil, 2009
 social:
 - icon: envelope
   icon_pack: fas
   link: mailto:carine.klaubergs@ufl.edu
 - icon: globe
   icon_pack: fas
-  link: https://sdacu.ifas.ufl.edu/about/
+  link: https://sdacu.ifas.ufl.edu/
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?hl=pt-PT&user=eOmdwOEAAAAJ&view_op=list_works&sortby=pubdate
+  link: https://scholar.google.com/citations?hl=pt-PT&user=vlnoZw8AAAAJ&view_op=list_works&sortby=pubdate
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-6898-5593
@@ -30,9 +30,10 @@ social:
   icon_pack: fab
   link: https://github.com/UFSDACU
 interests:
-- spatial and spatio-temporal statistic
+- spatial statistics
+- machine learning
 - mixed models
-- statistical methods in forestry and ecology
+- quantitative and qualitative ecology
 user_groups:
 - Members
 superuser: no
