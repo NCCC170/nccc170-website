@@ -6,7 +6,7 @@ NCCC170 is a Multistate Research Project, supported by the State Agricultural Ex
 
 We submit a renewal proposal every five years, and annual reports every year; these are kept in the National Information Management & Support System (NIMSS) and are linked to below.
 
--   2026 -- 3031:
+-   2026 -- 2031:
     [Home](https://nimss.org/projects/19239) •
     [Renewal](https://www.nimss.org/projects/view/mrp/outline/19239)
 -   2021 -- 2026: 
@@ -53,6 +53,6 @@ We submit a renewal proposal every five years, and annual reports every year; th
         [2004](https://www.nimss.org/seas/656) • 
         [2005](https://www.nimss.org/seas/3762) • 
         [2006](https://www.nimss.org/seas/9541)
-- 1997 -- 2002: [Proposal](../proposals/project1997)
-- 1993 -- 1997: [Proposal](../proposals/project1993)
-- 1990 -- 1993: [Proposal](../proposals/project1990)
+- 1997 -- 2002: [Proposal](/proposals/project1997)
+- 1993 -- 1997: [Proposal](/proposals/project1993)
+- 1990 -- 1993: [Proposal](/proposals/project1990)

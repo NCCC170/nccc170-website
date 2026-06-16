@@ -17,7 +17,7 @@ main:
     url: publication
     weight: 50
   - name: NIMSS
-    url: https://www.nimss.org/projects/view/mrp/outline/18798
+    url: https://nimss.org/projects/view/mrp/outline/19239
     weight: 60
   - name: Contact
     url: contact
