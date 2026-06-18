@@ -1,6 +1,6 @@
 ---
 title: 2027 NCCC170 Annual Meeting
-location: North Carolina State, Raleigh, NC
+location: North Carolina State University, Raleigh
 leadership:
 - role: Site Host
   who: '{{% mention_name "quentinread" "Quentin Read" %}}, USDA ARS'
