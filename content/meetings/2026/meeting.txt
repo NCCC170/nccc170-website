@@ -5,6 +5,11 @@ leadership:
   who: Neil Paton, Cargill
 - role: Program Chair
   who: Conor Fair, University of Georgia
+participants:
+- "Front Row: Nora Bello, Nick Keuler, Quentin Read, Aaron Rendahl, Somak Dutta, Larry Madden, Josefina Lacasa, Xin Dai, Bruce Craig"
+- "Back Row: Conor Fair, Rob Tempelman, Wanderson Bucker Moraes, Carine Klauberg, Neil Paton, Raul Macchiavelli, Reka Howard"
+- "Zoom: Carla Goad, Julia Piaskowski, Guilherme Rosa"
+- "Not pictured: Walt Stroup, Md Abdullah Al Bari, Jane Schuh"
 ---
 
 ## Meeting Information

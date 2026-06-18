@@ -1,12 +1,11 @@
 ---
-title: 2026 NCCC170 Annual Meeting
-location: Cargill, Lewisburg, Ohio
-leadership:
-- role: Site Host
-  who: '{{% mention_name "neilpaton" "Neil Paton" %}}, Cargill'
-- role: Program Chair
-  who: '{{% mention_name "conorfair" "Conor Fair" %}}, University of Georgia'
-participants:
+title: Participant
+authors:
+- nicholaskeuler
+- klauberg
+- carlagoad
+- guilhermerosa
+authorlist:
 - 'Front Row: {{% mention_name "norabello" "Nora Bello" %}}, {{% mention_name "nicholaskeuler"
   "Nick Keuler" %}}, {{% mention_name "quentinread" "Quentin Read" %}}, {{% mention_name
   "aaronrendahl" "Aaron Rendahl" %}}, {{% mention_name "somakdutta" "Somak Dutta"
@@ -23,17 +22,5 @@ participants:
   Bari, Jane Schuh'
 date: '2026-06-11'
 date_end: '2026-06-12'
-all_day: yes
-type: meeting
-view: schedule
+type: role
 ---
-
-## Meeting Information
-[Meeting Information](about)
-
-
-
-
-## Technical Program
-
-*Virtual attendees, see link from Neil.*
