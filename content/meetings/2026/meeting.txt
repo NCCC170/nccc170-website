@@ -174,4 +174,7 @@ Adjourn Meeting at Noon
 
 time: 12:00p Lunch
 
-time: 1:00p Tour
+time: 1:00p
+title: Feed Manufacturing Plant Tour
+---
+![Starting a tour of the Cargill facility.](../img_tour.jpg)
