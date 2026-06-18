@@ -1,0 +1,13 @@
+title: 2027 NCCC170 Annual Meeting
+location: North Carolina State, Raleigh, NC
+leadership:
+- role: Site Host
+  who: Quentin Read, USDA ARS
+- role: Program Chair
+  who: Conor Fair, University of Georgia
+---
+
+&nbsp;
+
+date: 2027-06-10
+date: 2027-06-11
