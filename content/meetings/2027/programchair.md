@@ -1,9 +1,9 @@
 ---
 title: Program Chair
 authors:
-- conorfair
+- norabello
 authorlist:
-- '{{% mention_name "conorfair" "Conor Fair" %}}, University of Georgia'
+- '{{% mention_name "norabello" "Nora Bello" %}}, USDA ARS'
 date: '2027-06-10'
 date_end: '2027-06-11'
 type: role

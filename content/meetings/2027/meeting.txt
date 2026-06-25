@@ -4,7 +4,7 @@ leadership:
 - role: Site Host
   who: Quentin Read, USDA ARS
 - role: Program Chair
-  who: Conor Fair, University of Georgia
+  who: Nora Bello, USDA ARS
 ---
 
 &nbsp;
