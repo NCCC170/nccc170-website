@@ -1,20 +1,22 @@
 
-name: GitHub Pages
-
 on:
   push:
     branches: main
   pull_request:
     branches: main
 
+name: Github pages build
+
 jobs:
-  build-website:
+  render:
+    name: build site
     runs-on: ubuntu-latest
     timeout-minutes: 30
     env:
       GITHUB_PAT: ${{ secrets.SUPERSECRET }}
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repo
+        uses: actions/checkout@v4
         with:
             submodules: recursive
 
@@ -39,11 +41,11 @@ jobs:
         with:
           cache-version: 2
       
-      - name: Manually install blogdown 
+      - name: Manually install packages 
         run: |
           R -e 'install.packages(c("blogdown", "rmarkdown")'
 
-      - name: Build site 🔧
+      - name: Manually build site
         run: |
           R -e 'blogdown::build_site()'
           
