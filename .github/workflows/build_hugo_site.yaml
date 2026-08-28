@@ -25,6 +25,10 @@ jobs:
         uses: r-lib/actions/setup-renv@v2
         with:
           cache-version: 2
+      
+      - name: Manually Install blogdown 
+        run: |
+          R -e 'install.packages("blogdown")'
 
       - name: Build site 🔧
         run: |
