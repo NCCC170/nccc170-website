@@ -28,6 +28,4 @@ options(
 # fix Hugo version
 options(blogdown.hugo.version = "0.112.5")
 
-# Julia's hack to make sure libraries make into renv:
-library(blogdown)
-library(rmarkdown)
+
