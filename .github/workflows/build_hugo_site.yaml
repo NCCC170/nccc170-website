@@ -5,11 +5,10 @@ on:
   pull_request:
     branches: main
 
-name: Github pages build
+name: Build Site
 
 jobs:
-  render:
-    name: build site
+  build-website:
     runs-on: ubuntu-latest
     timeout-minutes: 30
     env:
