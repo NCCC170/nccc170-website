@@ -42,7 +42,7 @@ jobs:
         
       - name: Manually install packages 
         run: |
-           R -e 'install.packages(c("blogdown", "rmarkdown")'
+           R -e 'install.packages(c("blogdown", "rmarkdown"))'
   
       - name: Manually build site
         run: |
