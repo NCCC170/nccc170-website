@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guilherme Rosa | NCCC170</title>
+    <link>https://nccc170.org/people/guilherme-rosa/</link>
+      <atom:link href="https://nccc170.org/people/guilherme-rosa/index.xml" rel="self" type="application/rss+xml" />
+    <description>Guilherme Rosa</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 11 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nccc170.org/people/guilherme-rosa/avatar_hu5608db4d06abedcbca58e77da9c24a3a_103620_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Guilherme Rosa</title>
+      <link>https://nccc170.org/people/guilherme-rosa/</link>
+    </image>
+    
+    <item>
+      <title>Participant</title>
+      <link>https://nccc170.org/meetings/2026/participants/</link>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://nccc170.org/meetings/2026/participants/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Participant</title>
+      <link>https://nccc170.org/meetings/2024/participants/</link>
+      <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://nccc170.org/meetings/2024/participants/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Participant</title>
+      <link>https://nccc170.org/meetings/2021/participants/</link>
+      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://nccc170.org/meetings/2021/participants/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Participant</title>
+      <link>https://nccc170.org/meetings/2020/participants/</link>
+      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://nccc170.org/meetings/2020/participants/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generalized Additive Mixed Modeling of Total Transport Losses of Market-Weight Pigs</title>
+      <link>https://nccc170.org/meetings/2019/20190620_0920/</link>
+      <pubDate>Thu, 20 Jun 2019 09:20:00 +0000</pubDate>
+      <guid>https://nccc170.org/meetings/2019/20190620_0920/</guid>
+      <description>&lt;p&gt;The objective of this study was to investigate factors associated with total transport losses (TTL) of market-weight pigs using a Generalized Additive Mixed Model (GAMM). The dataset was provided by Iowa Select Farms (Iowa Falls, IA), and included the information on 26,819 shipments delivered to 2 abattoirs. TTL was fitted as an overdispersed binomial process using a GAMM which included the fixed effects of abattoir, type of driver (i.e. truck owner or employee), distance traveled, average market-weight, wind speed, precipitation, and temperature-humidity index (THI), as well as the random effects of truck company and the combination of farms and quarter of the year. The estimated risk of losses was 0.867 (95% CI: 0.865-0.870) times lower when trucks were driven by owners instead of by employees, suggesting that truck owners have more vested interest. THI was associated with TTL (P &amp;lt; 0.0001, Figure 1A), displaying greater risk of losses at its extremes, indicating that additional care must be considered at these levels. The interaction between wind speed and precipitation was associated with TTL (P = 0.0209, Figure 1B), indicating a complex relationship between both explanatory variables and TTL. The distance traveled was associated with TTL (P = 0.0034, Figure 1C), with increased losses at distances up to 125 km and decreased risk of losses afterwards. This result suggests that long trips may give extra time to pigs to recover from the prior stress incurred at loading. The interaction between average market weight and abattoir was positively associated with TTL (P &amp;lt; 0.0001, Figure 1D), indicating a faster increment in the risk of losses in one facility relative to the other.  In conclusion, TTL of market-weight pigs are caused by a complex system involving multiple interacting factors. Furthermore, GAMM is shown to be a flexible predictive tool capable of modeling non-linear relationships and which can be used to support decision-making in swine industry.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hierarchical modeling of structural coefficients for heterogeneous networks with an application to animal production systems</title>
+      <link>https://nccc170.org/meetings/2019/20190620_0845/</link>
+      <pubDate>Thu, 20 Jun 2019 08:45:00 +0000</pubDate>
+      <guid>https://nccc170.org/meetings/2019/20190620_0845/</guid>
+      <description>&lt;p&gt;Understanding the interconnections between performance outcomes in a system is increasingly important for integrated management. Structural equation models (SEM) are a type of multiple-variable modeling strategy that allows investigation of directionality in the association between outcome variables, thereby providing insight into their interconnections as putative causal links defining a functional network. A key assumption underlying SEM is that of a homogeneous network, whereby the structural coefficients defining functional links are assumed homogeneous and impervious to environmental conditions or management factors. This assumption seems questionable as systems are regularly subjected to explicit interventions to optimize the necessary trade-offs between outcomes. Using a Bayesian approach, we propose methodological extensions to hierarchical SEM that explicitly specify structural coefficients as functions of systematic and non-systematic sources of variation, thus allowing for hierarchical heterogeneity in the network links and recognizing design structure in the data. We validate our proposed method using a simulation study and show that hierarchical sources of heterogeneity on structural coefficients can be estimated and inferred upon accurately. Further, we show that networks can be consistently identified as homogeneous or heterogeneous based on model fit statistics that compare competing SEMs with flexible specifications of structural coefficients. We apply the proposed methodological extensions to a dataset from a designed experiment in swine production consisting of six interrelated reproductive performance outcomes to explore physiological links that differed by parity while accounting for experimental design. Overall, our results indicate that explicit hierarchical SEM-based modeling of heterogeneous functional networks can be used to advance understanding of complex networks of performance outcomes in an animal production system.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Participant</title>
+      <link>https://nccc170.org/meetings/2018/participants/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://nccc170.org/meetings/2018/participants/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
