@@ -44,9 +44,8 @@ jobs:
         run: |
            R -e 'install.packages(c("blogdown", "rmarkdown"))'
   
-      - name: Manually build site
-        run: |
-          R -e 'blogdown::build_site()'
+      - name: Build site
+        run: hugo 
             
         # - name: Deploy 🚀
         #   if: github.event_name != 'pull_request'
