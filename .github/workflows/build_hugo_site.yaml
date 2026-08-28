@@ -3,35 +3,37 @@ name: GitHub Pages
 
 on:
   push:
-    branches:
-      - main  
+    branches: main
   pull_request:
+    branches: main
 
 jobs:
-  deploy:
-    runs-on: ubuntu-22.04
-    concurrency:
-      group: ${{ github.workflow }}-${{ github.ref }}
+  build-website:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      GITHUB_PAT: ${{ secrets.SUPERSECRET }}
     steps:
-      - uses: actions/checkout@v4
-        with:
-          submodules: true  # Fetch Hugo themes (true OR recursive)
-          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+      - uses: actions/checkout@v2
 
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v3
+      - name: Set up R
+        uses: r-lib/actions/setup-r@v2
         with:
-          hugo-version: '0.112.5'
-          # extended: true
+          use-public-rspm: true
 
-      - name: Build
-        run: hugo --minify
-
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        if: github.ref == 'refs/heads/main'
+      - name: Set up renv
+        uses: r-lib/actions/setup-renv@v2
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
+          cache-version: 2
+
+      - name: Build site 🔧
+        run: |
+          R -e 'blogdown::build_site()'
           
+      - name: Deploy 🚀
+        if: github.event_name != 'pull_request'
+        uses: JamesIves/github-pages-deploy-action@4.1.7
+        with:
+          branch: gh-pages # The branch the action should deploy to.
+          folder: public # The folder the action should deploy.
           
