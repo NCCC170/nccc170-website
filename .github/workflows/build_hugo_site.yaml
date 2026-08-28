@@ -14,30 +14,43 @@ jobs:
     env:
       GITHUB_PAT: ${{ secrets.SUPERSECRET }}
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
+        with:
+            submodules: recursive
 
       - name: Set up R
         uses: r-lib/actions/setup-r@v2
         with:
           use-public-rspm: true
 
+     - name: Setup pandoc
+        uses: r-lib/actions/setup-pandoc@v2
+        with:
+          pandoc-version: '2.12'
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.112.5'
+          extended: true
+
       - name: Set up renv
         uses: r-lib/actions/setup-renv@v2
         with:
           cache-version: 2
       
-      - name: Manually Install blogdown 
+      - name: Manually install blogdown 
         run: |
-          R -e 'install.packages("blogdown")'
+          R -e 'install.packages(c("blogdown", "rmarkdown")'
 
       - name: Build site 🔧
         run: |
           R -e 'blogdown::build_site()'
           
-      - name: Deploy 🚀
-        if: github.event_name != 'pull_request'
-        uses: JamesIves/github-pages-deploy-action@4.1.7
-        with:
-          branch: gh-pages # The branch the action should deploy to.
-          folder: public # The folder the action should deploy.
+      # - name: Deploy 🚀
+      #   if: github.event_name != 'pull_request'
+      #   uses: JamesIves/github-pages-deploy-action@4.1.7
+      #   with:
+      #     branch: gh-pages # The branch the action should deploy to.
+      #     folder: public # The folder the action should deploy.
           
