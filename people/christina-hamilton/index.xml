@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Christina Hamilton | NCCC170</title>
-    <link>https://nccc170.org/people/christina-hamilton/</link>
-      <atom:link href="https://nccc170.org/people/christina-hamilton/index.xml" rel="self" type="application/rss+xml" />
+    <link>/people/christina-hamilton/</link>
+      <atom:link href="/people/christina-hamilton/index.xml" rel="self" type="application/rss+xml" />
     <description>Christina Hamilton</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://nccc170.org/media/icon_hu4f7302a92513f633c47a59ec94129e6b_633_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hu4f7302a92513f633c47a59ec94129e6b_633_512x512_fill_lanczos_center_3.png</url>
       <title>Christina Hamilton</title>
-      <link>https://nccc170.org/people/christina-hamilton/</link>
+      <link>/people/christina-hamilton/</link>
     </image>
     
   </channel>

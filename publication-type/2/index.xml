@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 | NCCC170</title>
-    <link>https://nccc170.org/publication-type/2/</link>
-      <atom:link href="https://nccc170.org/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <link>/publication-type/2/</link>
+      <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 16 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://nccc170.org/media/icon_hu4f7302a92513f633c47a59ec94129e6b_633_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hu4f7302a92513f633c47a59ec94129e6b_633_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
-      <link>https://nccc170.org/publication-type/2/</link>
+      <link>/publication-type/2/</link>
     </image>
     
     <item>
       <title>The academic collaborative statistician: Research, training and evaluation</title>
-      <link>https://nccc170.org/publication/the-academic-collaborative-statistician/</link>
+      <link>/publication/the-academic-collaborative-statistician/</link>
       <pubDate>Thu, 16 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://nccc170.org/publication/the-academic-collaborative-statistician/</guid>
+      <guid>/publication/the-academic-collaborative-statistician/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On recognizing the proper experimental unit in animal studies in the dairy sciences</title>
-      <link>https://nccc170.org/publication/experimental-replication-in-the-dairy-sciences/</link>
+      <link>/publication/experimental-replication-in-the-dairy-sciences/</link>
       <pubDate>Wed, 07 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>https://nccc170.org/publication/experimental-replication-in-the-dairy-sciences/</guid>
+      <guid>/publication/experimental-replication-in-the-dairy-sciences/</guid>
       <description></description>
     </item>
     

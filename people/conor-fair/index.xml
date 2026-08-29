@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Conor Fair | NCCC170</title>
-    <link>https://nccc170.org/people/conor-fair/</link>
-      <atom:link href="https://nccc170.org/people/conor-fair/index.xml" rel="self" type="application/rss+xml" />
+    <link>/people/conor-fair/</link>
+      <atom:link href="/people/conor-fair/index.xml" rel="self" type="application/rss+xml" />
     <description>Conor Fair</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 11 Jun 2026 13:30:00 +0000</lastBuildDate>
     <image>
-      <url>https://nccc170.org/people/conor-fair/avatar_hu366335686ad187fa320d7c721b6d7a88_164266_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>/people/conor-fair/avatar_hu366335686ad187fa320d7c721b6d7a88_164266_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Conor Fair</title>
-      <link>https://nccc170.org/people/conor-fair/</link>
+      <link>/people/conor-fair/</link>
     </image>
     
     <item>
       <title>Best Practices for GLMM Implementation: Group Updates and Planning</title>
-      <link>https://nccc170.org/meetings/2026/20260611_1330/</link>
+      <link>/meetings/2026/20260611_1330/</link>
       <pubDate>Thu, 11 Jun 2026 13:30:00 +0000</pubDate>
-      <guid>https://nccc170.org/meetings/2026/20260611_1330/</guid>
+      <guid>/meetings/2026/20260611_1330/</guid>
       <description>&lt;p&gt;Our ongoing project initiated in 2024 and investigates best practices for the application of Generalized Linear Mixed Models (GLMMs), including topics in statistical modeling and software implementation. As we transition into the project&amp;rsquo;s next phase, this meeting will serve as a working session to review our progress and plan our future steps. We will prioritize discussions around our publication roadmap and the immediate actionable steps required to successfully deliver our findings.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Program Chair</title>
-      <link>https://nccc170.org/meetings/2026/programchair/</link>
+      <link>/meetings/2026/programchair/</link>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://nccc170.org/meetings/2026/programchair/</guid>
+      <guid>/meetings/2026/programchair/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GLMM working group updates and plans to move forward</title>
-      <link>https://nccc170.org/meetings/2025/20250605_1430/</link>
+      <link>/meetings/2025/20250605_1430/</link>
       <pubDate>Thu, 05 Jun 2025 14:30:00 +0000</pubDate>
-      <guid>https://nccc170.org/meetings/2025/20250605_1430/</guid>
+      <guid>/meetings/2025/20250605_1430/</guid>
       <description>&lt;p&gt;Outline: Ongoing work on Best Practices for GLMM Implementation&lt;/p&gt;
 &lt;p&gt;Objectives of the Session
 I.	Articulate any remaining technical aspects of examples presented at CASANR
@@ -51,26 +51,26 @@ V.	New interest in joining the GLMM joint effort working group&lt;/p&gt;
     
     <item>
       <title>Best practices for GLMMs with zero-inflation – unique challenges for repeated-measures data and fitting covariates in binary process</title>
-      <link>https://nccc170.org/meetings/2025/20250605_1400/</link>
+      <link>/meetings/2025/20250605_1400/</link>
       <pubDate>Thu, 05 Jun 2025 14:00:00 +0000</pubDate>
-      <guid>https://nccc170.org/meetings/2025/20250605_1400/</guid>
+      <guid>/meetings/2025/20250605_1400/</guid>
       <description>&lt;p&gt;The GLMM working group continues its efforts to compare the implementation of zero-inflation models across SAS and R software platforms with the analysis of this data set where the counts of beneficial insects were measured weekly from sugar beet plots exposed to different insecticidal treatments following a randomized complete block design. SAS uses proc nlmixed to fit zero-inflation models with random effects. However, there are limited capabilities for the covariance structures with nlmixed to model the repeated measures data. We used the R package glmmTMB which allows for flexibility in fitting zero-inflation models with random effects and various covariance structures. Overall, the estimation of covariates in the binary process is prolonged to determine optimal model fit statistics. This must be done iteratively since methods like drop1() function only can be used to test terms in the observed counts data generating process. Furthermore, the value of assessing the impact of the covariates on the probability of observing a zero is likely limited as the zeros are often considered a nuisance in the data or not the primary focus of the analysis.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Program Chair</title>
-      <link>https://nccc170.org/meetings/2025/programchair/</link>
+      <link>/meetings/2025/programchair/</link>
       <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://nccc170.org/meetings/2025/programchair/</guid>
+      <guid>/meetings/2025/programchair/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Participant</title>
-      <link>https://nccc170.org/meetings/2024/participants/</link>
+      <link>/meetings/2024/participants/</link>
       <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://nccc170.org/meetings/2024/participants/</guid>
+      <guid>/meetings/2024/participants/</guid>
       <description></description>
     </item>
     

@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dan Runcie | NCCC170</title>
-    <link>https://nccc170.org/people/dan-runcie/</link>
-      <atom:link href="https://nccc170.org/people/dan-runcie/index.xml" rel="self" type="application/rss+xml" />
+    <link>/people/dan-runcie/</link>
+      <atom:link href="/people/dan-runcie/index.xml" rel="self" type="application/rss+xml" />
     <description>Dan Runcie</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Jun 2025 09:40:00 +0000</lastBuildDate>
     <image>
-      <url>https://nccc170.org/people/dan-runcie/avatar_huf7b53bec81de170b675708b8410498fd_83932_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>/people/dan-runcie/avatar_huf7b53bec81de170b675708b8410498fd_83932_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Dan Runcie</title>
-      <link>https://nccc170.org/people/dan-runcie/</link>
+      <link>/people/dan-runcie/</link>
     </image>
     
     <item>
       <title>Goodhardt’s law and plant breeding. Is cross-validation misleading about the success of genomic prediction?</title>
-      <link>https://nccc170.org/meetings/2025/20250605_0940/</link>
+      <link>/meetings/2025/20250605_0940/</link>
       <pubDate>Thu, 05 Jun 2025 09:40:00 +0000</pubDate>
-      <guid>https://nccc170.org/meetings/2025/20250605_0940/</guid>
+      <guid>/meetings/2025/20250605_0940/</guid>
       <description>&lt;p&gt;Goodhart’s law says that &amp;ldquo;when a measure becomes a target, it ceases to be a good measure.&amp;rdquo; Plant breeding aims to increase the genetic value of varieties, and the Breeder’s Equation states that the rate of gain is proportional to the accuracy of selection. In the past two decades, Genomic Prediction has been tested in many plant breeding systems, for many traits, using ever-increasing complexity of statistical models. These models are almost universally evaluated empirically using cross-validation to quantify their accuracy. However, cross-validation can make Genomic Prediction look much better than it really is. I am concerned that our singular focus on accuracy has led to many discoveries of ways to improve accuracy that do not improve genetic gain. I will lay out this argument with preliminary results from a literature survey and simulations. But I also hope for a broader discussion of whether similar issues occur in other areas of applied statistics in agriculture, and how to solve them.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Participant</title>
-      <link>https://nccc170.org/meetings/2024/participants/</link>
+      <link>/meetings/2024/participants/</link>
       <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://nccc170.org/meetings/2024/participants/</guid>
+      <guid>/meetings/2024/participants/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Discussion: Why do we teach ANOVA for factorials?</title>
-      <link>https://nccc170.org/meetings/2023/20230615_1530/</link>
+      <link>/meetings/2023/20230615_1530/</link>
       <pubDate>Thu, 15 Jun 2023 15:30:00 +0000</pubDate>
-      <guid>https://nccc170.org/meetings/2023/20230615_1530/</guid>
+      <guid>/meetings/2023/20230615_1530/</guid>
       <description>&lt;p&gt;In experimentation, the power of manipulating two (or more) factors simultaneously has been recognized for at least a century and the analysis of such experiments is considered among the most basic analyses in biostatistics. I’m sure this topic has been studied in every possible way in the literature and in practice. However, as I’ve refined how I teach this topic to graduate students at UC Davis and discuss such experiments with collaborators I’ve found the way most textbooks describe two-factor experiments to be non-intuitive and focused on mathematically precise answers to the wrong questions. What am I missing? Do you start by estimating main effects and interactions? In what context is a “main effect” actually interesting? Instead, I favor talking about two-factor experiments as estimating a collection of “simple effects” or “subgroup effects” and then comparing them to look for consistency or heterogeneity. This approach is no more difficult, rarely much less powerful, produces more descriptive results, and I think provides a more unified perspective through which to view both simple and complex experiments. I would like feedback on this “treatment effect variability”-first perspective, both in the context of factorials and blocked designs.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Pitfalls and Remedies for Cross Validation with Multi-trait Genomic Prediction Methods</title>
-      <link>https://nccc170.org/meetings/2021/20210625_0935/</link>
+      <link>/meetings/2021/20210625_0935/</link>
       <pubDate>Fri, 25 Jun 2021 09:35:00 +0000</pubDate>
-      <guid>https://nccc170.org/meetings/2021/20210625_0935/</guid>
+      <guid>/meetings/2021/20210625_0935/</guid>
       <description>&lt;p&gt;Incorporating measurements on correlated traits into genomic prediction models can increase prediction accuracy and selection gain. However, multi-trait genomic prediction models are complex and prone to overfitting which may result in a loss of prediction accuracy relative to single-trait genomic prediction. Cross-validation is considered the gold standard method for selecting and tuning models for genomic prediction in both plant and animal breeding. When used appropriately, cross-validation gives an accurate estimate of the prediction accuracy of a genomic prediction model, and can effectively choose among disparate models based on their expected performance in real data. However, we show that a naive cross-validation strategy applied to the multi-trait prediction problem can be severely biased and lead to sub-optimal choices between single and multi-trait models when secondary traits are used to aid in the prediction of focal traits and these secondary traits are measured on the individuals to be tested. We use simulations to demonstrate the extent of the problem and propose three partial solutions: 1) a parametric solution from selection index theory, 2) a semi-parametric method for correcting the cross-validation estimates of prediction accuracy, and 3) a fully nonparametric method which we call CV2*: validating model predictions against focal trait measurements from genetically related individuals. The current excitement over high-throughput phenotyping suggests that more comprehensive phenotype measurements will be useful for accelerating breeding programs. Using an appropriate cross-validation strategy should more reliably determine if and when combining information across multiple traits is useful. Published in G3: Genes|Genomes|Genetics, 9(11), 3727–3741, 2019.&lt;/p&gt;
 </description>
     </item>

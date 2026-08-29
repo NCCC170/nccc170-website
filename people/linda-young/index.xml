@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Linda Young | NCCC170</title>
-    <link>https://nccc170.org/people/linda-young/</link>
-      <atom:link href="https://nccc170.org/people/linda-young/index.xml" rel="self" type="application/rss+xml" />
+    <link>/people/linda-young/</link>
+      <atom:link href="/people/linda-young/index.xml" rel="self" type="application/rss+xml" />
     <description>Linda Young</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://nccc170.org/media/icon_hu4f7302a92513f633c47a59ec94129e6b_633_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hu4f7302a92513f633c47a59ec94129e6b_633_512x512_fill_lanczos_center_3.png</url>
       <title>Linda Young</title>
-      <link>https://nccc170.org/people/linda-young/</link>
+      <link>/people/linda-young/</link>
     </image>
     
     <item>
       <title>Participant</title>
-      <link>https://nccc170.org/meetings/2025/participants/</link>
+      <link>/meetings/2025/participants/</link>
       <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://nccc170.org/meetings/2025/participants/</guid>
+      <guid>/meetings/2025/participants/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Participant</title>
-      <link>https://nccc170.org/meetings/2020/participants/</link>
+      <link>/meetings/2020/participants/</link>
       <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://nccc170.org/meetings/2020/participants/</guid>
+      <guid>/meetings/2020/participants/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Participant</title>
-      <link>https://nccc170.org/meetings/2019/participants/</link>
+      <link>/meetings/2019/participants/</link>
       <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://nccc170.org/meetings/2019/participants/</guid>
+      <guid>/meetings/2019/participants/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On recognizing the proper experimental unit in animal studies in the dairy sciences</title>
-      <link>https://nccc170.org/publication/experimental-replication-in-the-dairy-sciences/</link>
+      <link>/publication/experimental-replication-in-the-dairy-sciences/</link>
       <pubDate>Wed, 07 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>https://nccc170.org/publication/experimental-replication-in-the-dairy-sciences/</guid>
+      <guid>/publication/experimental-replication-in-the-dairy-sciences/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analysis of Generalized Linear Mixed Models in the Agricultural and Natural Resources Sciences</title>
-      <link>https://nccc170.org/publication/glmm-in-agricultural-sciences/</link>
+      <link>/publication/glmm-in-agricultural-sciences/</link>
       <pubDate>Wed, 01 Feb 2012 00:00:00 +0000</pubDate>
-      <guid>https://nccc170.org/publication/glmm-in-agricultural-sciences/</guid>
+      <guid>/publication/glmm-in-agricultural-sciences/</guid>
       <description>&lt;p&gt;&lt;i&gt;Analysis of Generalized Linear Mixed Models in the Agricultural and Natural Resources Sciences&lt;/i&gt; was written by members of NCCC170 as part of the project’s educational outreach. The authors were Edward Gbur, Walter Stroup, Kevin McCarter, Susan Durham, Linda Young, Mary Christman, Mark West and Matthew Kramer. The book was published in 2012 by the American Society of Agronomy.&lt;/p&gt;
 &lt;h2 id=&#34;data-files-for-selected-examples&#34;&gt;Data Files for Selected Examples&lt;/h2&gt;
 &lt;p&gt;Data files are provided here to allow readers to recreate the analyses of the examples in the book. All of them are text files. The first few lines of each file provide information on its contents. No SAS coding has been provided. Some files contain modified versions or subsets of data that were used in publications. The modifications were made to enable us to illustrate specific concepts and issues. As stated in the book, they are not intended to be the basis for drawing subject matter conclusions but rather to demonstrate the wide range of research settings to which generalized linear mixed models can be applied. A few files are part of ongoing research projects and/or manuscripts under consideration for publication.&lt;/p&gt;

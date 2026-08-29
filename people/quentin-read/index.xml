@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Quentin Read | NCCC170</title>
-    <link>https://nccc170.org/people/quentin-read/</link>
-      <atom:link href="https://nccc170.org/people/quentin-read/index.xml" rel="self" type="application/rss+xml" />
+    <link>/people/quentin-read/</link>
+      <atom:link href="/people/quentin-read/index.xml" rel="self" type="application/rss+xml" />
     <description>Quentin Read</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 10 Jun 2027 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://nccc170.org/people/quentin-read/avatar_hu7257800b08109c3cb43df7c0163a5dcd_184297_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>/people/quentin-read/avatar_hu7257800b08109c3cb43df7c0163a5dcd_184297_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Quentin Read</title>
-      <link>https://nccc170.org/people/quentin-read/</link>
+      <link>/people/quentin-read/</link>
     </image>
     
     <item>
       <title>Site Host</title>
-      <link>https://nccc170.org/meetings/2027/sitehost/</link>
+      <link>/meetings/2027/sitehost/</link>
       <pubDate>Thu, 10 Jun 2027 00:00:00 +0000</pubDate>
-      <guid>https://nccc170.org/meetings/2027/sitehost/</guid>
+      <guid>/meetings/2027/sitehost/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Best Practices for GLMM Implementation: Group Updates and Planning</title>
-      <link>https://nccc170.org/meetings/2026/20260611_1330/</link>
+      <link>/meetings/2026/20260611_1330/</link>
       <pubDate>Thu, 11 Jun 2026 13:30:00 +0000</pubDate>
-      <guid>https://nccc170.org/meetings/2026/20260611_1330/</guid>
+      <guid>/meetings/2026/20260611_1330/</guid>
       <description>&lt;p&gt;Our ongoing project initiated in 2024 and investigates best practices for the application of Generalized Linear Mixed Models (GLMMs), including topics in statistical modeling and software implementation. As we transition into the project&amp;rsquo;s next phase, this meeting will serve as a working session to review our progress and plan our future steps. We will prioritize discussions around our publication roadmap and the immediate actionable steps required to successfully deliver our findings.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>GLMM working group updates and plans to move forward</title>
-      <link>https://nccc170.org/meetings/2025/20250605_1430/</link>
+      <link>/meetings/2025/20250605_1430/</link>
       <pubDate>Thu, 05 Jun 2025 14:30:00 +0000</pubDate>
-      <guid>https://nccc170.org/meetings/2025/20250605_1430/</guid>
+      <guid>/meetings/2025/20250605_1430/</guid>
       <description>&lt;p&gt;Outline: Ongoing work on Best Practices for GLMM Implementation&lt;/p&gt;
 &lt;p&gt;Objectives of the Session
 I.	Articulate any remaining technical aspects of examples presented at CASANR
@@ -51,9 +51,9 @@ V.	New interest in joining the GLMM joint effort working group&lt;/p&gt;
     
     <item>
       <title>Exploring the options for quantifying uncertainty in derivatives of splines</title>
-      <link>https://nccc170.org/meetings/2024/20240613_0940/</link>
+      <link>/meetings/2024/20240613_0940/</link>
       <pubDate>Thu, 13 Jun 2024 09:40:00 +0000</pubDate>
-      <guid>https://nccc170.org/meetings/2024/20240613_0940/</guid>
+      <guid>/meetings/2024/20240613_0940/</guid>
       <description>&lt;p&gt;Generalized additive mixed models (GAMMs) are a powerful tool for flexibly fitting time series data with both fixed and random effects. WE can use semiparametric GAMMs to make inference about bacterial growth curves that may not play well with fully parametric growth equations. Here, we fit GAMMs to growth trends of a probiotic bacterium found in fermented foods (Lactiplantibacillus pentosus) on cucumber juice medium. These data were collected to address a debate about whether estimates of bacterial growth parameters measured from optical density on microtiter plates are dependent on initial cell density. The growth parameters estimated include maximum relative growth rate, maximum biomass, and lag time, which require us to estimate the first derivatives of the GAMM splines and to quantify their uncertainty. We present a fully Bayesian approach and a hybrid frequentist-Bayesian approach in which the model is fit using maximum likelihood and posterior draws are simulated using a multivariate normal approximation. The hybrid frequentist approach produces a simultaneous 95% confidence interval across the domain of the spline and its first derivative. We make inferences about how the growth parameters vary with initial cell density and medium type. Both approaches produce similar results: as initial cell density decreases, estimated maximum growth rate increases, maximum biomass decreases, and lag time either increases or stays constant, depending on medium type. However, the hybrid frequentist approach is computationally much faster. Ultimately, we plan to incorporate it into software that will be used by fermentation scientists.&lt;/p&gt;
 </description>
     </item>

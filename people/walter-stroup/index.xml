@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Walter Stroup | NCCC170</title>
-    <link>https://nccc170.org/people/walter-stroup/</link>
-      <atom:link href="https://nccc170.org/people/walter-stroup/index.xml" rel="self" type="application/rss+xml" />
+    <link>/people/walter-stroup/</link>
+      <atom:link href="/people/walter-stroup/index.xml" rel="self" type="application/rss+xml" />
     <description>Walter Stroup</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 11 Jun 2026 13:30:00 +0000</lastBuildDate>
     <image>
-      <url>https://nccc170.org/media/icon_hu4f7302a92513f633c47a59ec94129e6b_633_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hu4f7302a92513f633c47a59ec94129e6b_633_512x512_fill_lanczos_center_3.png</url>
       <title>Walter Stroup</title>
-      <link>https://nccc170.org/people/walter-stroup/</link>
+      <link>/people/walter-stroup/</link>
     </image>
     
     <item>
       <title>Best Practices for GLMM Implementation: Group Updates and Planning</title>
-      <link>https://nccc170.org/meetings/2026/20260611_1330/</link>
+      <link>/meetings/2026/20260611_1330/</link>
       <pubDate>Thu, 11 Jun 2026 13:30:00 +0000</pubDate>
-      <guid>https://nccc170.org/meetings/2026/20260611_1330/</guid>
+      <guid>/meetings/2026/20260611_1330/</guid>
       <description>&lt;p&gt;Our ongoing project initiated in 2024 and investigates best practices for the application of Generalized Linear Mixed Models (GLMMs), including topics in statistical modeling and software implementation. As we transition into the project&amp;rsquo;s next phase, this meeting will serve as a working session to review our progress and plan our future steps. We will prioritize discussions around our publication roadmap and the immediate actionable steps required to successfully deliver our findings.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>GLMM working group updates and plans to move forward</title>
-      <link>https://nccc170.org/meetings/2025/20250605_1430/</link>
+      <link>/meetings/2025/20250605_1430/</link>
       <pubDate>Thu, 05 Jun 2025 14:30:00 +0000</pubDate>
-      <guid>https://nccc170.org/meetings/2025/20250605_1430/</guid>
+      <guid>/meetings/2025/20250605_1430/</guid>
       <description>&lt;p&gt;Outline: Ongoing work on Best Practices for GLMM Implementation&lt;/p&gt;
 &lt;p&gt;Objectives of the Session
 I.	Articulate any remaining technical aspects of examples presented at CASANR
@@ -43,62 +43,62 @@ V.	New interest in joining the GLMM joint effort working group&lt;/p&gt;
     
     <item>
       <title>Best practices for GLMMs with zero-inflation – unique challenges for repeated-measures data and fitting covariates in binary process</title>
-      <link>https://nccc170.org/meetings/2025/20250605_1400/</link>
+      <link>/meetings/2025/20250605_1400/</link>
       <pubDate>Thu, 05 Jun 2025 14:00:00 +0000</pubDate>
-      <guid>https://nccc170.org/meetings/2025/20250605_1400/</guid>
+      <guid>/meetings/2025/20250605_1400/</guid>
       <description>&lt;p&gt;The GLMM working group continues its efforts to compare the implementation of zero-inflation models across SAS and R software platforms with the analysis of this data set where the counts of beneficial insects were measured weekly from sugar beet plots exposed to different insecticidal treatments following a randomized complete block design. SAS uses proc nlmixed to fit zero-inflation models with random effects. However, there are limited capabilities for the covariance structures with nlmixed to model the repeated measures data. We used the R package glmmTMB which allows for flexibility in fitting zero-inflation models with random effects and various covariance structures. Overall, the estimation of covariates in the binary process is prolonged to determine optimal model fit statistics. This must be done iteratively since methods like drop1() function only can be used to test terms in the observed counts data generating process. Furthermore, the value of assessing the impact of the covariates on the probability of observing a zero is likely limited as the zeros are often considered a nuisance in the data or not the primary focus of the analysis.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>What SAS and R software users need to know about GLMMs: an example-driven discussion</title>
-      <link>https://nccc170.org/meetings/2024/20240614_0900/</link>
+      <link>/meetings/2024/20240614_0900/</link>
       <pubDate>Fri, 14 Jun 2024 09:00:00 +0000</pubDate>
-      <guid>https://nccc170.org/meetings/2024/20240614_0900/</guid>
+      <guid>/meetings/2024/20240614_0900/</guid>
       <description>&lt;p&gt;This group discussion will target conceptual and methodological best practices that users of generalized linear mixed models (GLMM) should know and address appropriately, regardless of choice of software platform. Using an example driven approach, we further describe software implementation of GLMMs in SAS and R. We present differential capabilities of these software platforms to address specific GLMM issues (to the best of our abilities). Last, we invite contributions from R-literate readers.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Discussion: Progress update on “SAS for Mixed Models”</title>
-      <link>https://nccc170.org/meetings/2021/20210625_1015/</link>
+      <link>/meetings/2021/20210625_1015/</link>
       <pubDate>Fri, 25 Jun 2021 10:15:00 +0000</pubDate>
-      <guid>https://nccc170.org/meetings/2021/20210625_1015/</guid>
+      <guid>/meetings/2021/20210625_1015/</guid>
       <description>&lt;p&gt;Progress update on “SAS for Mixed Models”, 3rd edition, 2nd volume titled “Advanced Applications” by Milliken, Claassen, Wolfinger and Stroup. Recent developments and proposed strategies to move forward.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Participant</title>
-      <link>https://nccc170.org/meetings/2020/participants/</link>
+      <link>/meetings/2020/participants/</link>
       <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://nccc170.org/meetings/2020/participants/</guid>
+      <guid>/meetings/2020/participants/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Group Discussion: Visualizing Group Means</title>
-      <link>https://nccc170.org/meetings/2018/20180628_1610/</link>
+      <link>/meetings/2018/20180628_1610/</link>
       <pubDate>Thu, 28 Jun 2018 16:10:00 +0000</pubDate>
-      <guid>https://nccc170.org/meetings/2018/20180628_1610/</guid>
+      <guid>/meetings/2018/20180628_1610/</guid>
       <description>&lt;p&gt;When researchers report study results, they often want to visualize group means with ± (2) SE (or SEM) bars, and use their overlap (or not) to summarize significant differences between group means. However, in mixed or multi-factor models those error bars (and their overlap) can be easily misinterpreted. What meaningful (and easily interpretable) alternatives exist (or can be created) to visualize differences between group means? (We’re not looking at the often awkward diffogram.)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Pseudo likelihood or Quadrature? What We Thought We Knew, What We Think We Know, and What We Are Still Trying to Figure Out</title>
-      <link>https://nccc170.org/meetings/2018/20180628_1055/</link>
+      <link>/meetings/2018/20180628_1055/</link>
       <pubDate>Thu, 28 Jun 2018 10:55:00 +0000</pubDate>
-      <guid>https://nccc170.org/meetings/2018/20180628_1055/</guid>
+      <guid>/meetings/2018/20180628_1055/</guid>
       <description>&lt;p&gt;Two predominant computing methods for generalized linear mixed models (GLMMs) are linearization – e.g. pseudo likelihood (PL) and penalized quasi likelihood (PQL) – and integral approximation – e.g. Gauss-Hermite quadrature and Laplace. The primary GLMM package in R, LME4, uses a one-point quadrature algorithm. R also has a PQL package. In SAS®, PROC GLIMMIX was originally developed using the PL algorithm. Laplace and quadrature options were added in the 2008 release. The choice of methods presents a dilemma for GLMM users: which approximation for GLMM estimation and inference should one use, and why? Linearization methods are more versatile and able to handle both conditional and marginal GLMMs. On the other hand, GLMM software documentation and the literature on which it is based tend to focus on the limitations of linearization. Stroup (2013) reiterated this theme in his GLMM textbook, featuring examples of bias in estimates from PL. As a result, a “conventional wisdom” has arisen that integral approximation – quadrature when possible – is always best. However, despite the 2013 copyright, Stroup’s textbook was written in 2011. Meanwhile, experience with GLMMs and research about its small sample behavior has been on-going. Much “conventional wisdom” circa 2011 turns out not to be true. Above all, it is clear that there is no one-size-fits-all best method. The purpose of this presentation is to provide an updated look at what we now know about quadrature and PL, and to offer a “30,000 foot view” of some general operating principles for making an informed choice between the two. This presentation will included updates based on feedback and discussion at the 2018 Conference on Applied Statistics in Agriculture.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Overview of Statistics as a Scientific Discipline and Practical Implications for the Evaluation of Faculty Excellence</title>
-      <link>https://nccc170.org/publication/statistics-as-a-scientific-discipline/</link>
+      <link>/publication/statistics-as-a-scientific-discipline/</link>
       <pubDate>Fri, 05 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://nccc170.org/publication/statistics-as-a-scientific-discipline/</guid>
+      <guid>/publication/statistics-as-a-scientific-discipline/</guid>
       <description>&lt;p&gt;This document is an official position by the &lt;a href=&#34;https://www.amstat.org/policy-and-advocacy/asa-board-statements&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Board of Directors of the American Statistical Association&lt;/a&gt; on matters affecting the statistical profession.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Executive Summary&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Statistics is at the same time a dynamic, stand-alone science with its own core research agenda and an inherently collaborative discipline, developing in response to scientific needs. In this sense, statistics fundamentally differs from many other domain-specific disciplines in science. This difference poses unique challenges for defining the standards by which faculty excellence is evaluated across the teaching, research, and service components.&lt;/p&gt;
@@ -133,26 +133,26 @@ V.	New interest in joining the GLMM joint effort working group&lt;/p&gt;
     
     <item>
       <title>Discussion: Overview of Statistics as a Scientific Discipline and Practical Implications for the Evaluation of Faculty Excellence</title>
-      <link>https://nccc170.org/meetings/2017/20170622_1100/</link>
+      <link>/meetings/2017/20170622_1100/</link>
       <pubDate>Thu, 22 Jun 2017 11:00:00 +0000</pubDate>
-      <guid>https://nccc170.org/meetings/2017/20170622_1100/</guid>
+      <guid>/meetings/2017/20170622_1100/</guid>
       <description>&lt;p&gt;Open discussion and solicitation of opinions from the group on the working draft of two statements targeted at outlining the role of statistical consulting and interdisciplinary collaboration in the broader scientific discipline of Statistics and practical implications for evaluation of scholarship in related faculty positions. Please refer to enclosed working documents titled “1 - Overview of the Discipline and Implications for Faculty Excellence” and “2 - Position Description and Criteria for Excellence”&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>On recognizing the proper experimental unit in animal studies in the dairy sciences</title>
-      <link>https://nccc170.org/publication/experimental-replication-in-the-dairy-sciences/</link>
+      <link>/publication/experimental-replication-in-the-dairy-sciences/</link>
       <pubDate>Wed, 07 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>https://nccc170.org/publication/experimental-replication-in-the-dairy-sciences/</guid>
+      <guid>/publication/experimental-replication-in-the-dairy-sciences/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analysis of Generalized Linear Mixed Models in the Agricultural and Natural Resources Sciences</title>
-      <link>https://nccc170.org/publication/glmm-in-agricultural-sciences/</link>
+      <link>/publication/glmm-in-agricultural-sciences/</link>
       <pubDate>Wed, 01 Feb 2012 00:00:00 +0000</pubDate>
-      <guid>https://nccc170.org/publication/glmm-in-agricultural-sciences/</guid>
+      <guid>/publication/glmm-in-agricultural-sciences/</guid>
       <description>&lt;p&gt;&lt;i&gt;Analysis of Generalized Linear Mixed Models in the Agricultural and Natural Resources Sciences&lt;/i&gt; was written by members of NCCC170 as part of the project’s educational outreach. The authors were Edward Gbur, Walter Stroup, Kevin McCarter, Susan Durham, Linda Young, Mary Christman, Mark West and Matthew Kramer. The book was published in 2012 by the American Society of Agronomy.&lt;/p&gt;
 &lt;h2 id=&#34;data-files-for-selected-examples&#34;&gt;Data Files for Selected Examples&lt;/h2&gt;
 &lt;p&gt;Data files are provided here to allow readers to recreate the analyses of the examples in the book. All of them are text files. The first few lines of each file provide information on its contents. No SAS coding has been provided. Some files contain modified versions or subsets of data that were used in publications. The modifications were made to enable us to illustrate specific concepts and issues. As stated in the book, they are not intended to be the basis for drawing subject matter conclusions but rather to demonstrate the wide range of research settings to which generalized linear mixed models can be applied. A few files are part of ongoing research projects and/or manuscripts under consideration for publication.&lt;/p&gt;

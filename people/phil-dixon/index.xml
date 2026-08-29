@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Phil Dixon | NCCC170</title>
-    <link>https://nccc170.org/people/phil-dixon/</link>
-      <atom:link href="https://nccc170.org/people/phil-dixon/index.xml" rel="self" type="application/rss+xml" />
+    <link>/people/phil-dixon/</link>
+      <atom:link href="/people/phil-dixon/index.xml" rel="self" type="application/rss+xml" />
     <description>Phil Dixon</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://nccc170.org/media/icon_hu4f7302a92513f633c47a59ec94129e6b_633_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hu4f7302a92513f633c47a59ec94129e6b_633_512x512_fill_lanczos_center_3.png</url>
       <title>Phil Dixon</title>
-      <link>https://nccc170.org/people/phil-dixon/</link>
+      <link>/people/phil-dixon/</link>
     </image>
     
   </channel>

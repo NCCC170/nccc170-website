@@ -2,87 +2,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kathy Yeater | NCCC170</title>
-    <link>https://nccc170.org/people/kathy-yeater/</link>
-      <atom:link href="https://nccc170.org/people/kathy-yeater/index.xml" rel="self" type="application/rss+xml" />
+    <link>/people/kathy-yeater/</link>
+      <atom:link href="/people/kathy-yeater/index.xml" rel="self" type="application/rss+xml" />
     <description>Kathy Yeater</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://nccc170.org/people/kathy-yeater/avatar_hu77a86b52ab314799c4f563cb4ed64202_63068_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>/people/kathy-yeater/avatar_hu77a86b52ab314799c4f563cb4ed64202_63068_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Kathy Yeater</title>
-      <link>https://nccc170.org/people/kathy-yeater/</link>
+      <link>/people/kathy-yeater/</link>
     </image>
     
     <item>
       <title>Participant</title>
-      <link>https://nccc170.org/meetings/2025/participants/</link>
+      <link>/meetings/2025/participants/</link>
       <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://nccc170.org/meetings/2025/participants/</guid>
+      <guid>/meetings/2025/participants/</guid>
       <description></description>
     </item>
     
     <item>
       <title>What is Data? The Statistician’s Role in Data Management Planning</title>
-      <link>https://nccc170.org/meetings/2024/20240613_1435/</link>
+      <link>/meetings/2024/20240613_1435/</link>
       <pubDate>Thu, 13 Jun 2024 14:35:00 +0000</pubDate>
-      <guid>https://nccc170.org/meetings/2024/20240613_1435/</guid>
+      <guid>/meetings/2024/20240613_1435/</guid>
       <description>&lt;p&gt;In 2013, the White House Office of Science Technology Policy released a memorandum (Holdren) which mandated increasing access to the results of federally funded research.  Almost 10 years later, Dr. Alondra Nelson (Acting Director, OSTP) updated the memo to reflect “all peer-reviewed scholarly publications authored or co-authored by individuals or institutions resulting from federally funded research are made freely available and publicly accessible by default in agency-designated repositories without any embargo or delay after publication.”  As Area Statisticians for the Plains Area in the USDA/ARS, we were tasked to lead our scientists in embracing and moving towards an Open Access environment.  Data Management Best Practices is a tenet of OA, one which many of us learn by doing, but there are foundational rules and principles with which many scientists struggle. In this presentation, we will describe our communication and training strategy with ARS scientists to set them on an efficient path towards data sharing.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Program Chair</title>
-      <link>https://nccc170.org/meetings/2024/programchair/</link>
+      <link>/meetings/2024/programchair/</link>
       <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://nccc170.org/meetings/2024/programchair/</guid>
+      <guid>/meetings/2024/programchair/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Participant</title>
-      <link>https://nccc170.org/meetings/2023/participants/</link>
+      <link>/meetings/2023/participants/</link>
       <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://nccc170.org/meetings/2023/participants/</guid>
+      <guid>/meetings/2023/participants/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Participant</title>
-      <link>https://nccc170.org/meetings/2022/participants/</link>
+      <link>/meetings/2022/participants/</link>
       <pubDate>Thu, 16 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://nccc170.org/meetings/2022/participants/</guid>
+      <guid>/meetings/2022/participants/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Participant</title>
-      <link>https://nccc170.org/meetings/2020/participants/</link>
+      <link>/meetings/2020/participants/</link>
       <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://nccc170.org/meetings/2020/participants/</guid>
+      <guid>/meetings/2020/participants/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Generalized Linear Mixed Model Approach to Time-to-Event Data with Censored Observations</title>
-      <link>https://nccc170.org/meetings/2019/20190620_1010/</link>
+      <link>/meetings/2019/20190620_1010/</link>
       <pubDate>Thu, 20 Jun 2019 10:10:00 +0000</pubDate>
-      <guid>https://nccc170.org/meetings/2019/20190620_1010/</guid>
+      <guid>/meetings/2019/20190620_1010/</guid>
       <description>&lt;p&gt;The time-to-event response is commonly thought of as survival analysis, and typically concerns statistical modeling of expected life span.  In the example presented here, alfalfa leafcutting bees, Megachile rotundata, were randomly exposed to one of eight experimental thermoprofiles or two control thermoprofiles, for one to eight weeks.  The incorporation of these fluctuating thermoprofiles in the management of the bees increases survival and blocks the development of sub-lethal effects, such as delayed emergence.  The data collected here investigates the question of whether any experimental thermoprofile provides better overall survival, with a reduction of sub-lethal effects.  The study design incorporates typical aspects of agricultural research; random blocking effects.  All M. rotundata prepupae brood cells were randomly placed in individual wells of 24-well culture plates.  Plates were randomly assigned to thermoprofile and exposure duration, with three plate replicates per thermoprofile x exposure time.  Bees were observed for emergence for 50 days.  All bees that were not yet emerged prior to fixed end of study were considered to be censored observations.  We fit a generalized linear mixed model (GLMM), using the SAS® GLIMMIX Procedure to the censored data and obtained time-to-emergence function estimates.  As opposed to a typical survival analysis approach, such as Kaplan-Meier curve, in the GLMM we were able to include the random model effects from the study design.  This is an important inclusion in the model, such that correct standard error and test statistics are generated for mixed models with non-Gaussian data.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Participant</title>
-      <link>https://nccc170.org/meetings/2018/participants/</link>
+      <link>/meetings/2018/participants/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://nccc170.org/meetings/2018/participants/</guid>
+      <guid>/meetings/2018/participants/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Overview of Statistics as a Scientific Discipline and Practical Implications for the Evaluation of Faculty Excellence</title>
-      <link>https://nccc170.org/publication/statistics-as-a-scientific-discipline/</link>
+      <link>/publication/statistics-as-a-scientific-discipline/</link>
       <pubDate>Fri, 05 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://nccc170.org/publication/statistics-as-a-scientific-discipline/</guid>
+      <guid>/publication/statistics-as-a-scientific-discipline/</guid>
       <description>&lt;p&gt;This document is an official position by the &lt;a href=&#34;https://www.amstat.org/policy-and-advocacy/asa-board-statements&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Board of Directors of the American Statistical Association&lt;/a&gt; on matters affecting the statistical profession.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Executive Summary&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Statistics is at the same time a dynamic, stand-alone science with its own core research agenda and an inherently collaborative discipline, developing in response to scientific needs. In this sense, statistics fundamentally differs from many other domain-specific disciplines in science. This difference poses unique challenges for defining the standards by which faculty excellence is evaluated across the teaching, research, and service components.&lt;/p&gt;
@@ -117,9 +117,9 @@
     
     <item>
       <title>Metabolomics: Challenges and Success</title>
-      <link>https://nccc170.org/meetings/2017/20170622_1540/</link>
+      <link>/meetings/2017/20170622_1540/</link>
       <pubDate>Thu, 22 Jun 2017 15:40:00 +0000</pubDate>
-      <guid>https://nccc170.org/meetings/2017/20170622_1540/</guid>
+      <guid>/meetings/2017/20170622_1540/</guid>
       <description>&lt;p&gt;Metabolomics is defined as the comprehensive analysis of all small-molecule compounds that can be found in biological samples, such as cells, tissues or biofluids (Fiehn, 2002). Interest in this research field stems from research goals of identifying biomarkers of disease, or quantifying biochemical phenotypes. Advances in mass spectrometry (MS) and variations of such compound separation technologies also spur the interest and growth. This presentation at NCCC170 serves as an introduction to a popular data analysis package, MetaboAnalyst (Xia &amp;amp; Wishart, 2011). The goal is to prepare fellow statistical consultants and collaborators with the process of this technique, and corresponding analyses options and interpretations. An experimental design and analysis will be presented. The experiment consists of a two-way balanced factorial treatment structure: (Salmonella challenge or Control) and (Prophylaxis treatment or Placebo), n=10 bovine per treatment group. The biological sample from each animal is blood serum, and metabolomics assay is gas chromatography/mass spectrometry (GC/MS). Raw spectral data processing steps is performed by a third-party contractor. MetaboAnalyst 3.0 web-based platform is utilized to perform data processing steps such as data normalization and transformation, as well as data analysis such as exploratory statistical analysis, ANOVA, and partial least squares/discriminant analysis (PLS/DA). The advantages and disadvantages of this pipeline and its results will be presented and discussed.&lt;/p&gt;
 </description>
     </item>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Somak Dutta | NCCC170</title>
-    <link>https://nccc170.org/people/somak-dutta/</link>
-      <atom:link href="https://nccc170.org/people/somak-dutta/index.xml" rel="self" type="application/rss+xml" />
+    <link>/people/somak-dutta/</link>
+      <atom:link href="/people/somak-dutta/index.xml" rel="self" type="application/rss+xml" />
     <description>Somak Dutta</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 11 Jun 2026 09:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://nccc170.org/people/somak-dutta/avatar_hub58ea2113bec08e45906f38fb095d99d_9375_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>/people/somak-dutta/avatar_hub58ea2113bec08e45906f38fb095d99d_9375_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Somak Dutta</title>
-      <link>https://nccc170.org/people/somak-dutta/</link>
+      <link>/people/somak-dutta/</link>
     </image>
     
     <item>
       <title>Matrix-free High Dimensional Gaussian Simulation</title>
-      <link>https://nccc170.org/meetings/2026/20260611_0900/</link>
+      <link>/meetings/2026/20260611_0900/</link>
       <pubDate>Thu, 11 Jun 2026 09:00:00 +0000</pubDate>
-      <guid>https://nccc170.org/meetings/2026/20260611_0900/</guid>
+      <guid>/meetings/2026/20260611_0900/</guid>
       <description>&lt;p&gt;Sampling from high-dimensional Gaussian distributions arises frequently in both Bayesian and frequentist inference. Such sampling is typically carried out using dense matrix factorizations, which can be computationally prohibitive and difficult to scale. In this talk, I will discuss a new matrix-free method for sampling from high-dimensional distributions, with applications to a broad class of Gaussian and generalized linear models. This talk is based on several joint works with Debashis Mondal and PhD students Subrata Pal, Aniruddha Pathak, and Hongyuan Wang.&lt;/p&gt;
 </description>
     </item>
