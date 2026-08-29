@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Wheeler | NCCC170</title>
+    <link>https://nccc170.org/people/david-wheeler/</link>
+      <atom:link href="https://nccc170.org/people/david-wheeler/index.xml" rel="self" type="application/rss+xml" />
+    <description>David Wheeler</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://nccc170.org/media/icon_hu4f7302a92513f633c47a59ec94129e6b_633_512x512_fill_lanczos_center_3.png</url>
+      <title>David Wheeler</title>
+      <link>https://nccc170.org/people/david-wheeler/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jennifer Clarke | NCCC170</title>
+    <link>https://nccc170.org/people/jennifer-clarke/</link>
+      <atom:link href="https://nccc170.org/people/jennifer-clarke/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jennifer Clarke</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://nccc170.org/people/jennifer-clarke/avatar_huc627b754939d9b6bc091d27708bd6fa6_118461_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Jennifer Clarke</title>
+      <link>https://nccc170.org/people/jennifer-clarke/</link>
+    </image>
+    
+  </channel>
+</rss>

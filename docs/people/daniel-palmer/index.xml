@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniel Palmer | NCCC170</title>
+    <link>https://nccc170.org/people/daniel-palmer/</link>
+      <atom:link href="https://nccc170.org/people/daniel-palmer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Daniel Palmer</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 11 Jun 2026 13:30:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nccc170.org/people/daniel-palmer/avatar_hu717f288ea29799f1252e1e90ae54c3f9_92740_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Daniel Palmer</title>
+      <link>https://nccc170.org/people/daniel-palmer/</link>
+    </image>
+    
+    <item>
+      <title>Best Practices for GLMM Implementation: Group Updates and Planning</title>
+      <link>https://nccc170.org/meetings/2026/20260611_1330/</link>
+      <pubDate>Thu, 11 Jun 2026 13:30:00 +0000</pubDate>
+      <guid>https://nccc170.org/meetings/2026/20260611_1330/</guid>
+      <description>&lt;p&gt;Our ongoing project initiated in 2024 and investigates best practices for the application of Generalized Linear Mixed Models (GLMMs), including topics in statistical modeling and software implementation. As we transition into the project&amp;rsquo;s next phase, this meeting will serve as a working session to review our progress and plan our future steps. We will prioritize discussions around our publication roadmap and the immediate actionable steps required to successfully deliver our findings.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GLMM working group updates and plans to move forward</title>
+      <link>https://nccc170.org/meetings/2025/20250605_1430/</link>
+      <pubDate>Thu, 05 Jun 2025 14:30:00 +0000</pubDate>
+      <guid>https://nccc170.org/meetings/2025/20250605_1430/</guid>
+      <description>&lt;p&gt;Outline: Ongoing work on Best Practices for GLMM Implementation&lt;/p&gt;
+&lt;p&gt;Objectives of the Session
+I.	Articulate any remaining technical aspects of examples presented at CASANR
+II.	Discuss group’s approach to move advanced examples
+III.	Discuss alternative outlet venues
+IV.	Produce a gameplan for next steps&lt;/p&gt;
+&lt;p&gt;Agenda items for specific discussion
+I.	Examples presented at CASANR with brief update on state of work
+II.	Examples not presented at CASANR with discussion on future direction for these examples
+III.	Outlet venues for best practices on GLMM implementation
+IV.	Discuss credit allocation
+V.	New interest in joining the GLMM joint effort working group&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Participant</title>
+      <link>https://nccc170.org/meetings/2024/participants/</link>
+      <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://nccc170.org/meetings/2024/participants/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

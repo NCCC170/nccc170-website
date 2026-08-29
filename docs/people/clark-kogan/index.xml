@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Clark Kogan | NCCC170</title>
+    <link>https://nccc170.org/people/clark-kogan/</link>
+      <atom:link href="https://nccc170.org/people/clark-kogan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Clark Kogan</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 11 Jun 2026 13:30:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nccc170.org/people/clark-kogan/avatar_hub905401213908ee612613b7ed2ef57b5_23966_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Clark Kogan</title>
+      <link>https://nccc170.org/people/clark-kogan/</link>
+    </image>
+    
+    <item>
+      <title>Best Practices for GLMM Implementation: Group Updates and Planning</title>
+      <link>https://nccc170.org/meetings/2026/20260611_1330/</link>
+      <pubDate>Thu, 11 Jun 2026 13:30:00 +0000</pubDate>
+      <guid>https://nccc170.org/meetings/2026/20260611_1330/</guid>
+      <description>&lt;p&gt;Our ongoing project initiated in 2024 and investigates best practices for the application of Generalized Linear Mixed Models (GLMMs), including topics in statistical modeling and software implementation. As we transition into the project&amp;rsquo;s next phase, this meeting will serve as a working session to review our progress and plan our future steps. We will prioritize discussions around our publication roadmap and the immediate actionable steps required to successfully deliver our findings.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GLMM working group updates and plans to move forward</title>
+      <link>https://nccc170.org/meetings/2025/20250605_1430/</link>
+      <pubDate>Thu, 05 Jun 2025 14:30:00 +0000</pubDate>
+      <guid>https://nccc170.org/meetings/2025/20250605_1430/</guid>
+      <description>&lt;p&gt;Outline: Ongoing work on Best Practices for GLMM Implementation&lt;/p&gt;
+&lt;p&gt;Objectives of the Session
+I.	Articulate any remaining technical aspects of examples presented at CASANR
+II.	Discuss group’s approach to move advanced examples
+III.	Discuss alternative outlet venues
+IV.	Produce a gameplan for next steps&lt;/p&gt;
+&lt;p&gt;Agenda items for specific discussion
+I.	Examples presented at CASANR with brief update on state of work
+II.	Examples not presented at CASANR with discussion on future direction for these examples
+III.	Outlet venues for best practices on GLMM implementation
+IV.	Discuss credit allocation
+V.	New interest in joining the GLMM joint effort working group&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Discrete-Time Zero-inflated Beta Bayesian Model for Disease Prevalence Over Time</title>
+      <link>https://nccc170.org/meetings/2024/20240613_1315/</link>
+      <pubDate>Thu, 13 Jun 2024 13:15:00 +0000</pubDate>
+      <guid>https://nccc170.org/meetings/2024/20240613_1315/</guid>
+      <description>&lt;p&gt;Current methods for estimating disease freedom probabilities in aquaculture combine prior disease freedom probability with data likelihood and introduction probability to produce posterior freedom over time. These methods aim to establish freedom from disease above a design prevalence. In this study, we present updates to this methodology that differentiate between absolute freedom (actual zero prevalence) and effective freedom (disease occurring below the design prevalence). We implement these updates using a zero-inflated Beta distribution for both prior prevalence and introduction prevalence at each time step. Additionally, we introduce an assumption of exponential disease progression over time to allow for natural increases. We derive the posterior distribution and validate our methodology through simulation. Our approach offers a more nuanced assessment of disease freedom, enhancing decision-making for aquaculture health management.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bayesian Risk-based Surveillance Models for Pathogen Detection in Aquaculture</title>
+      <link>https://nccc170.org/meetings/2023/20230615_1405/</link>
+      <pubDate>Thu, 15 Jun 2023 14:05:00 +0000</pubDate>
+      <guid>https://nccc170.org/meetings/2023/20230615_1405/</guid>
+      <description>&lt;p&gt;In this discussion, we will focus on a Bayesian model for the assessment of pathogen risk in aquaculture. This model combines information about site-specific historical disease testing, test characteristic and information on biosecurity measures to estimate current probability of disease absence. The discussion will focus on a proposed model form as well as the utility of aggregating expert information on the impact of biosecurity practices in the absence of hard data. This discussion aims to stimulate discussion of practical and methodological considerations that will support a disease testing sample size dependent on biosecurity measures.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Group Discussion: Open Forum</title>
+      <link>https://nccc170.org/meetings/2022/20220617_0830/</link>
+      <pubDate>Fri, 17 Jun 2022 08:30:00 +0000</pubDate>
+      <guid>https://nccc170.org/meetings/2022/20220617_0830/</guid>
+      <description>&lt;p&gt;Open discussion form for current challenges in research design and statistical analysis. This discussion will give participants the opportunity to briefly describe areas of difficulty in active projects of interest.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Optimizing Blueberry Pollination to Ensure Future Yields</title>
+      <link>https://nccc170.org/meetings/2022/20220616_1555/</link>
+      <pubDate>Thu, 16 Jun 2022 15:55:00 +0000</pubDate>
+      <guid>https://nccc170.org/meetings/2022/20220616_1555/</guid>
+      <description>&lt;p&gt;Highbush blueberry is a pollinator-dependent crop, with ~560 million pounds produced in the United States, worth over $700 million annually. Current practices for maintaining the size of managed pollinator populations are outdated. We are developing a decision support tool to support growers in determining the managed bee population densities to maintain on their farms. This tool will aim to predict pollination, fruit set, and yield dependent on cultivar, flower density, bee activity, hive quantity/quality and weather. Model aims and current challenges will be discussed.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Program Chair</title>
+      <link>https://nccc170.org/meetings/2022/programchair/</link>
+      <pubDate>Thu, 16 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://nccc170.org/meetings/2022/programchair/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Participant</title>
+      <link>https://nccc170.org/meetings/2021/participants/</link>
+      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://nccc170.org/meetings/2021/participants/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

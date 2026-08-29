@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alex Lipka | NCCC170</title>
+    <link>https://nccc170.org/people/alex-lipka/</link>
+      <atom:link href="https://nccc170.org/people/alex-lipka/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alex Lipka</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Jun 2025 13:30:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nccc170.org/people/alex-lipka/avatar_hu26738875e4ded6e7a91121056dceaac0_59587_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Alex Lipka</title>
+      <link>https://nccc170.org/people/alex-lipka/</link>
+    </image>
+    
+    <item>
+      <title>Mixed random forest-based GWAS and a forward-in-time simulation study</title>
+      <link>https://nccc170.org/meetings/2025/20250605_1330/</link>
+      <pubDate>Thu, 05 Jun 2025 13:30:00 +0000</pubDate>
+      <guid>https://nccc170.org/meetings/2025/20250605_1330/</guid>
+      <description>&lt;p&gt;I run a statistical genetics lab at UIUC. My lab seeks to explore how statistical genetics can be optimized to gain a better understanding on the genetic architecture of traits. This could lead to even more efficient applications of genomic prediction to crop breeding programs. In this presentation, I am going to give a progress report on both recently completed on three projects. The first involves using a mixed random forest approach to identify rare variants in a manner that rigorously controls the type I error rate. The second is an update on what I presented last year, namely a study of the omnigenic model of genetic architecture. The third is a completed project in which we use empirical distributions of a measurement of prediction accuracy to identify a set of maize genes that putatively also contribute to phenotypic variance in sorghum. I look forward to your feedback, and would be thrilled to incorporate suggestions into our ongoing work.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quantifying evidence for the omnigenic genetic architecture through a simulation study.</title>
+      <link>https://nccc170.org/meetings/2024/20240613_0900/</link>
+      <pubDate>Thu, 13 Jun 2024 09:00:00 +0000</pubDate>
+      <guid>https://nccc170.org/meetings/2024/20240613_0900/</guid>
+      <description>&lt;p&gt;Typical GWAS and GS statistical models make assumptions on genetic architecture that were derived from RA Fisher’s milestone 1918 paper. Empirical findings from GWAS and GS support these assumptions, namely that gene effect sizes underlying complex traits become infinitesimally small and that the resulting genetic value converges to a normal distribution. The omnigenic model of Boyle et al. (2017) and Liu et al. (2019) is a prominent example of how findings in molecular and functional biology that have occurred since 1918 can be incorporated into the established framework of complex genetic architecture. This model partitions genes underlying complex traits into a core set that directly controls the trait and a peripheral set that indirectly controls a trait through trans regulation. A refinement of the omnigenic model from Mathieson (2021) postulates that for a given trait, core gene effects are the same across subpopulations, while peripheral gene effect networks change across subpopulations. We hypothesize is that the omnigenic model accurately depicts the genetic architecture across subpopulations. Therefore, the purpose of this ongoing work is to explore how genetic architecture evolves across subpopulations. We are conducting a forward-in-time simulation study to simulate three divergent breeding programs, and then study the evolution of trait genetic architecture. For each generation, traits that are dependent upon additive and epistatic effects of core and peripheral genes are being simulated. The population variances of these effects vary according to a 3x4x4x4 factorial experiment. A combination of GWAS results, variance component estimates, and predictive abilities from multiple genomic prediction models will be used to evaluate the results of this factorial experiment. If this simulation study suggests that the omnigenic model is an accurate depiction of cross-subpopulation genetic architecture, then GWAS and GS models that incorporate features of this model should become more widely used in practice. Such models could result in a refined understanding of genetic architecture and could help optimize breeding values on a species-wide basis.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Using simulations to assess the performance of genotype-to-phenotype models accounting for pleiotropy, variance-controlling loci, and interspecific breeding material</title>
+      <link>https://nccc170.org/meetings/2022/20220616_0950/</link>
+      <pubDate>Thu, 16 Jun 2022 09:50:00 +0000</pubDate>
+      <guid>https://nccc170.org/meetings/2022/20220616_0950/</guid>
+      <description>&lt;p&gt;Models that reflect the multifaceted contributions of genomic loci have a potential to facilitate unprecedented quantification of the genetic architecture underlying various traits and increase genomic selection (GS) prediction accuracies. To evaluate the performance of such models, simulation studies are essential. Therefore, a R/CRAN package called simplePHENOTYPES developed by the Lipka Lab is first discussed. This package uses real marker data to simulate pleiotropic quantitative trait nucleotides (QTNs) that behave in either an additive, dominance, or epistatic manner. We first demonstrate how simulating traits from simplePHENOTYPES can be used to evaluate the ability of a various multi-trait genome-wide association study (GWAS) models to distinguish between linkage and pleiotropy. We then show how simulations can be used to determine how well statistical approaches used to quantify variance heterogeneity can identify epistasis and genotype-by-environment interactions. We end the presentation by demonstrating a simulation study that evaluates the impact of training set composition from two different species (Miscanthus sinensis and Miscanthus sacchariflorus) on the GS prediction accuracy in an interspecific Miscanthus × giganteus F2 population.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Training Population Optimization for Genomic Selection in Miscanthus</title>
+      <link>https://nccc170.org/meetings/2019/20190620_1150/</link>
+      <pubDate>Thu, 20 Jun 2019 11:50:00 +0000</pubDate>
+      <guid>https://nccc170.org/meetings/2019/20190620_1150/</guid>
+      <description>&lt;p&gt;Miscanthus is a C4 perennial grass with great potential for lignocellulosic ethanol biofuel production. However, there is a significant drawback for the further development of this biofuel crop due to lack of sufficient winterhardiness in northern latitudes. Abundant genetic diversity exits for different traits in this crop species that can be introgressed to improve current cultivars. In this study we explored the use of diversity panels for training genomic selection (GS) models to predict phenotypically optimal lines. Also, we examined the challenges associated such methodology by (1) evaluating the impact of population structure in Msi and Msa diversity panels and (2) quantify the advantages and disadvantages of using both Msi and Msa panels as a training set for fitting GS models. Discriminant analysis of principal components, principal component analysis, and coefficient of determination methodologies were used to assess the impact of population structure on the prediction accuracy of the GS models. Our results demonstrated that population structure did have an effect on the performance of GS models, where the performance varied among the methods employed to account for population structure. GS prediction accuracies varied across training sets from low to moderate and were trait dependent. The implications of the results of this study, in particular the considerations one needs to take when fine tuning training sets and GS models for optimal predictions of breeding values, will be discussed.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Evaluation of strategies for multi-trait association studies in maize architectural traits</title>
+      <link>https://nccc170.org/meetings/2019/20190620_1120/</link>
+      <pubDate>Thu, 20 Jun 2019 11:20:00 +0000</pubDate>
+      <guid>https://nccc170.org/meetings/2019/20190620_1120/</guid>
+      <description>&lt;p&gt;Genomic selection and genome-wide association studies (GWAS) are typically performed univariately on a single trait. However, multi-trait approaches that use information from correlated traits measured within specific plant and animal species are an emerging focus of quantitative genetics. Although promising, this area of study requires further evaluation across a wide variety of genetic architectures and species. Therefore, we studied leaf and inflorensce maize architectural traits that have been shown to be associated with putatively pleiotropic genomic loci. Using the eigenvalues from a principal component analysis (PCA) is a computationally efficient and available alternative to true multivariate GWAS model. Preforming GWAS on the PCs of related traits has the potential to uncover genomic markers with pleiotropic effects. To aid in distinguishing between pleiotropic and non-pleiotropic loci, we are currently developing an analytical pipeline that utilizes the simultaneous application of multivariate (PCs approach) and univariate statistical models to associate genomic markers with these traits. Finally post hoc tests using the p values from each association test will be implemented to obtain a single significance value for each genomic marker. In addition to facilitating the identification of genomic regions that potentially harbor pleiotropic loci, we hypothesize that analysis of this data will help calibrate accurate modeling of genetic and non-genetic sources of trait variability.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Site Host</title>
+      <link>https://nccc170.org/meetings/2019/sitehost/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://nccc170.org/meetings/2019/sitehost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantification of the Genomic Contribution towards Food and Energy-related Crop Traits</title>
+      <link>https://nccc170.org/meetings/2018/20180628_0840/</link>
+      <pubDate>Thu, 28 Jun 2018 08:40:00 +0000</pubDate>
+      <guid>https://nccc170.org/meetings/2018/20180628_0840/</guid>
+      <description>&lt;p&gt;Statistical approaches for genome-wide association studies (GWASs) and genomic selection (GS) have enabled the identification of genomic loci associated with agronomically important traits while controlling for false positives and the use of genome-wide marker data to accurately predict trait values. Using these developments as starting points, the Lipka Lab at the University of Illinois is exploring the optimization of GWAS and GS approaches and their implementation into freely available software packages. In this presentation, three different examples of research projects from the Lipka Lab are presented. Collectively, these highlight the impact of genomic properties underlying a trait and species on the performance of statistical approaches for GWAS and GS.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Genome Wide Association Study for Non-normally Distributed Traits: A Case Study for Stalk Lodging in Maize</title>
+      <link>https://nccc170.org/meetings/2017/20170622_1410/</link>
+      <pubDate>Thu, 22 Jun 2017 14:10:00 +0000</pubDate>
+      <guid>https://nccc170.org/meetings/2017/20170622_1410/</guid>
+      <description>&lt;p&gt;The abundance of new genomic information available has increased the ability of statistical and computational tools to study the genetic basis of agricultural traits. As such, the genome-wide association study (GWAS), in which statistical tests of association are conducted between genome-wide marker sets and traits of interest, are one of the most predominant analyses used to dissect the genetic architecture of traits. One limitation of the statistical models typically employed in a plant GWAS is the assumption that the error terms follow a normal distribution. This project uses a novel application of statistical approaches to rigorously quantify the genomic underpinnings of a non-normally distributed trait of agronomic importance, namely stalk lodging in maize. We developed an analytical pipeline that will enable us to focus on a subset of markers in which to apply a statistically rigorous but computationally intensive model that accounts for putatively false positive signals correlated with population structure and familial relatedness. Through this methodology peak associated SNPs were identified. Future research for this project will include a simulation study to test how well this approach can identify QTL associated with binomial traits.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Influence of Peak GWAS Associations on Genomic Prediction Accuracy</title>
+      <link>https://nccc170.org/meetings/2017/20170622_1340/</link>
+      <pubDate>Thu, 22 Jun 2017 13:40:00 +0000</pubDate>
+      <guid>https://nccc170.org/meetings/2017/20170622_1340/</guid>
+      <description>&lt;p&gt;Some of the most important agronomic crop traits of interest are complex and thus governed by many genes of small effect. The statistical models typically used in a genome-wide association study (GWAS) and genomic selection (GS) quantify the contributions of genomic markers in linkage disequilibrium with these genes to trait variation. In general, the GWAS has been successful at identifying genomic regions containing markers with moderate to strong marker-trait associations. It is possible to incorporate markers tagging such GWAS signals into breeding programs through marker-assisted selection, where plants with favorable alleles at the peak GWAS signals are selected for the next cycle of breeding. In the absence of such signals, GS is typically effective at accurately predicting trait values. These two strategies have been used separately until recently, when the predictive ability of GS models that include peak associated markers from GWAS as fixed effect covariates was assessed. Theoretically, these models should be optimal for predicting traits that have several genes of large effect and many genes of smaller effect. We expand upon this work by evaluating simulated traits from diversity panels in maize using a Ridge Regression Best Linear Unbiased prediction (rrBLUP) model that included fixed effects. Upon completion of this work, we anticipate being able to rigorously quantify the ability of fixed effect covariates tagging peak GWAS signals to increase GS prediction accuracy in the rrBLUP model under a wide variety of genetic architectures and genomic backgrounds.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
