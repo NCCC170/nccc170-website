@@ -1,0 +1,79 @@
+---
+title: NCCC170 2021-2026 project objectives
+type: role
+---
+
+## Statement of Issues and Justification
+
+Statisticians who consult and do research in an Agricultural Experiment Station (AES) environment have a unique relationship with their university. Their multi-disciplinary, collaborative role is often more extensive than that of faculty members in domain-specific disciplines as well as that of most faculty in Statistics departments. Indeed, the role of statisticians who consult and do AES research frequently cuts across several departments or units. As a result, AES statisticians must have a broad understanding of statistical methodology that goes well beyond their specific research areas. This multi-state coordinating committee provides a mechanism to bring together AES statisticians from academia, research stations, government and industries and to create critical mass for continued professional development that is specifically targeted to the unique role of AES statisticians. The resulting exchange of ideas and the sharing of knowledge is of benefit to all project members and to the institutions they represent.
+
+Collaboration of such statisticians and scientists allows land grant institutions to perform their agricultural research missions more effectively and efficiently than would otherwise be possible. As State and Federal appropriations continue to fall short of levels needed for research, and as grants become more competitive, it becomes even more imperative that research dollars extend as far as possible. This requires AES statisticians to keep abreast of the latest statistical research, as well as to work to develop methodology appropriate to their consulting roles. Advances in the complexity of designed experiments and observational studies, along with a broader range of qualitative and quantitative types of data being collected in increasingly larger quantities (i.e., Big Data), require new methodologies in both design and analysis that ensure both the quality of the data and the inferences drawn. Unfortunately, it is also not unusual for statisticians who do not have AES responsibilities to misunderstand these essential scholarly contributions of AES statisticians.
+
+Never has the charge to remain current in the statistical profession been more challenging. For statisticians, this requires assessing the utility of new statistical methods and their associated software tools and routines, many of which are computationally intensive. Rapid changes in our understanding of best statistical practices also means that agricultural researchers face an unprecedented need for viable mechanisms to stay current as consumers of statistics. Unfortunately, it is not unusual for agricultural researchers who use state of the art statistical methodology to experience difficulty during their institutional review process because the review infrastructure consists primarily of subject-matter experts who are not  familiar with current advances in statistical practice. Dissemination of information on these statistical advances to agricultural researchers, and those who review agricultural research, must be made available in a timely manner.
+
+Thus, it is critical that AES statisticians work cooperatively to determine the best current approaches to common statistical problems, to help guide future directions of statistical research and software development, to educate researchers and reviewers in new developments in statistical methodology, and to articulate the scholarship of their contributions to non-AES statisticians and to administrators involved in the evaluation, tenure and promotion processes.
+
+In this respect, AES statisticians and their counterparts in government and industry must work together to provide more effective assistance to the agricultural researchers of their respective states. This NCCC committee plays an extremely important role by 1) serving as a focal point of critical mass for the development and implementation of sound statistical practice to food and agriculture research programs and 2) providing a support network of direct relevance to AES statisticians, both on technical issues as well as on matters of professional mentorship and development. Through the NCCC committee, members have direct access to and are able to contact other members as a resource about specific statistical matters relevant to the many facets of the agricultural sciences. Perhaps even more important, this NCCC network facilitates timely mentorship to its members in dealing with the unique nature of responsibilities of an AES statistician at its home institution. This uniqueness and specificity of the NCCC committee as a professional network raises its efficacy well above that offered by other, more general, collaborative venues, such as professional meetings for statisticians or for agricultural scientists. In fact, the NCCC annual meeting provides a unique platform for confluence of discussion of issues in agricultural statistics, the relevance of which is not matched by professional conferences either in statistics on in any of the agricultural sciences. As a result, this NCCC committee improves the quality of research in the agricultural sciences at its participating institutions through educational outreach within and beyond its NCCC membership.
+
+Thus, this committee has an educational support component that ultimately assists agricultural researchers in other disciplines in their efforts to accomplish national research priorities. The members of this NCCC are committed to this goal.
+
+## Objectives
+
+1. To identify, foster and coordinate educational and research efforts in statistics among statisticians serving food and agriculture research programs, thus enhancing their relevance to collaborative research teams at their home institutions.
+
+2. To mentor new faculty interested in pursuing a career in agricultural statistics and to educate other statisticians and administrators involved in the faculty evaluation process about the scholarship contributions of AES statisticians and their role in the scientific community.
+
+3. To provide continuing statistical education to the scientific community through workshops and short courses, thus empowering scientists to conduct and evaluate research through the review and editorial processes.
+
+4. To address technical concerns associated with the development of modern statistical methodology and its software implementation, as motivated by problems in food and agricultural research, including but not limited to: 
+
+    - Hierarchical models, including Bayesian models and generalized linear mixed models; 
+    - Meta-analyses characterized by multi-location, multi-investigator projects including those in which study treatments and/or designs may differ by location; 
+    - Big data and data science; 
+    - Interface between statistics, machine learning, and other predictive modeling strategies.
+
+## Procedures and Activities
+
+Since its inception in 1990 as NCR-170, NCCC-170 has addressed a series of statistical topics using a common general approach. At each annual meeting, the members discuss current research projects at their university or research station and the statistical issues associated with them. These topics are compiled and when appropriate, the members use this information to decide on a statistical topic to be addressed by the group. Once that decision has been made, a multi-year cycle begins.
+
+The first and, if necessary, second year of the cycle is devoted to educating the membership on the chosen topic. This is accomplished primarily through the annual meeting technical programs presented by knowledgeable project members and, on occasion, by nonmembers (usually located at that year's meeting site). Once this phase has been completed, materials are developed for members to use in their research, education and outreach activities. These may include workshop materials for subject matter audiences, software and usage instructions for data analysis, and statistical material for members own continuing education.
+
+Material development is carried out by a subcommittee of volunteers from the project membership. A draft of their work (e.g., a dry-run of a workshop) is presented at the next annual meeting to obtain feedback from the entire group. During this meeting, a decision is made regarding whether or not a final version needs to be presented at the annual meeting the following year.
+
+Over the past 30 years, project members have dealt with statistical aspects of on-farm trials, experimental design, mixed models, spatial statistics, -omics data and bioinformatics, meta-analysis, and generalized linear mixed models. They have developed specialized workshops to educate both statistical and subject matter audiences on topics such as mixed models, spatial statistics, Bayesian statistics, graphical models, meta-analysis, and generalized linear mixed models.
+
+A most noteworthy outcome is the mixed models workshop, which has been offered approximately every other year since 1999 to the American Society of Animal Sciences and/or to the American Dairy Science Association. This workshop has been successful and continues to be updated and offered upon request.  Also, a workshop focused on the use of generalized linear mixed models for non-normal data was offered for the first time at the American Society of Agronomy, Soil Science Society of America, and the Crop Science Society annual meeting in 2010. A similar workshop was presented at the American Phytopathological Society.
+
+Other workshops have been presented at the annual meetings of various professional societies, including the American Phytopathological Society, the American Society of Animal Sciences, the American Dairy Science Association, the Association of Veterinary Epidemiology and Preventive Medicine, the American Society of Horticultural Sciences, Aquaculture America, the Latin American Conference of Statistical Societies (Argentina), the International Horticulture Congress (Australia), and the Tropical Agronomic Center for Research and Teaching (Costa Rica) as well as at meetings of several local chapters of the American Statistical Association (ASA) and the International Biometrics Society. Some of these workshops were also presented as full day workshops prior to the Conference on Applied Statistics in Agriculture for multiple years. Several members have presented workshops at their home institutions.
+
+A book on applications of generalized linear mixed models to the agricultural sciences was published by group members and sponsored by the American Society of Agronomy in 2012. This book, authored by E.E.  Gbur, , W.W. Stroup, K.S. McCarter, S. Durham, L.J. Young, M. Christman, M. West and M. Kramer, is titled “Analysis of Generalized Linear Mixed Models in the Agricultural and Natural Resources Sciences”. A year later CRC Press published “Generalized Linear Mixed Models: Modern concepts, Methods and Applications” by group member W.W. Stroup. Both books continue to be used by practitioners and statisticians. Copies of both books are currently available on Amazon.com. Individual chapters of the former book may be purchased directly from the American Society of Agronomy.
+
+Groups consisting of various combinations of project members have written scientific articles on translational statistics addressing domain-specific disciplines on how to tailor modern concepts in experimental design to specific problems in the agricultural sciences. These articles are published in peer-review scientific journals. A few examples are listed next (names of project members are underlined):
+
+- Bello NM, Kramer M, Tempelman RJ, Stroup WW, St-Pierre NR, Craig, BA, Young LJ, Gbur, EE. Short communication: On recognizing the proper experimental unit in animal studies in the dairy sciences. J Dairy Sci. 2016;99(11):8871-8879. doi:10.3168/jds.2016-11516
+- Bello NM, Renter DG. Invited review: Reproducible research from noisy data: Revisiting key statistical principles for the animal sciences. J Dairy Sci. 2018;101(7):5679-5701. doi:10.3168/jds.2017-13978
+- Stroup, W.W. Rethinking the Analysis of Non-Normal Data in Plant and Soil Science. Agronomy Journal 2015 v. 107, no.2 pp. 811-827
+- A selection of articles in Glaz, B. and M. Yeater (ed.) 2018. Applied Statistics in Agricultural, Biological, and Environmental Sciences. ASA, CSSA, and SSSA, Madison, WI. doi:10.2134/appliedstatistics
+- Madden, L.V., Piepho, H.-P., and Paul, P.A. 2016. Statistical models and methods for network meta-analysis. Phytopathology 106: 792-806.
+- Stroup W.W., Milliken, G.A, Claasen E.A. 2018 “SAS for Mixed Models” SAS Institute. 3rd
+ 
+
+In addition to these group outputs, NCCC-170 discussions have also impacted project members' collaborations at their own institutions and have led to numerous refereed and non-refereed publications, participation in competitive grants, and presentations at professional meetings. These outputs are listed in detail in the corresponding annual project reports, available at https://nccc170.uark.edu/. Highlights from the 2020 report are listed below.
+
+Finally, during the latest iteration of NCCC170, the project members came together to critically address the scholarship component of statistical collaboration for increasingly important team-based interdisciplinary research. The document produced provided a conceptual framework and practical guidelines for evaluating scholarship by project statisticians working in collaboration with domain-specific sciences. The intended audience for the document was all parties involved in the faculty evaluation process and especially administrators. In addition, the intent of this document was to assist young statistical scientists in their negotiation of faculty positions with a strongly collaborative team-based role. This document evolved into a position paper that was formally endorsed by the board of the American Statistical Association (ASA) in 2018. The position paper currently can be accessed as an official statement on the ASA website: https://www.amstat.org/asa/files/pdfs/POL-Statistics-as-a-Scientific-Discipline.pdf
+
+## Expected Outcomes and Impacts
+
+- Continuing education of NCCC members leading to improved research collaborations of individual members at their home institutions.
+- Cooperative research efforts among some members and information exchange on new developments among all members in the areas of modern modeling, including hierarchical Bayesian models, generalized linear mixed models, predictive modeling and machine learning.
+- Continued offering of workshops and, where appropriate, alternative means of continuing education and support for subject matter scientists, reviewers, and technical editors on valid design and statistical analysis of studies.
+- Growth of the group by recruitment of new membership from academia, government and industry.
+
+## Projected Participation
+View [Appendix E: Participation](https://nimss.org/appendix_e/18798)
+
+## Educational Plan
+Members will educate their individual clientele of subject matter scientists and students in one-on-one and group settings as they deem appropriate. Workshops will continue to be offered to regional and national subject matter groups as well as journal editorial boards who may be interested in specific topics.
+
+## Organization/Governance
+The Chair and Secretary are selected by the members present at the annual meeting. The meeting Local Arrangement Chair for the next year is the member from the state in which the meeting will be held. The meeting Program Chair for the next year is a volunteer from among the members present at the annual meeting.

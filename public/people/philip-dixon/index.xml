@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Philip Dixon | NCCC170</title>
+    <link>https://nccc170.org/people/philip-dixon/</link>
+      <atom:link href="https://nccc170.org/people/philip-dixon/index.xml" rel="self" type="application/rss+xml" />
+    <description>Philip Dixon</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 11 Jun 2026 13:30:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nccc170.org/people/philip-dixon/avatar_hu458d15d8eb27473c8da6a9330f08cfad_110593_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Philip Dixon</title>
+      <link>https://nccc170.org/people/philip-dixon/</link>
+    </image>
+    
+    <item>
+      <title>Best Practices for GLMM Implementation: Group Updates and Planning</title>
+      <link>https://nccc170.org/meetings/2026/20260611_1330/</link>
+      <pubDate>Thu, 11 Jun 2026 13:30:00 +0000</pubDate>
+      <guid>https://nccc170.org/meetings/2026/20260611_1330/</guid>
+      <description>&lt;p&gt;Our ongoing project initiated in 2024 and investigates best practices for the application of Generalized Linear Mixed Models (GLMMs), including topics in statistical modeling and software implementation. As we transition into the project&amp;rsquo;s next phase, this meeting will serve as a working session to review our progress and plan our future steps. We will prioritize discussions around our publication roadmap and the immediate actionable steps required to successfully deliver our findings.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Using an extension of fragmentary data analysis methods to predict sex from fragments of bones</title>
+      <link>https://nccc170.org/meetings/2025/20250605_1010/</link>
+      <pubDate>Thu, 05 Jun 2025 10:10:00 +0000</pubDate>
+      <guid>https://nccc170.org/meetings/2025/20250605_1010/</guid>
+      <description>&lt;p&gt;This project started when an Anthropology student in my methods class asked me to be on her advisory committee. She had bone measurements from individuals recovered in an archeological dig and needed to predict each individual’s sex. Some individuals could be sexed based on other characteristics. Sounds like a straightforward logistic regression problem but it wasn’t straightforward, because many bone measurements were missing. Fragmentary data analysis is a new approach to predict outcomes for all individuals, even those missing some covariate values. However, those methods rely on having many individuals with complete data. Mallory and Andrew’s data had complete data for 3 individuals.&lt;/p&gt;
+&lt;p&gt;My solution had four components:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Identify a subset of known-sexed individuals and subset of bone measurements that is complete.&lt;/li&gt;
+&lt;li&gt;Use the complete data to fit logistic regressions, one bone at a time, to predict sex&lt;/li&gt;
+&lt;li&gt;Predict the logit probabilities that an individual was female using all possible bones for that individual&lt;/li&gt;
+&lt;li&gt;Use model averaging to combine the logit probabilities into a single prediction.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;A Bayesian approach was needed because some bones had complete separation of covariate values. This was implemented using rstanarm functions. Predictions generally agreed with the sex of known-sex individuals. When they didn’t, the archeologists had reasons to suspect a mistake in the original sex determination.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Estimating Genetic Gain — Why the Right Type of BLUP Matters</title>
+      <link>https://nccc170.org/meetings/2023/20230615_0915/</link>
+      <pubDate>Thu, 15 Jun 2023 09:15:00 +0000</pubDate>
+      <guid>https://nccc170.org/meetings/2023/20230615_0915/</guid>
+      <description>&lt;p&gt;Plant breeding is one of many reasons for the huge increase in corn yields from 1920 to now.  However, there are many confounding factors, including changes in weather, increased fertilization, better weed control, and growing corn at a higher density (# plants / acre).  Don Duvick, of Pioneer Hy-Bred / Corteva, popularized the eRa study design to estimate the contribution due to plant breeding.  Seeds from genotypes released in different years are planted in the same year and site, at the same density, and with the same amounts of fertilization and weed control.  Any observed differences among the genotypes can then be attributed to genetic gain.  An extension of this design is to plant genotypes at both the current density, e.g., 35,000 seeds per acre, and the density when released, e.g., 20,000 seeds per acre or 25,000 seeds per acre.&lt;/p&gt;
+&lt;p&gt;Duvick used a two-stage analysis: estimate the mean yield (or other trait) for each genotype after accounting for the experimental design, then regress the mean yield on year of release.  The slope estimates the genetic gain per year.  Recent analyses (numerous published papers) have replaced the genotype means with the genotype BLUP.  Duvick modeled genotypes as a fixed effect; recent practice has been to model them as a random effect.&lt;/p&gt;
+&lt;p&gt;I show that this change, when used in a two-stage analysis, systematically underestimates genetic gain.  A one-stage analysis, including the year of release, a random effect for genotypes, and the experimental design, provides unbiased estimates of the genetic gain.  The various analyses are illustrated using simulated data and a study of root traits.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Participant</title>
+      <link>https://nccc170.org/meetings/2021/participants/</link>
+      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://nccc170.org/meetings/2021/participants/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Participant</title>
+      <link>https://nccc170.org/meetings/2020/participants/</link>
+      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://nccc170.org/meetings/2020/participants/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ordination plots for model-based analysis of species composition data: Connecting two very different sets of methods</title>
+      <link>https://nccc170.org/meetings/2019/20190621_0830/</link>
+      <pubDate>Fri, 21 Jun 2019 08:30:00 +0000</pubDate>
+      <guid>https://nccc170.org/meetings/2019/20190621_0830/</guid>
+      <description>&lt;p&gt;Traditional analysis of species composition data starts by computing a dissimilarity between each pair of samples.  These dissimilarities are the basis for ordination plots, which explore patterns, and ANOVA-like inference.  The more recent model-based analysis of species composition starts with an explicit probability model for the data.  This provides a principled approach for inference but it has been difficult to produce an ordination plot.  Often, a traditional ordination method is combined with a model-based analysis, but these make different assumptions about the data.  I develop an approach to visualizing multivariate species composition that is consistent with a model-based analysis, in the sense that the plot and the analysis make the same assumptions.  This approach retains the data distribution from a model-based analysis and makes no additional assumptions about the structure of the data.&lt;/p&gt;
+&lt;p&gt;The probability model is used to define a likelihood-based dissimilarity between each pair of observations.  I derive these for Bernoulli (i.e., presence/absence) data, four models for count data, and Gaussian data.  An ordination plot is constructed by multidimensional scaling.  The approach can be extended to overlay model-based predictions of species composition on the ordination plot or compute a community-level residual.   I illustrate these using nesting bird counts on Skokholm Island and tropical tree stem counts on Barro Colorado Island.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Using a binomial GLMM for partially paired categorical data</title>
+      <link>https://nccc170.org/meetings/2019/20190620_1315/</link>
+      <pubDate>Thu, 20 Jun 2019 13:15:00 +0000</pubDate>
+      <guid>https://nccc170.org/meetings/2019/20190620_1315/</guid>
+      <description>&lt;p&gt;The motivation for this talk is a comparison of two models to predict invasiveness of a horticulturally interesting tree or shrub.  The data are a list of trees and shrubs introduced for horticultural purposes to a state and, for each species, whether it is invasive (i.e., has established new populations in non-horticultural sites, and 11 biological characteristics.  Random Forest models predicted the probability of invasiveness from the biological characteristics.   We developed two models, one for species in the Chicago area and one for species in Iowa.  The biologists wanted to know whether one model made more accurate predictions than the other.  The complication is that the species in the Chicago data set partially overlap those in the Iowa data set.   If there was no overlap, the analysis is a comparison of proportions from independent observations.  If all species were on both lists, the analysis is a comparison of proportions from paired observations.  Our experience with these models is that some species (e.g., Berberis thunbergii) are simply hard to predict accurately, so the pairing can not be ignored.  To use all the data, we need an analysis that allows for partial overlap of lists.  Hence, the model needs to account for heterogeneity among species.  One option is a Bernoulli GLMM with a random effect for species.   I compare four approximately likelihood estimators (SAS/PQL, SAS/PQL with KR adjustments, SAS/Laplace, and R/Laplace) and a Bayesian estimator implemented using Rstanarm.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Overview of Statistics as a Scientific Discipline and Practical Implications for the Evaluation of Faculty Excellence</title>
+      <link>https://nccc170.org/publication/statistics-as-a-scientific-discipline/</link>
+      <pubDate>Fri, 05 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://nccc170.org/publication/statistics-as-a-scientific-discipline/</guid>
+      <description>&lt;p&gt;This document is an official position by the &lt;a href=&#34;https://www.amstat.org/policy-and-advocacy/asa-board-statements&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Board of Directors of the American Statistical Association&lt;/a&gt; on matters affecting the statistical profession.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Executive Summary&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Statistics is at the same time a dynamic, stand-alone science with its own core research agenda and an inherently collaborative discipline, developing in response to scientific needs. In this sense, statistics fundamentally differs from many other domain-specific disciplines in science. This difference poses unique challenges for defining the standards by which faculty excellence is evaluated across the teaching, research, and service components.&lt;/p&gt;
+&lt;p&gt;This document strives to provide a conceptual framework and practical guidelines to facilitate such evaluations. To that end, the intended audience includes all participants in the evaluation process—provosts and deans with faculty members in statistics positions; chairs and heads of statistics, biostatistics, and non-statistics departments; and the promotion and tenure evaluation committees in academic institutions. Furthermore, this document seeks to assist statistical scientists in the negotiation of faculty positions and the articulation of their collaborative role with the subject-matter sciences.&lt;/p&gt;
+&lt;p&gt;Highlights of interest to decision makers such as chairs, heads, deans, provosts, and members of promotion and tenure evaluation committees include the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;For faculty members with a focus in statistics, excellence in research scholarship can be a mixture of publications in subject-matter journals resulting from collaborative research and publications in statistics-centric journals.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;In publications arising from collaborative research, statistics faculty members should not be expected to be first author, senior author, or, obviously, single author.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;For faculty members with a focus in statistics, successful extramural funding in the role of co-principal investigator (or other key senior roles) is evidence of a meaningful role as an essential partner in the research endeavor.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;For faculty members with a focus in statistics, mentoring of graduate students and service on research supervisory committees is evidence of important research activity.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Also of interest to chairs and heads, it is critical that the departmental culture (including faculty, students, and staff) reinforces the breadth of active statistical research and emphasizes an appreciation for the fundamentally interdisciplinary nature of many types of statistical research.&lt;/p&gt;
+&lt;p&gt;Highlights of interest to statistical scientists pursuing academic careers actively engaged in interdisciplinary collaboration with subject-matter scientists include the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;It is recommended that the letter of offer and position description include collaborative research specifically as an expectation and as a primary component of evaluation for rank promotion and tenure.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;It is important that terms be negotiated, articulated, and specified in writing in the letter of offer and position description. These terms may be discussed during yearly evaluations, as involvement in collaboration can change over a career. This is particularly relevant for faculty members who transition into increasing involvement in collaborative activities.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pooling of variances: the skeleton in the mixed model closet?</title>
+      <link>https://nccc170.org/meetings/2017/20170622_0845/</link>
+      <pubDate>Thu, 22 Jun 2017 08:45:00 +0000</pubDate>
+      <guid>https://nccc170.org/meetings/2017/20170622_0845/</guid>
+      <description>&lt;p&gt;This talk is intended to solicit opinions and advice on an issue that I worry about intermittently: when is it appropriate to pool variances and when should that be avoided. The issue is not new: one instance is inference about the difference of means from two groups. If you pool, you get the two-sample t-test; if you do not, you have the Behrens-Fisher problem, which has various approximate solutions, including the Welch-Satterthwaite approximate degrees of freedom. Modern computing power lets us consider models with multiple &amp;ldquo;non-pooled&amp;rdquo; variances. For example, the combined analysis of an experiment repeated at multiple sites and multiple years requires at least two estimated variances: the error variance, i.e., that between replicates at the same location, and the treatment*environment variance component, i.e. the consistency of the treatment differences across environments (sites, years, or their combination). Both of these variances could be pooled or split into components. For example, a different error variance could be estimated for each site, for each combination of site and year, or for each treatment. The treatment*environment interaction could be split into separate components for treatment*year, treatment*site and treatment*site*year. In my experience, inference with pooled variances is more sensitive to heterogeneity among treatments than heterogeneity among environments. I will share examples that illustrate this.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gayla Olbricht | NCCC170</title>
+    <link>https://nccc170.org/people/gayla-olbricht/</link>
+      <atom:link href="https://nccc170.org/people/gayla-olbricht/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gayla Olbricht</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 25 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nccc170.org/people/gayla-olbricht/avatar_hu75b9a1717b971f6ff795cc2471e8443a_38283_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Gayla Olbricht</title>
+      <link>https://nccc170.org/people/gayla-olbricht/</link>
+    </image>
+    
+    <item>
+      <title>Participant</title>
+      <link>https://nccc170.org/meetings/2021/participants/</link>
+      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://nccc170.org/meetings/2021/participants/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Participant</title>
+      <link>https://nccc170.org/meetings/2018/participants/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://nccc170.org/meetings/2018/participants/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
