@@ -22,6 +22,8 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v6
+        with:
+          submodules: recursive
 
       - uses: r-lib/actions/setup-pandoc@v2
 
