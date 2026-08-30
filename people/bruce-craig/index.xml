@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bruce Craig | NCCC170</title>
-    <link>/people/bruce-craig/</link>
-      <atom:link href="/people/bruce-craig/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nccc170.github.io/nccc170-website/people/bruce-craig/</link>
+      <atom:link href="https://nccc170.github.io/nccc170-website/people/bruce-craig/index.xml" rel="self" type="application/rss+xml" />
     <description>Bruce Craig</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 12 Jun 2026 09:00:00 +0000</lastBuildDate>
     <image>
-      <url>/people/bruce-craig/avatar_huee7a976111792cf7aaea057cb2310d91_98375_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://nccc170.github.io/nccc170-website/people/bruce-craig/avatar_huee7a976111792cf7aaea057cb2310d91_98375_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Bruce Craig</title>
-      <link>/people/bruce-craig/</link>
+      <link>https://nccc170.github.io/nccc170-website/people/bruce-craig/</link>
     </image>
     
     <item>
       <title>AI Discussion Panel</title>
-      <link>/meetings/2026/20260612_0900/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2026/20260612_0900/</link>
       <pubDate>Fri, 12 Jun 2026 09:00:00 +0000</pubDate>
-      <guid>/meetings/2026/20260612_0900/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2026/20260612_0900/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Best Practices for GLMM Implementation: Group Updates and Planning</title>
-      <link>/meetings/2026/20260611_1330/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2026/20260611_1330/</link>
       <pubDate>Thu, 11 Jun 2026 13:30:00 +0000</pubDate>
-      <guid>/meetings/2026/20260611_1330/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2026/20260611_1330/</guid>
       <description>&lt;p&gt;Our ongoing project initiated in 2024 and investigates best practices for the application of Generalized Linear Mixed Models (GLMMs), including topics in statistical modeling and software implementation. As we transition into the project&amp;rsquo;s next phase, this meeting will serve as a working session to review our progress and plan our future steps. We will prioritize discussions around our publication roadmap and the immediate actionable steps required to successfully deliver our findings.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Residuals and diagnostics for multinomial regression models</title>
-      <link>/meetings/2025/20250606_0900/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2025/20250606_0900/</link>
       <pubDate>Fri, 06 Jun 2025 09:00:00 +0000</pubDate>
-      <guid>/meetings/2025/20250606_0900/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2025/20250606_0900/</guid>
       <description>&lt;p&gt;Multinomial logistic and other similar regression models have been used to describe multinomial data in applications ranging from modeling the human microbiome to modeling outcomes in sports. Though much work has been done on model diagnostics for discrete, binary, and ordinal outcomes, model diagnostics for multinomial regression models are limited. Goodness of fit methods for multinomial regression models have mainly dealt with difficult to interpret deviance type residuals which exist on a category, and not observation, level. In this talk, I will describe residuals based on an alternative approach using squared Mahalanobis distances, extending the idea of a single randomized quantile residual for each observation in order to detect misspecification of the mean and overdispersion in multinomial regression models. I’ll illustrate the residuals&amp;rsquo; use in both simulation and real data studies.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>GLMM working group updates and plans to move forward</title>
-      <link>/meetings/2025/20250605_1430/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2025/20250605_1430/</link>
       <pubDate>Thu, 05 Jun 2025 14:30:00 +0000</pubDate>
-      <guid>/meetings/2025/20250605_1430/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2025/20250605_1430/</guid>
       <description>&lt;p&gt;Outline: Ongoing work on Best Practices for GLMM Implementation&lt;/p&gt;
 &lt;p&gt;Objectives of the Session
 I.	Articulate any remaining technical aspects of examples presented at CASANR
@@ -60,85 +60,85 @@ V.	New interest in joining the GLMM joint effort working group&lt;/p&gt;
     
     <item>
       <title>Best practices for GLMMs with zero-inflation – unique challenges for repeated-measures data and fitting covariates in binary process</title>
-      <link>/meetings/2025/20250605_1400/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2025/20250605_1400/</link>
       <pubDate>Thu, 05 Jun 2025 14:00:00 +0000</pubDate>
-      <guid>/meetings/2025/20250605_1400/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2025/20250605_1400/</guid>
       <description>&lt;p&gt;The GLMM working group continues its efforts to compare the implementation of zero-inflation models across SAS and R software platforms with the analysis of this data set where the counts of beneficial insects were measured weekly from sugar beet plots exposed to different insecticidal treatments following a randomized complete block design. SAS uses proc nlmixed to fit zero-inflation models with random effects. However, there are limited capabilities for the covariance structures with nlmixed to model the repeated measures data. We used the R package glmmTMB which allows for flexibility in fitting zero-inflation models with random effects and various covariance structures. Overall, the estimation of covariates in the binary process is prolonged to determine optimal model fit statistics. This must be done iteratively since methods like drop1() function only can be used to test terms in the observed counts data generating process. Furthermore, the value of assessing the impact of the covariates on the probability of observing a zero is likely limited as the zeros are often considered a nuisance in the data or not the primary focus of the analysis.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>What SAS and R software users need to know about GLMMs: an example-driven discussion</title>
-      <link>/meetings/2024/20240614_0900/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2024/20240614_0900/</link>
       <pubDate>Fri, 14 Jun 2024 09:00:00 +0000</pubDate>
-      <guid>/meetings/2024/20240614_0900/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2024/20240614_0900/</guid>
       <description>&lt;p&gt;This group discussion will target conceptual and methodological best practices that users of generalized linear mixed models (GLMM) should know and address appropriately, regardless of choice of software platform. Using an example driven approach, we further describe software implementation of GLMMs in SAS and R. We present differential capabilities of these software platforms to address specific GLMM issues (to the best of our abilities). Last, we invite contributions from R-literate readers.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Systematic Reviews</title>
-      <link>/meetings/2024/20240613_1355/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2024/20240613_1355/</link>
       <pubDate>Thu, 13 Jun 2024 13:55:00 +0000</pubDate>
-      <guid>/meetings/2024/20240613_1355/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2024/20240613_1355/</guid>
       <description>&lt;h2 id=&#34;na&#34;&gt;NA&lt;/h2&gt;
 </description>
     </item>
     
     <item>
       <title>Participant</title>
-      <link>/meetings/2023/participants/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2023/participants/</link>
       <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>/meetings/2023/participants/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2023/participants/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Estimating Disease Prevalence in the Absence of a Gold Standard via Bayesian Model Averaging</title>
-      <link>/meetings/2022/20220616_1520/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2022/20220616_1520/</link>
       <pubDate>Thu, 16 Jun 2022 15:20:00 +0000</pubDate>
-      <guid>/meetings/2022/20220616_1520/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2022/20220616_1520/</guid>
       <description>&lt;p&gt;When estimating disease prevalence, it is not uncommon to have data from conditionally dependent diagnostic tests. In such a situation, the estimation of prevalence is difficult if none of the tests is considered to be a gold standard. I will describe a Bayesian approach to estimating disease prevalence based on the results of two imperfect diagnostic tests, allowing for the possibility that the tests are conditionally dependent, but not conditioning on any particular dependence structure. This involves the construction of four models with various forms of conditional dependence and uses Bayesian model averaging, enabled by reversible jump MCMC, to obtain an overall estimate of the prevalence.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The academic collaborative statistician: Research, training and evaluation</title>
-      <link>/publication/the-academic-collaborative-statistician/</link>
+      <link>https://nccc170.github.io/nccc170-website/publication/the-academic-collaborative-statistician/</link>
       <pubDate>Thu, 16 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/the-academic-collaborative-statistician/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/publication/the-academic-collaborative-statistician/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Participant</title>
-      <link>/meetings/2021/participants/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2021/participants/</link>
       <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>/meetings/2021/participants/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2021/participants/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Participant</title>
-      <link>/meetings/2020/participants/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2020/participants/</link>
       <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/meetings/2020/participants/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2020/participants/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Participant</title>
-      <link>/meetings/2019/participants/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2019/participants/</link>
       <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/meetings/2019/participants/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2019/participants/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian analysis of partial cladograms resulting from free-sorting tasks</title>
-      <link>/meetings/2018/20180628_1425/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2018/20180628_1425/</link>
       <pubDate>Thu, 28 Jun 2018 14:25:00 +0000</pubDate>
-      <guid>/meetings/2018/20180628_1425/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2018/20180628_1425/</guid>
       <description>&lt;p&gt;The free-sorting task is increasingly being used to compare the sensory qualities (e.g., taste, smell) of food products. In this task, a participant initially sorts the products into groups based on their perceived similarities and then successively combines the two most similar groups until only two remain. These resulting cladograms are typically converted into an overall similarity matrix and analyzed using multidimensional scaling (MDS). While the relative efficiency of this task over pairwise evaluations increases with the number of food products, there is thought to be an upper limit on the number of products one can accurately sort. Thus, studies using this task have focused on 15 or fewer products.&lt;/p&gt;
 &lt;p&gt;In this paper, we propose methods to handle studies when the number of products is above this limit. We consider a design where each participant sorts partially overlapping subsets of products and propose a Bayesian modeling method to address the inferential challenge created by these partial cladograms. Our method facilitates the combination of information across product subsets for learning the underlying latent values for all products in a comprehensive manner. These latent values are then used to construct the similarity matrix for MDS. This model incorporates variability across participants and can be extended to include covariates to help explain this variability. We demonstrate the validity of this approach via simulation studies and apply it to a study involving 21 products that are combinations of different types and concentrations of astringent and bitter.&lt;/p&gt;
 </description>
@@ -146,9 +146,9 @@ V.	New interest in joining the GLMM joint effort working group&lt;/p&gt;
     
     <item>
       <title>Overview of Statistics as a Scientific Discipline and Practical Implications for the Evaluation of Faculty Excellence</title>
-      <link>/publication/statistics-as-a-scientific-discipline/</link>
+      <link>https://nccc170.github.io/nccc170-website/publication/statistics-as-a-scientific-discipline/</link>
       <pubDate>Fri, 05 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/statistics-as-a-scientific-discipline/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/publication/statistics-as-a-scientific-discipline/</guid>
       <description>&lt;p&gt;This document is an official position by the &lt;a href=&#34;https://www.amstat.org/policy-and-advocacy/asa-board-statements&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Board of Directors of the American Statistical Association&lt;/a&gt; on matters affecting the statistical profession.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Executive Summary&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Statistics is at the same time a dynamic, stand-alone science with its own core research agenda and an inherently collaborative discipline, developing in response to scientific needs. In this sense, statistics fundamentally differs from many other domain-specific disciplines in science. This difference poses unique challenges for defining the standards by which faculty excellence is evaluated across the teaching, research, and service components.&lt;/p&gt;
@@ -183,18 +183,18 @@ V.	New interest in joining the GLMM joint effort working group&lt;/p&gt;
     
     <item>
       <title>Discussion: Overview of Statistics as a Scientific Discipline and Practical Implications for the Evaluation of Faculty Excellence</title>
-      <link>/meetings/2017/20170622_1100/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2017/20170622_1100/</link>
       <pubDate>Thu, 22 Jun 2017 11:00:00 +0000</pubDate>
-      <guid>/meetings/2017/20170622_1100/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2017/20170622_1100/</guid>
       <description>&lt;p&gt;Open discussion and solicitation of opinions from the group on the working draft of two statements targeted at outlining the role of statistical consulting and interdisciplinary collaboration in the broader scientific discipline of Statistics and practical implications for evaluation of scholarship in related faculty positions. Please refer to enclosed working documents titled “1 - Overview of the Discipline and Implications for Faculty Excellence” and “2 - Position Description and Criteria for Excellence”&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>On recognizing the proper experimental unit in animal studies in the dairy sciences</title>
-      <link>/publication/experimental-replication-in-the-dairy-sciences/</link>
+      <link>https://nccc170.github.io/nccc170-website/publication/experimental-replication-in-the-dairy-sciences/</link>
       <pubDate>Wed, 07 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/experimental-replication-in-the-dairy-sciences/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/publication/experimental-replication-in-the-dairy-sciences/</guid>
       <description></description>
     </item>
     

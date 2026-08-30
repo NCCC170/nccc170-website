@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2024 NCCC170 Annual Meeting | NCCC170</title>
-    <link>/meetings/2024/</link>
-      <atom:link href="/meetings/2024/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nccc170.github.io/nccc170-website/meetings/2024/</link>
+      <atom:link href="https://nccc170.github.io/nccc170-website/meetings/2024/index.xml" rel="self" type="application/rss+xml" />
     <description>2024 NCCC170 Annual Meeting</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 13 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/meetings/2024/featured.jpg</url>
+      <url>https://nccc170.github.io/nccc170-website/meetings/2024/featured.jpg</url>
       <title>2024 NCCC170 Annual Meeting</title>
-      <link>/meetings/2024/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2024/</link>
     </image>
     
     <item>
       <title></title>
-      <link>/meetings/2024/20240614_1200/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2024/20240614_1200/</link>
       <pubDate>Fri, 14 Jun 2024 12:00:00 +0000</pubDate>
-      <guid>/meetings/2024/20240614_1200/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2024/20240614_1200/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NCCC170 Business meeting</title>
-      <link>/meetings/2024/20240614_1030/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2024/20240614_1030/</link>
       <pubDate>Fri, 14 Jun 2024 10:30:00 +0000</pubDate>
-      <guid>/meetings/2024/20240614_1030/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2024/20240614_1030/</guid>
       <description>&lt;p&gt;&lt;em&gt;Announcements:&lt;/em&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Thank you to our local host Raul Macchiavelli and program chair Kathy Yeater&lt;/li&gt;
@@ -80,161 +80,161 @@
     
     <item>
       <title>What SAS and R software users need to know about GLMMs: an example-driven discussion</title>
-      <link>/meetings/2024/20240614_0900/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2024/20240614_0900/</link>
       <pubDate>Fri, 14 Jun 2024 09:00:00 +0000</pubDate>
-      <guid>/meetings/2024/20240614_0900/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2024/20240614_0900/</guid>
       <description>&lt;p&gt;This group discussion will target conceptual and methodological best practices that users of generalized linear mixed models (GLMM) should know and address appropriately, regardless of choice of software platform. Using an example driven approach, we further describe software implementation of GLMMs in SAS and R. We present differential capabilities of these software platforms to address specific GLMM issues (to the best of our abilities). Last, we invite contributions from R-literate readers.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>/meetings/2024/20240613_1630/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2024/20240613_1630/</link>
       <pubDate>Thu, 13 Jun 2024 16:30:00 +0000</pubDate>
-      <guid>/meetings/2024/20240613_1630/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2024/20240613_1630/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/meetings/2024/20240613_1610/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2024/20240613_1610/</link>
       <pubDate>Thu, 13 Jun 2024 16:10:00 +0000</pubDate>
-      <guid>/meetings/2024/20240613_1610/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2024/20240613_1610/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Statistical consulting training in academia</title>
-      <link>/meetings/2024/20240613_1530/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2024/20240613_1530/</link>
       <pubDate>Thu, 13 Jun 2024 15:30:00 +0000</pubDate>
-      <guid>/meetings/2024/20240613_1530/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2024/20240613_1530/</guid>
       <description>&lt;p&gt;Statistical consulting plays a critical role in advancing research and decision-making, so it is important to provide quality training to students and statisticians in this area to ensure competence, credibility, and ethical standard. In my presentation, I provide a detailed overview of the structured consulting courses provided by the Department of Statistics at University of Nebraska – Lincoln, along with the consulting activities available to master’s and PhD students. Following the presentation, the session will invite open discussions regarding consulting education in academia, emphasizing challenges and collaborative strategies to enhance students’ development into proficient statistical consultants.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>/meetings/2024/20240613_1515/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2024/20240613_1515/</link>
       <pubDate>Thu, 13 Jun 2024 15:15:00 +0000</pubDate>
-      <guid>/meetings/2024/20240613_1515/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2024/20240613_1515/</guid>
       <description></description>
     </item>
     
     <item>
       <title>What is Data? The Statistician’s Role in Data Management Planning</title>
-      <link>/meetings/2024/20240613_1435/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2024/20240613_1435/</link>
       <pubDate>Thu, 13 Jun 2024 14:35:00 +0000</pubDate>
-      <guid>/meetings/2024/20240613_1435/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2024/20240613_1435/</guid>
       <description>&lt;p&gt;In 2013, the White House Office of Science Technology Policy released a memorandum (Holdren) which mandated increasing access to the results of federally funded research.  Almost 10 years later, Dr. Alondra Nelson (Acting Director, OSTP) updated the memo to reflect “all peer-reviewed scholarly publications authored or co-authored by individuals or institutions resulting from federally funded research are made freely available and publicly accessible by default in agency-designated repositories without any embargo or delay after publication.”  As Area Statisticians for the Plains Area in the USDA/ARS, we were tasked to lead our scientists in embracing and moving towards an Open Access environment.  Data Management Best Practices is a tenet of OA, one which many of us learn by doing, but there are foundational rules and principles with which many scientists struggle. In this presentation, we will describe our communication and training strategy with ARS scientists to set them on an efficient path towards data sharing.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Systematic Reviews</title>
-      <link>/meetings/2024/20240613_1355/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2024/20240613_1355/</link>
       <pubDate>Thu, 13 Jun 2024 13:55:00 +0000</pubDate>
-      <guid>/meetings/2024/20240613_1355/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2024/20240613_1355/</guid>
       <description>&lt;h2 id=&#34;na&#34;&gt;NA&lt;/h2&gt;
 </description>
     </item>
     
     <item>
       <title>A Discrete-Time Zero-inflated Beta Bayesian Model for Disease Prevalence Over Time</title>
-      <link>/meetings/2024/20240613_1315/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2024/20240613_1315/</link>
       <pubDate>Thu, 13 Jun 2024 13:15:00 +0000</pubDate>
-      <guid>/meetings/2024/20240613_1315/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2024/20240613_1315/</guid>
       <description>&lt;p&gt;Current methods for estimating disease freedom probabilities in aquaculture combine prior disease freedom probability with data likelihood and introduction probability to produce posterior freedom over time. These methods aim to establish freedom from disease above a design prevalence. In this study, we present updates to this methodology that differentiate between absolute freedom (actual zero prevalence) and effective freedom (disease occurring below the design prevalence). We implement these updates using a zero-inflated Beta distribution for both prior prevalence and introduction prevalence at each time step. Additionally, we introduce an assumption of exponential disease progression over time to allow for natural increases. We derive the posterior distribution and validate our methodology through simulation. Our approach offers a more nuanced assessment of disease freedom, enhancing decision-making for aquaculture health management.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>/meetings/2024/20240613_1200/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2024/20240613_1200/</link>
       <pubDate>Thu, 13 Jun 2024 12:00:00 +0000</pubDate>
-      <guid>/meetings/2024/20240613_1200/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2024/20240613_1200/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Food insecurity in Puerto Rico</title>
-      <link>/meetings/2024/20240613_1120/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2024/20240613_1120/</link>
       <pubDate>Thu, 13 Jun 2024 11:20:00 +0000</pubDate>
-      <guid>/meetings/2024/20240613_1120/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2024/20240613_1120/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Integrating genomic, weather, and secondary trait data for multiclass classification</title>
-      <link>/meetings/2024/20240613_1040/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2024/20240613_1040/</link>
       <pubDate>Thu, 13 Jun 2024 10:40:00 +0000</pubDate>
-      <guid>/meetings/2024/20240613_1040/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2024/20240613_1040/</guid>
       <description>&lt;p&gt;The development of genomic selection (GS) methods has allowed plant breeding programs to select favorable lines using genomic data before performing field trials. Improvements in genotyping technology and automated data collection have enabled scientists to characterize genotypes and phenotypes in more precise ways. However, these technologies are producing high-dimensional data sets which can be difficult to incorporate into statistical models. To leverage the different types and dimensions of data collected for the purpose of predicting desirable phenotypes, we proposed a three-stage classification method for multi-class traits by integrating three data types — genomic, weather, and secondary trait using chickpea data. The classifiers obtained using our method were highly sparse, allowing for a straightforward interpretation of relationships between the response and the selected predictors.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>/meetings/2024/20240613_1020/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2024/20240613_1020/</link>
       <pubDate>Thu, 13 Jun 2024 10:20:00 +0000</pubDate>
-      <guid>/meetings/2024/20240613_1020/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2024/20240613_1020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploring the options for quantifying uncertainty in derivatives of splines</title>
-      <link>/meetings/2024/20240613_0940/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2024/20240613_0940/</link>
       <pubDate>Thu, 13 Jun 2024 09:40:00 +0000</pubDate>
-      <guid>/meetings/2024/20240613_0940/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2024/20240613_0940/</guid>
       <description>&lt;p&gt;Generalized additive mixed models (GAMMs) are a powerful tool for flexibly fitting time series data with both fixed and random effects. WE can use semiparametric GAMMs to make inference about bacterial growth curves that may not play well with fully parametric growth equations. Here, we fit GAMMs to growth trends of a probiotic bacterium found in fermented foods (Lactiplantibacillus pentosus) on cucumber juice medium. These data were collected to address a debate about whether estimates of bacterial growth parameters measured from optical density on microtiter plates are dependent on initial cell density. The growth parameters estimated include maximum relative growth rate, maximum biomass, and lag time, which require us to estimate the first derivatives of the GAMM splines and to quantify their uncertainty. We present a fully Bayesian approach and a hybrid frequentist-Bayesian approach in which the model is fit using maximum likelihood and posterior draws are simulated using a multivariate normal approximation. The hybrid frequentist approach produces a simultaneous 95% confidence interval across the domain of the spline and its first derivative. We make inferences about how the growth parameters vary with initial cell density and medium type. Both approaches produce similar results: as initial cell density decreases, estimated maximum growth rate increases, maximum biomass decreases, and lag time either increases or stays constant, depending on medium type. However, the hybrid frequentist approach is computationally much faster. Ultimately, we plan to incorporate it into software that will be used by fermentation scientists.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Quantifying evidence for the omnigenic genetic architecture through a simulation study.</title>
-      <link>/meetings/2024/20240613_0900/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2024/20240613_0900/</link>
       <pubDate>Thu, 13 Jun 2024 09:00:00 +0000</pubDate>
-      <guid>/meetings/2024/20240613_0900/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2024/20240613_0900/</guid>
       <description>&lt;p&gt;Typical GWAS and GS statistical models make assumptions on genetic architecture that were derived from RA Fisher’s milestone 1918 paper. Empirical findings from GWAS and GS support these assumptions, namely that gene effect sizes underlying complex traits become infinitesimally small and that the resulting genetic value converges to a normal distribution. The omnigenic model of Boyle et al. (2017) and Liu et al. (2019) is a prominent example of how findings in molecular and functional biology that have occurred since 1918 can be incorporated into the established framework of complex genetic architecture. This model partitions genes underlying complex traits into a core set that directly controls the trait and a peripheral set that indirectly controls a trait through trans regulation. A refinement of the omnigenic model from Mathieson (2021) postulates that for a given trait, core gene effects are the same across subpopulations, while peripheral gene effect networks change across subpopulations. We hypothesize is that the omnigenic model accurately depicts the genetic architecture across subpopulations. Therefore, the purpose of this ongoing work is to explore how genetic architecture evolves across subpopulations. We are conducting a forward-in-time simulation study to simulate three divergent breeding programs, and then study the evolution of trait genetic architecture. For each generation, traits that are dependent upon additive and epistatic effects of core and peripheral genes are being simulated. The population variances of these effects vary according to a 3x4x4x4 factorial experiment. A combination of GWAS results, variance component estimates, and predictive abilities from multiple genomic prediction models will be used to evaluate the results of this factorial experiment. If this simulation study suggests that the omnigenic model is an accurate depiction of cross-subpopulation genetic architecture, then GWAS and GS models that incorporate features of this model should become more widely used in practice. Such models could result in a refined understanding of genetic architecture and could help optimize breeding values on a species-wide basis.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Welcome</title>
-      <link>/meetings/2024/20240613_0845/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2024/20240613_0845/</link>
       <pubDate>Thu, 13 Jun 2024 08:45:00 +0000</pubDate>
-      <guid>/meetings/2024/20240613_0845/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2024/20240613_0845/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/meetings/2024/20240613_0800/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2024/20240613_0800/</link>
       <pubDate>Thu, 13 Jun 2024 08:00:00 +0000</pubDate>
-      <guid>/meetings/2024/20240613_0800/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2024/20240613_0800/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Participant</title>
-      <link>/meetings/2024/participants/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2024/participants/</link>
       <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>/meetings/2024/participants/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2024/participants/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Program Chair</title>
-      <link>/meetings/2024/programchair/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2024/programchair/</link>
       <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>/meetings/2024/programchair/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2024/programchair/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Site Host</title>
-      <link>/meetings/2024/sitehost/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2024/sitehost/</link>
       <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>/meetings/2024/sitehost/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2024/sitehost/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>4 | NCCC170</title>
-    <link>/publication-type/4/</link>
-      <atom:link href="/publication-type/4/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nccc170.github.io/nccc170-website/publication-type/4/</link>
+      <atom:link href="https://nccc170.github.io/nccc170-website/publication-type/4/index.xml" rel="self" type="application/rss+xml" />
     <description>4</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 05 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_hu4f7302a92513f633c47a59ec94129e6b_633_512x512_fill_lanczos_center_3.png</url>
+      <url>https://nccc170.github.io/nccc170-website/media/icon_hu4f7302a92513f633c47a59ec94129e6b_633_512x512_fill_lanczos_center_3.png</url>
       <title>4</title>
-      <link>/publication-type/4/</link>
+      <link>https://nccc170.github.io/nccc170-website/publication-type/4/</link>
     </image>
     
     <item>
       <title>Overview of Statistics as a Scientific Discipline and Practical Implications for the Evaluation of Faculty Excellence</title>
-      <link>/publication/statistics-as-a-scientific-discipline/</link>
+      <link>https://nccc170.github.io/nccc170-website/publication/statistics-as-a-scientific-discipline/</link>
       <pubDate>Fri, 05 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/statistics-as-a-scientific-discipline/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/publication/statistics-as-a-scientific-discipline/</guid>
       <description>&lt;p&gt;This document is an official position by the &lt;a href=&#34;https://www.amstat.org/policy-and-advocacy/asa-board-statements&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Board of Directors of the American Statistical Association&lt;/a&gt; on matters affecting the statistical profession.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Executive Summary&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Statistics is at the same time a dynamic, stand-alone science with its own core research agenda and an inherently collaborative discipline, developing in response to scientific needs. In this sense, statistics fundamentally differs from many other domain-specific disciplines in science. This difference poses unique challenges for defining the standards by which faculty excellence is evaluated across the teaching, research, and service components.&lt;/p&gt;

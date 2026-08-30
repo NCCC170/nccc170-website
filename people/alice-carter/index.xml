@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alice Carter | NCCC170</title>
-    <link>/people/alice-carter/</link>
-      <atom:link href="/people/alice-carter/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nccc170.github.io/nccc170-website/people/alice-carter/</link>
+      <atom:link href="https://nccc170.github.io/nccc170-website/people/alice-carter/index.xml" rel="self" type="application/rss+xml" />
     <description>Alice Carter</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>/people/alice-carter/avatar_hu6d19f608006763c6c25bbd14f5793508_86452_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://nccc170.github.io/nccc170-website/people/alice-carter/avatar_hu6d19f608006763c6c25bbd14f5793508_86452_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Alice Carter</title>
-      <link>/people/alice-carter/</link>
+      <link>https://nccc170.github.io/nccc170-website/people/alice-carter/</link>
     </image>
     
   </channel>

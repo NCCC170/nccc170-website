@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Carine Klauberg | NCCC170</title>
-    <link>/people/carine-klauberg/</link>
-      <atom:link href="/people/carine-klauberg/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nccc170.github.io/nccc170-website/people/carine-klauberg/</link>
+      <atom:link href="https://nccc170.github.io/nccc170-website/people/carine-klauberg/index.xml" rel="self" type="application/rss+xml" />
     <description>Carine Klauberg</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 11 Jun 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/people/carine-klauberg/avatar_hu18ab774e3f1cf21f526ec02e60c3f27d_95689_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://nccc170.github.io/nccc170-website/people/carine-klauberg/avatar_hu18ab774e3f1cf21f526ec02e60c3f27d_95689_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Carine Klauberg</title>
-      <link>/people/carine-klauberg/</link>
+      <link>https://nccc170.github.io/nccc170-website/people/carine-klauberg/</link>
     </image>
     
     <item>
       <title>Participant</title>
-      <link>/meetings/2026/participants/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2026/participants/</link>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>/meetings/2026/participants/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2026/participants/</guid>
       <description></description>
     </item>
     

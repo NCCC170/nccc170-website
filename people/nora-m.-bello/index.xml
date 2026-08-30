@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nora M. Bello | NCCC170</title>
-    <link>/people/nora-m.-bello/</link>
-      <atom:link href="/people/nora-m.-bello/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nccc170.github.io/nccc170-website/people/nora-m.-bello/</link>
+      <atom:link href="https://nccc170.github.io/nccc170-website/people/nora-m.-bello/index.xml" rel="self" type="application/rss+xml" />
     <description>Nora M. Bello</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 10 Jun 2027 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/people/nora-m.-bello/avatar_hufe7121f059ac1b3e107aaef74dcbd004_12766_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://nccc170.github.io/nccc170-website/people/nora-m.-bello/avatar_hufe7121f059ac1b3e107aaef74dcbd004_12766_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Nora M. Bello</title>
-      <link>/people/nora-m.-bello/</link>
+      <link>https://nccc170.github.io/nccc170-website/people/nora-m.-bello/</link>
     </image>
     
     <item>
       <title>Program Chair</title>
-      <link>/meetings/2027/programchair/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2027/programchair/</link>
       <pubDate>Thu, 10 Jun 2027 00:00:00 +0000</pubDate>
-      <guid>/meetings/2027/programchair/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2027/programchair/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Assessing Accuracy and Precision of Measurement and Sampling Schemes in Aquaculture Research</title>
-      <link>/meetings/2026/20260611_1630/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2026/20260611_1630/</link>
       <pubDate>Thu, 11 Jun 2026 16:30:00 +0000</pubDate>
-      <guid>/meetings/2026/20260611_1630/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2026/20260611_1630/</guid>
       <description>&lt;p&gt;Measurement and sampling techniques commonly used in aquaculture research studies are varied and range from bulk-tank measurements (i.e. netting fish from a tank into a smaller calming receptacle on a scale to determine the total weight of fish in a tank) to individual weighing of all or a netted subset of fish from a tank. Beyond considerations for animal welfare and research logistics, concerns about differential data quality call for an evidence-based approach to inform selection of measurement and sampling schemes.&lt;/p&gt;
 &lt;p&gt;To this end, we assess accuracy and precision of measurement and sampling schemes commonly used for the evaluation of weight performance in dietary studies conducted on Atlantic salmon (Salmo salar). We use pilot data consisting of weekly weights, both individual and bulk-tank, for 1080 pit-tagged parr-sized fish (average initial weight 58g, SD 17g) sourced from 45 families, stocked into 24 0.19m3 recirculating aquaculture system tanks and fed the same commercial diet. Using a combination of graphical tools, descriptive statistics and mixed-model-based analyses fitted to tank-level data and to fish-level data, we first evaluate relative accuracy of weight observations across measurements and sampling schemes. We then use a variance components approach to characterize hierarchical sources of non-systematic variability in a typical aquaculture production system and quantify their differential relative magnitudes under each scheme. Finally, we explore inferential precision for detecting putative dietary effects across measurement and sampling schemes using mixed-models based precision analyses tailored to the design of aquaculture studies. Ultimately, we endeavor to elicit recommendations for high-quality data collection schemes in aquaculture research. This is work in progress; we seek input from the group and welcome open discussion.&lt;/p&gt;
 </description>
@@ -32,18 +32,18 @@
     
     <item>
       <title>Best Practices for GLMM Implementation: Group Updates and Planning</title>
-      <link>/meetings/2026/20260611_1330/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2026/20260611_1330/</link>
       <pubDate>Thu, 11 Jun 2026 13:30:00 +0000</pubDate>
-      <guid>/meetings/2026/20260611_1330/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2026/20260611_1330/</guid>
       <description>&lt;p&gt;Our ongoing project initiated in 2024 and investigates best practices for the application of Generalized Linear Mixed Models (GLMMs), including topics in statistical modeling and software implementation. As we transition into the project&amp;rsquo;s next phase, this meeting will serve as a working session to review our progress and plan our future steps. We will prioritize discussions around our publication roadmap and the immediate actionable steps required to successfully deliver our findings.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>GLMM working group updates and plans to move forward</title>
-      <link>/meetings/2025/20250605_1430/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2025/20250605_1430/</link>
       <pubDate>Thu, 05 Jun 2025 14:30:00 +0000</pubDate>
-      <guid>/meetings/2025/20250605_1430/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2025/20250605_1430/</guid>
       <description>&lt;p&gt;Outline: Ongoing work on Best Practices for GLMM Implementation&lt;/p&gt;
 &lt;p&gt;Objectives of the Session
 I.	Articulate any remaining technical aspects of examples presented at CASANR
@@ -61,68 +61,68 @@ V.	New interest in joining the GLMM joint effort working group&lt;/p&gt;
     
     <item>
       <title>What SAS and R software users need to know about GLMMs: an example-driven discussion</title>
-      <link>/meetings/2024/20240614_0900/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2024/20240614_0900/</link>
       <pubDate>Fri, 14 Jun 2024 09:00:00 +0000</pubDate>
-      <guid>/meetings/2024/20240614_0900/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2024/20240614_0900/</guid>
       <description>&lt;p&gt;This group discussion will target conceptual and methodological best practices that users of generalized linear mixed models (GLMM) should know and address appropriately, regardless of choice of software platform. Using an example driven approach, we further describe software implementation of GLMMs in SAS and R. We present differential capabilities of these software platforms to address specific GLMM issues (to the best of our abilities). Last, we invite contributions from R-literate readers.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Participant</title>
-      <link>/meetings/2023/participants/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2023/participants/</link>
       <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>/meetings/2023/participants/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2023/participants/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Participant</title>
-      <link>/meetings/2022/participants/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2022/participants/</link>
       <pubDate>Thu, 16 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>/meetings/2022/participants/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2022/participants/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Program Chair</title>
-      <link>/meetings/2021/programchair/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2021/programchair/</link>
       <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>/meetings/2021/programchair/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2021/programchair/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Participant</title>
-      <link>/meetings/2020/participants/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2020/participants/</link>
       <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/meetings/2020/participants/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2020/participants/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hierarchical modeling of structural coefficients for heterogeneous networks with an application to animal production systems</title>
-      <link>/meetings/2019/20190620_0845/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2019/20190620_0845/</link>
       <pubDate>Thu, 20 Jun 2019 08:45:00 +0000</pubDate>
-      <guid>/meetings/2019/20190620_0845/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2019/20190620_0845/</guid>
       <description>&lt;p&gt;Understanding the interconnections between performance outcomes in a system is increasingly important for integrated management. Structural equation models (SEM) are a type of multiple-variable modeling strategy that allows investigation of directionality in the association between outcome variables, thereby providing insight into their interconnections as putative causal links defining a functional network. A key assumption underlying SEM is that of a homogeneous network, whereby the structural coefficients defining functional links are assumed homogeneous and impervious to environmental conditions or management factors. This assumption seems questionable as systems are regularly subjected to explicit interventions to optimize the necessary trade-offs between outcomes. Using a Bayesian approach, we propose methodological extensions to hierarchical SEM that explicitly specify structural coefficients as functions of systematic and non-systematic sources of variation, thus allowing for hierarchical heterogeneity in the network links and recognizing design structure in the data. We validate our proposed method using a simulation study and show that hierarchical sources of heterogeneity on structural coefficients can be estimated and inferred upon accurately. Further, we show that networks can be consistently identified as homogeneous or heterogeneous based on model fit statistics that compare competing SEMs with flexible specifications of structural coefficients. We apply the proposed methodological extensions to a dataset from a designed experiment in swine production consisting of six interrelated reproductive performance outcomes to explore physiological links that differed by parity while accounting for experimental design. Overall, our results indicate that explicit hierarchical SEM-based modeling of heterogeneous functional networks can be used to advance understanding of complex networks of performance outcomes in an animal production system.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Searching for causal networks in experimental data: a swine production application</title>
-      <link>/meetings/2018/20180628_0920/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2018/20180628_0920/</link>
       <pubDate>Thu, 28 Jun 2018 09:20:00 +0000</pubDate>
-      <guid>/meetings/2018/20180628_0920/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2018/20180628_0920/</guid>
       <description>&lt;p&gt;Efficient agricultural production systems require integrated management of complex physiological mechanisms. Recent developments in network methodologies can enable meaningful directional insight into the inner workings of such complex systems. Motivated by a designed experiment in swine production, we explore potential causal biological relationships between physiological outcomes in high-performing gilts and sows using structural equation models implemented in a mixed modeling framework. Data consisted of short- and long-term reproductive outcomes for 200 sows and 440 gilts arranged in a randomized block design and randomly assigned to nutritional treatments during late gestation. We implement structure- learning algorithms adapted to a hierarchical Bayesian framework to search for and quantify causal links between physiological traits separately for gilts and sows, while recognizing the multilevel architecture of the data given by the experimental design. Using a modified Jackknife resampling approach, we evaluate stability of the learned network structures and make power considerations for network inference. Results indicate distinctly heterogeneous networks for gilts and sows, consistent with differences in their physiological mechanisms. These findings have practical implications for differential management of gilts and sows to improve efficiency of swine production systems. In addition, these finding motivate further methodological extensions to structural equation models to enable specification of heterogeneous networks.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Overview of Statistics as a Scientific Discipline and Practical Implications for the Evaluation of Faculty Excellence</title>
-      <link>/publication/statistics-as-a-scientific-discipline/</link>
+      <link>https://nccc170.github.io/nccc170-website/publication/statistics-as-a-scientific-discipline/</link>
       <pubDate>Fri, 05 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/statistics-as-a-scientific-discipline/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/publication/statistics-as-a-scientific-discipline/</guid>
       <description>&lt;p&gt;This document is an official position by the &lt;a href=&#34;https://www.amstat.org/policy-and-advocacy/asa-board-statements&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Board of Directors of the American Statistical Association&lt;/a&gt; on matters affecting the statistical profession.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Executive Summary&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Statistics is at the same time a dynamic, stand-alone science with its own core research agenda and an inherently collaborative discipline, developing in response to scientific needs. In this sense, statistics fundamentally differs from many other domain-specific disciplines in science. This difference poses unique challenges for defining the standards by which faculty excellence is evaluated across the teaching, research, and service components.&lt;/p&gt;
@@ -157,26 +157,26 @@ V.	New interest in joining the GLMM joint effort working group&lt;/p&gt;
     
     <item>
       <title>Discussion: Overview of Statistics as a Scientific Discipline and Practical Implications for the Evaluation of Faculty Excellence</title>
-      <link>/meetings/2017/20170622_1100/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2017/20170622_1100/</link>
       <pubDate>Thu, 22 Jun 2017 11:00:00 +0000</pubDate>
-      <guid>/meetings/2017/20170622_1100/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2017/20170622_1100/</guid>
       <description>&lt;p&gt;Open discussion and solicitation of opinions from the group on the working draft of two statements targeted at outlining the role of statistical consulting and interdisciplinary collaboration in the broader scientific discipline of Statistics and practical implications for evaluation of scholarship in related faculty positions. Please refer to enclosed working documents titled “1 - Overview of the Discipline and Implications for Faculty Excellence” and “2 - Position Description and Criteria for Excellence”&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Program Chair</title>
-      <link>/meetings/2017/programchair/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2017/programchair/</link>
       <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>/meetings/2017/programchair/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2017/programchair/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On recognizing the proper experimental unit in animal studies in the dairy sciences</title>
-      <link>/publication/experimental-replication-in-the-dairy-sciences/</link>
+      <link>https://nccc170.github.io/nccc170-website/publication/experimental-replication-in-the-dairy-sciences/</link>
       <pubDate>Wed, 07 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/experimental-replication-in-the-dairy-sciences/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/publication/experimental-replication-in-the-dairy-sciences/</guid>
       <description></description>
     </item>
     

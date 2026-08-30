@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jarad Niemi | NCCC170</title>
-    <link>/people/jarad-niemi/</link>
-      <atom:link href="/people/jarad-niemi/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nccc170.github.io/nccc170-website/people/jarad-niemi/</link>
+      <atom:link href="https://nccc170.github.io/nccc170-website/people/jarad-niemi/index.xml" rel="self" type="application/rss+xml" />
     <description>Jarad Niemi</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Jun 2023 10:40:00 +0000</lastBuildDate>
     <image>
-      <url>/people/jarad-niemi/avatar_hue3fcbab29acbf874f005653876152073_56045_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://nccc170.github.io/nccc170-website/people/jarad-niemi/avatar_hue3fcbab29acbf874f005653876152073_56045_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Jarad Niemi</title>
-      <link>/people/jarad-niemi/</link>
+      <link>https://nccc170.github.io/nccc170-website/people/jarad-niemi/</link>
     </image>
     
     <item>
       <title>Gaussian Processes with Functional Inputs with Applications to the Water Erosion Prediction Project Computer Model</title>
-      <link>/meetings/2023/20230615_1040/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2023/20230615_1040/</link>
       <pubDate>Thu, 15 Jun 2023 10:40:00 +0000</pubDate>
-      <guid>/meetings/2023/20230615_1040/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2023/20230615_1040/</guid>
       <description>&lt;p&gt;The USDA&amp;rsquo;s Water Erosion Prediction Project (WEPP) computer model utilizes weather, watershed topography, soil type, and land use to estimate water runoff, soil movement, and soil loss. We are constructing Gaussian Process (GP) emulators of this computer model to enable calibration, optimal design, and as a surrogate for WEPP itself. The inputs to this model include a variety of functionals: slope (or elevation) as a function of distance, soil characteristics as function of distance and depth, and precipitation as a function of time. Building a GP emulator requires distances for each of these different types of functions. We build a weighted L2-norm for slope and, incorporated into a GP, we refer to this approach as Automatic Dynamic Relevance Determination. We compare several forms of weight functions including asymmetric Gaussian and Laplace functions as well as B-splines. We observed similar out-of-sample predictive performance amongst all these methods and improvement over Automatic Relevance Determination. Utilizing Bayesian inference, we additionally obtain uncertainty over the weight functions that provide insight into the mechanistic process driving soil loss.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Computer model emulation in agriculture</title>
-      <link>/meetings/2022/20220616_1430/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2022/20220616_1430/</link>
       <pubDate>Thu, 16 Jun 2022 14:30:00 +0000</pubDate>
-      <guid>/meetings/2022/20220616_1430/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2022/20220616_1430/</guid>
       <description>&lt;p&gt;Computer models are seeing expanded use in agricultural applications from crop yield to soil loss to nutrient runoff. Statistical emulators of these computer models can provide practitioners with enhanced capabilities to solve their calibration, optimization, and design needs. We will discuss some of our recent work in developing Gaussian process (GPs) emulators for agricultural applications including dealing with functional inputs and large number of computer model runs. For functional inputs, we introduce the asymmetric Laplace functional weight for a parsimonious distance function between two functional inputs and show that it is comparable to automatic relevant determination despite using a small number of parameters. When many computer model runs are available, we introduce a one-at-a-time approach to knot selection in a knot-based approximation to a full GP and show it is comparable to the full GP at a fraction of the computational expense.&lt;/p&gt;
 </description>
     </item>

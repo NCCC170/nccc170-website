@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2022 NCCC170 Annual Meeting | NCCC170</title>
-    <link>/meetings/2022/</link>
-      <atom:link href="/meetings/2022/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nccc170.github.io/nccc170-website/meetings/2022/</link>
+      <atom:link href="https://nccc170.github.io/nccc170-website/meetings/2022/index.xml" rel="self" type="application/rss+xml" />
     <description>2022 NCCC170 Annual Meeting</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 16 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/meetings/2022/featured.jpg</url>
+      <url>https://nccc170.github.io/nccc170-website/meetings/2022/featured.jpg</url>
       <title>2022 NCCC170 Annual Meeting</title>
-      <link>/meetings/2022/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2022/</link>
     </image>
     
     <item>
       <title></title>
-      <link>/meetings/2022/20220617_1100/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2022/20220617_1100/</link>
       <pubDate>Fri, 17 Jun 2022 11:00:00 +0000</pubDate>
-      <guid>/meetings/2022/20220617_1100/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2022/20220617_1100/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Business Meeting</title>
-      <link>/meetings/2022/20220617_0930/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2022/20220617_0930/</link>
       <pubDate>Fri, 17 Jun 2022 09:30:00 +0000</pubDate>
-      <guid>/meetings/2022/20220617_0930/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2022/20220617_0930/</guid>
       <description>&lt;p&gt;&lt;em&gt;Announcements:&lt;/em&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;2021-2022 annual report:
@@ -61,69 +61,69 @@ Conference on Applied Statistics in Agriculture and Natural Resources.
     
     <item>
       <title></title>
-      <link>/meetings/2022/20220617_0920/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2022/20220617_0920/</link>
       <pubDate>Fri, 17 Jun 2022 09:20:00 +0000</pubDate>
-      <guid>/meetings/2022/20220617_0920/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2022/20220617_0920/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Group Discussion: Open Forum</title>
-      <link>/meetings/2022/20220617_0830/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2022/20220617_0830/</link>
       <pubDate>Fri, 17 Jun 2022 08:30:00 +0000</pubDate>
-      <guid>/meetings/2022/20220617_0830/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2022/20220617_0830/</guid>
       <description>&lt;p&gt;Open discussion form for current challenges in research design and statistical analysis. This discussion will give participants the opportunity to briefly describe areas of difficulty in active projects of interest.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>/meetings/2022/20220616_1630/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2022/20220616_1630/</link>
       <pubDate>Thu, 16 Jun 2022 16:30:00 +0000</pubDate>
-      <guid>/meetings/2022/20220616_1630/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2022/20220616_1630/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optimizing Blueberry Pollination to Ensure Future Yields</title>
-      <link>/meetings/2022/20220616_1555/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2022/20220616_1555/</link>
       <pubDate>Thu, 16 Jun 2022 15:55:00 +0000</pubDate>
-      <guid>/meetings/2022/20220616_1555/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2022/20220616_1555/</guid>
       <description>&lt;p&gt;Highbush blueberry is a pollinator-dependent crop, with ~560 million pounds produced in the United States, worth over $700 million annually. Current practices for maintaining the size of managed pollinator populations are outdated. We are developing a decision support tool to support growers in determining the managed bee population densities to maintain on their farms. This tool will aim to predict pollination, fruit set, and yield dependent on cultivar, flower density, bee activity, hive quantity/quality and weather. Model aims and current challenges will be discussed.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Estimating Disease Prevalence in the Absence of a Gold Standard via Bayesian Model Averaging</title>
-      <link>/meetings/2022/20220616_1520/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2022/20220616_1520/</link>
       <pubDate>Thu, 16 Jun 2022 15:20:00 +0000</pubDate>
-      <guid>/meetings/2022/20220616_1520/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2022/20220616_1520/</guid>
       <description>&lt;p&gt;When estimating disease prevalence, it is not uncommon to have data from conditionally dependent diagnostic tests. In such a situation, the estimation of prevalence is difficult if none of the tests is considered to be a gold standard. I will describe a Bayesian approach to estimating disease prevalence based on the results of two imperfect diagnostic tests, allowing for the possibility that the tests are conditionally dependent, but not conditioning on any particular dependence structure. This involves the construction of four models with various forms of conditional dependence and uses Bayesian model averaging, enabled by reversible jump MCMC, to obtain an overall estimate of the prevalence.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>/meetings/2022/20220616_1505/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2022/20220616_1505/</link>
       <pubDate>Thu, 16 Jun 2022 15:05:00 +0000</pubDate>
-      <guid>/meetings/2022/20220616_1505/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2022/20220616_1505/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Computer model emulation in agriculture</title>
-      <link>/meetings/2022/20220616_1430/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2022/20220616_1430/</link>
       <pubDate>Thu, 16 Jun 2022 14:30:00 +0000</pubDate>
-      <guid>/meetings/2022/20220616_1430/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2022/20220616_1430/</guid>
       <description>&lt;p&gt;Computer models are seeing expanded use in agricultural applications from crop yield to soil loss to nutrient runoff. Statistical emulators of these computer models can provide practitioners with enhanced capabilities to solve their calibration, optimization, and design needs. We will discuss some of our recent work in developing Gaussian process (GPs) emulators for agricultural applications including dealing with functional inputs and large number of computer model runs. For functional inputs, we introduce the asymmetric Laplace functional weight for a parsimonious distance function between two functional inputs and show that it is comparable to automatic relevant determination despite using a small number of parameters. When many computer model runs are available, we introduce a one-at-a-time approach to knot selection in a knot-based approximation to a full GP and show it is comparable to the full GP at a fraction of the computational expense.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Group Discussion: Moving to a World Beyond “p &lt; 0.05”: How far have we come, and how far we have yet to go?</title>
-      <link>/meetings/2022/20220616_1330/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2022/20220616_1330/</link>
       <pubDate>Thu, 16 Jun 2022 13:30:00 +0000</pubDate>
-      <guid>/meetings/2022/20220616_1330/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2022/20220616_1330/</guid>
       <description>&lt;p&gt;After many years of statisticians working to help collaborators interpret p-values correctly, it feels like notable progress has been made since the 2016 ASA statement, with well publicized editorials in a wide variety of journals as well as publications for the general public.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;What progress have you seen, in both your collaborators and in the journals you publish in?&lt;/li&gt;
@@ -137,102 +137,102 @@ How has this changed (or not) in recent years?&lt;/li&gt;
     
     <item>
       <title></title>
-      <link>/meetings/2022/20220616_1225/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2022/20220616_1225/</link>
       <pubDate>Thu, 16 Jun 2022 12:25:00 +0000</pubDate>
-      <guid>/meetings/2022/20220616_1225/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2022/20220616_1225/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Classification Methods for High-dimensional MiFi® Data</title>
-      <link>/meetings/2022/20220616_1150/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2022/20220616_1150/</link>
       <pubDate>Thu, 16 Jun 2022 11:50:00 +0000</pubDate>
-      <guid>/meetings/2022/20220616_1150/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2022/20220616_1150/</guid>
       <description>&lt;p&gt;Microbe Finder (MiFi®) is a diagnostic tool developed by researchers at Oklahoma State University which uses high-throughput sequencing technology to measure the abundance of a pathogen in a sample. Data are generated as follows. First, a pathogen’s unique RNA sequence is decomposed into multiple smaller sequences called “e-probes”. Then, the number of e-probe “hits” in a sample is recorded for each e-probe. Also recorded is a simple single measure called “total score”. The goal is to train a classifier using MiFi® data. The challenge here is that there are anywhere from 10 to 10,000 e-probes, depending on the pathogen of interest, and there are only a few samples available for training the classifier. A variety of classifiers for this high-dimensional classification problem are available. Likewise, a simple univariate classifier based on the total scores could be considered. This talk will briefly review available approaches and compare their performances for several pathogens.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Conceptual frameworks for embedding ordinary differential equation models within Bayesian hierarchical modeling</title>
-      <link>/meetings/2022/20220616_1115/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2022/20220616_1115/</link>
       <pubDate>Thu, 16 Jun 2022 11:15:00 +0000</pubDate>
-      <guid>/meetings/2022/20220616_1115/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2022/20220616_1115/</guid>
       <description>&lt;p&gt;Crop scientists are frequently interested in understanding how instantaneous biophysical processes integrate across a growing season to affect yield. Collecting repeated measurements of soil and crop variables over time is one way to quantify how these processes are affected by various environmental and climatic factors and how those effects integrate over time to produce yield. Combining these data with dynamic simulation models allow crop physiologists and modelers to characterize these responses. Traditionally, these models are built to be purely deterministic with a system of ordinary differential equations (ODEs) that describes how the system as a whole evolves over time. Within this approach, random aspects of the data generation process are generally relegated to a single error term, usually assumed to be normal and centered on 0. This presentation will describe recent work on embedding ODE models within a more robust modeling of the random components of the data generation process using Bayesian hierarchical modeling. The approach will be illustrated with an application to a winter wheat dataset and some potential conceptual frameworks for thinking about the interpretation of model terms will be presented.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Mixed Models in R: Mind the Gap</title>
-      <link>/meetings/2022/20220616_1040/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2022/20220616_1040/</link>
       <pubDate>Thu, 16 Jun 2022 10:40:00 +0000</pubDate>
-      <guid>/meetings/2022/20220616_1040/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2022/20220616_1040/</guid>
       <description>&lt;p&gt;The linear mixed model ecosystem in R consists of over 80 libraries that either construct and solve mixed model equations or helper packages the process the results from mixed model analysis. These libraries provide a patchwork of overlapping and unique functionality regarding the fundamental structure of mixed models: allowable distributions, nested and crossed random effects, heterogenous error structures and other facets. No single library has all possible functionality enabled. These libraries vary greatly in accessory functions enabled, such as conducting ANOVA, accessing the BLUPs and other standard model output such as the log likelihood, residuals, and variances. The only common features guaranteed in these packages are that they (1) conduct a mixed model, and (2) if the package is on CRAN, have a method to print the output from a mixed model function call. Additionally, each library has its own unique syntax for allowable function arguments. This patchwork of packages makes it very challenging for statisticians to conduct mixed model analysis and to teach others how to run mixed models in R. There have been recent attempts to create a common function call for mixed models with the library ‘multilevelmod’ and a common way to access accessory information with ‘broom.mixed’. These meta-libraries are enormously helpful, but they are incomplete, addressing less than 10 mixed models packages in total. As a community of agricultural statisticians and statistical consultants, what should we do about this? The goal of this talk/discussion is to identify gaps in mixed model analysis in R and discuss options and our capacity to address those gaps.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>/meetings/2022/20220616_1025/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2022/20220616_1025/</link>
       <pubDate>Thu, 16 Jun 2022 10:25:00 +0000</pubDate>
-      <guid>/meetings/2022/20220616_1025/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2022/20220616_1025/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using simulations to assess the performance of genotype-to-phenotype models accounting for pleiotropy, variance-controlling loci, and interspecific breeding material</title>
-      <link>/meetings/2022/20220616_0950/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2022/20220616_0950/</link>
       <pubDate>Thu, 16 Jun 2022 09:50:00 +0000</pubDate>
-      <guid>/meetings/2022/20220616_0950/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2022/20220616_0950/</guid>
       <description>&lt;p&gt;Models that reflect the multifaceted contributions of genomic loci have a potential to facilitate unprecedented quantification of the genetic architecture underlying various traits and increase genomic selection (GS) prediction accuracies. To evaluate the performance of such models, simulation studies are essential. Therefore, a R/CRAN package called simplePHENOTYPES developed by the Lipka Lab is first discussed. This package uses real marker data to simulate pleiotropic quantitative trait nucleotides (QTNs) that behave in either an additive, dominance, or epistatic manner. We first demonstrate how simulating traits from simplePHENOTYPES can be used to evaluate the ability of a various multi-trait genome-wide association study (GWAS) models to distinguish between linkage and pleiotropy. We then show how simulations can be used to determine how well statistical approaches used to quantify variance heterogeneity can identify epistasis and genotype-by-environment interactions. We end the presentation by demonstrating a simulation study that evaluates the impact of training set composition from two different species (Miscanthus sinensis and Miscanthus sacchariflorus) on the GS prediction accuracy in an interspecific Miscanthus × giganteus F2 population.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Consideration for the use of linear quantile mixed models for describing highly variable data in agriculture</title>
-      <link>/meetings/2022/20220616_0915/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2022/20220616_0915/</link>
       <pubDate>Thu, 16 Jun 2022 09:15:00 +0000</pubDate>
-      <guid>/meetings/2022/20220616_0915/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2022/20220616_0915/</guid>
       <description>&lt;p&gt;Quantile regression (QR) has become well established in recent decades for characterizing relationships between a response variable (y) and covariables. Instead of modeling conditional expected values, in QR one models the conditional quantiles, with median regression being a special case. QR is usually considered desirable when the effects of the covariate(s) on the quantile depend on the quantile; that is, when the relationship between the center of the distribution and a covariate is different from the relationship at more extreme quantiles. The usual estimation methods are distribution free and are usually considered robust for the conditional median. The data in agricultural studies are often clustered, with correlated observations within clusters. Several proposals have been made to account for the correlations in QR, with quantile mixed modeling (QMM) receiving the most attention since about 2007. QMM generalizes parametric random-coefficient mixed modeling that is frequently used for clustered normal data. The key step is to consider the asymmetric Laplace (AL) distribution as the working model for the distribution of y conditional on the random effects. By fixing the skewness parameter τ of the AL (0 &amp;lt; τ &amp;lt; 1), the location parameter of the AL is the conditional quantile, μ(τ). Then, estimation becomes a maximum likelihood problem. But there are many challenges with this approach related to computation (optimization), inference, and prediction (including the BLUPs), with questions remaining regarding bias and precision of parameter estimates. Bayesian estimation is a valuable alternative to frequentist MLE. I will present an exploration of the use of linear QMM to describe data for wheat yield and quality in relation to the severity of symptoms of the disease Fusarium head blight. Both frequentist (lqmm package in R) and Bayesian approaches (PROC MCMC in SAS) will be presented. The difficulties in taking a QMM approach will be discussed.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Welcome Messages:</title>
-      <link>/meetings/2022/20220616_0900/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2022/20220616_0900/</link>
       <pubDate>Thu, 16 Jun 2022 09:00:00 +0000</pubDate>
-      <guid>/meetings/2022/20220616_0900/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2022/20220616_0900/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/meetings/2022/20220616_0830/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2022/20220616_0830/</link>
       <pubDate>Thu, 16 Jun 2022 08:30:00 +0000</pubDate>
-      <guid>/meetings/2022/20220616_0830/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2022/20220616_0830/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Participant</title>
-      <link>/meetings/2022/participants/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2022/participants/</link>
       <pubDate>Thu, 16 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>/meetings/2022/participants/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2022/participants/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Program Chair</title>
-      <link>/meetings/2022/programchair/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2022/programchair/</link>
       <pubDate>Thu, 16 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>/meetings/2022/programchair/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2022/programchair/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Site Host</title>
-      <link>/meetings/2022/sitehost/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2022/sitehost/</link>
       <pubDate>Thu, 16 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>/meetings/2022/sitehost/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2022/sitehost/</guid>
       <description></description>
     </item>
     

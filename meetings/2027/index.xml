@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2027 NCCC170 Annual Meeting | NCCC170</title>
-    <link>/meetings/2027/</link>
-      <atom:link href="/meetings/2027/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nccc170.github.io/nccc170-website/meetings/2027/</link>
+      <atom:link href="https://nccc170.github.io/nccc170-website/meetings/2027/index.xml" rel="self" type="application/rss+xml" />
     <description>2027 NCCC170 Annual Meeting</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 10 Jun 2027 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_hu4f7302a92513f633c47a59ec94129e6b_633_512x512_fill_lanczos_center_3.png</url>
+      <url>https://nccc170.github.io/nccc170-website/media/icon_hu4f7302a92513f633c47a59ec94129e6b_633_512x512_fill_lanczos_center_3.png</url>
       <title>2027 NCCC170 Annual Meeting</title>
-      <link>/meetings/2027/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2027/</link>
     </image>
     
     <item>
       <title>Program Chair</title>
-      <link>/meetings/2027/programchair/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2027/programchair/</link>
       <pubDate>Thu, 10 Jun 2027 00:00:00 +0000</pubDate>
-      <guid>/meetings/2027/programchair/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2027/programchair/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Site Host</title>
-      <link>/meetings/2027/sitehost/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2027/sitehost/</link>
       <pubDate>Thu, 10 Jun 2027 00:00:00 +0000</pubDate>
-      <guid>/meetings/2027/sitehost/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2027/sitehost/</guid>
       <description></description>
     </item>
     

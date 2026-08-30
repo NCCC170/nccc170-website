@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2020 NCCC170 Annual Meeting | NCCC170</title>
-    <link>/meetings/2020/</link>
-      <atom:link href="/meetings/2020/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nccc170.github.io/nccc170-website/meetings/2020/</link>
+      <atom:link href="https://nccc170.github.io/nccc170-website/meetings/2020/index.xml" rel="self" type="application/rss+xml" />
     <description>2020 NCCC170 Annual Meeting</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 26 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/meetings/2020/featured.jpg</url>
+      <url>https://nccc170.github.io/nccc170-website/meetings/2020/featured.jpg</url>
       <title>2020 NCCC170 Annual Meeting</title>
-      <link>/meetings/2020/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2020/</link>
     </image>
     
     <item>
       <title>Participant</title>
-      <link>/meetings/2020/participants/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2020/participants/</link>
       <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/meetings/2020/participants/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2020/participants/</guid>
       <description></description>
     </item>
     

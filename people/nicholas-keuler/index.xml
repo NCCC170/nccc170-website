@@ -2,103 +2,103 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nicholas Keuler | NCCC170</title>
-    <link>/people/nicholas-keuler/</link>
-      <atom:link href="/people/nicholas-keuler/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nccc170.github.io/nccc170-website/people/nicholas-keuler/</link>
+      <atom:link href="https://nccc170.github.io/nccc170-website/people/nicholas-keuler/index.xml" rel="self" type="application/rss+xml" />
     <description>Nicholas Keuler</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 11 Jun 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/people/nicholas-keuler/avatar_huc54c82ab35689ad8369a5df88b9dc0b1_21243_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://nccc170.github.io/nccc170-website/people/nicholas-keuler/avatar_huc54c82ab35689ad8369a5df88b9dc0b1_21243_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Nicholas Keuler</title>
-      <link>/people/nicholas-keuler/</link>
+      <link>https://nccc170.github.io/nccc170-website/people/nicholas-keuler/</link>
     </image>
     
     <item>
       <title>Participant</title>
-      <link>/meetings/2026/participants/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2026/participants/</link>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>/meetings/2026/participants/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2026/participants/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Participant</title>
-      <link>/meetings/2025/participants/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2025/participants/</link>
       <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>/meetings/2025/participants/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2025/participants/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Participant</title>
-      <link>/meetings/2024/participants/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2024/participants/</link>
       <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>/meetings/2024/participants/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2024/participants/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Discussion: Online Teaching Panel</title>
-      <link>/meetings/2023/20230615_1115/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2023/20230615_1115/</link>
       <pubDate>Thu, 15 Jun 2023 11:15:00 +0000</pubDate>
-      <guid>/meetings/2023/20230615_1115/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2023/20230615_1115/</guid>
       <description>&lt;p&gt;We will lead a panel discussion on the challenges and advantages of teaching online. Topics may include course formats (fully or partially online, synchronous or asynchronous), pros and cons of the technologies available, effectively communicating with students, managing the course, adjusting assessments (e.g., exams, homework, quizzes, discussion posts, projects, etc.), and maintaining academic integrity.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Site Host</title>
-      <link>/meetings/2023/sitehost/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2023/sitehost/</link>
       <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>/meetings/2023/sitehost/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2023/sitehost/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Participant</title>
-      <link>/meetings/2022/participants/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2022/participants/</link>
       <pubDate>Thu, 16 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>/meetings/2022/participants/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2022/participants/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Participant</title>
-      <link>/meetings/2021/participants/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2021/participants/</link>
       <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>/meetings/2021/participants/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2021/participants/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Participant</title>
-      <link>/meetings/2020/participants/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2020/participants/</link>
       <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/meetings/2020/participants/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2020/participants/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Participant</title>
-      <link>/meetings/2019/participants/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2019/participants/</link>
       <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/meetings/2019/participants/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2019/participants/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Revising an Introductory Statistics Curriculum from the Ground Up – Challenges, Solutions, and Lessons Learned</title>
-      <link>/meetings/2018/20180629_0845/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2018/20180629_0845/</link>
       <pubDate>Fri, 29 Jun 2018 08:45:00 +0000</pubDate>
-      <guid>/meetings/2018/20180629_0845/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2018/20180629_0845/</guid>
       <description>&lt;p&gt;For the past few years, the Department of Statistics at the University of Wisconsin- Madison has been engaged in a revision of the curriculum for introductory statistics courses targeted to non-statistics majors. We will briefly discuss some of the issues faced, solutions attempted, and lessons learned during the process, touching specifically on our chosen learning objectives, assessment, and course structures, as well as the assignment, management, and evaluation of instructors and teaching assistants. We hope that this generates a discussion among the group about how introductory statistics courses are taught at other universities, and about best teaching practices for such courses.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Overview of Statistics as a Scientific Discipline and Practical Implications for the Evaluation of Faculty Excellence</title>
-      <link>/publication/statistics-as-a-scientific-discipline/</link>
+      <link>https://nccc170.github.io/nccc170-website/publication/statistics-as-a-scientific-discipline/</link>
       <pubDate>Fri, 05 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/statistics-as-a-scientific-discipline/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/publication/statistics-as-a-scientific-discipline/</guid>
       <description>&lt;p&gt;This document is an official position by the &lt;a href=&#34;https://www.amstat.org/policy-and-advocacy/asa-board-statements&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Board of Directors of the American Statistical Association&lt;/a&gt; on matters affecting the statistical profession.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Executive Summary&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Statistics is at the same time a dynamic, stand-alone science with its own core research agenda and an inherently collaborative discipline, developing in response to scientific needs. In this sense, statistics fundamentally differs from many other domain-specific disciplines in science. This difference poses unique challenges for defining the standards by which faculty excellence is evaluated across the teaching, research, and service components.&lt;/p&gt;
@@ -133,9 +133,9 @@
     
     <item>
       <title>Participant</title>
-      <link>/meetings/2017/participants/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2017/participants/</link>
       <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>/meetings/2017/participants/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2017/participants/</guid>
       <description></description>
     </item>
     

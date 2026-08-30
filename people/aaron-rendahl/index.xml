@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aaron Rendahl | NCCC170</title>
-    <link>/people/aaron-rendahl/</link>
-      <atom:link href="/people/aaron-rendahl/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nccc170.github.io/nccc170-website/people/aaron-rendahl/</link>
+      <atom:link href="https://nccc170.github.io/nccc170-website/people/aaron-rendahl/index.xml" rel="self" type="application/rss+xml" />
     <description>Aaron Rendahl</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 11 Jun 2026 10:00:00 +0000</lastBuildDate>
     <image>
-      <url>/people/aaron-rendahl/avatar_hu867c148adfcba8e49892f42ac69c7643_25804_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://nccc170.github.io/nccc170-website/people/aaron-rendahl/avatar_hu867c148adfcba8e49892f42ac69c7643_25804_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Aaron Rendahl</title>
-      <link>/people/aaron-rendahl/</link>
+      <link>https://nccc170.github.io/nccc170-website/people/aaron-rendahl/</link>
     </image>
     
     <item>
       <title>Environmental Survival of Avian Metapneumovirus on Common Agricultural Surfaces</title>
-      <link>/meetings/2026/20260611_1000/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2026/20260611_1000/</link>
       <pubDate>Thu, 11 Jun 2026 10:00:00 +0000</pubDate>
-      <guid>/meetings/2026/20260611_1000/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2026/20260611_1000/</guid>
       <description>&lt;p&gt;Avian metapneumovirus (aMPV) is a major respiratory pathogen of poultry worldwide. While it is known to be transmitted through the air, the contribution of surface contamination to viral spread is unknown. This study evaluated the environmental survival of two viral subtypes on nine surfaces commonly found in agricultural settings, at two temperatures. Several issues contributed to the complexity of the analysis. In particular, the observed rate of decay was clearly non-linear and so a simple exponential model was not appropriate. Instead, Weibull curves were fit, and the area under the curve (AUC) was used as an overall measure of survival. A parametric bootstrap was then used to obtain standard errors and the survival on the various surfaces was compared using Wald tests. Additionally, the experimental design was suboptimal, so some desired comparisons were not able to be made. This talk will discuss the pros and cons of the experimental design and the chosen analysis and hopefully elicit feedback on alternative options.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Comparing the effects of sewage sludge ash and other recycled phosphorus fertilizers on soil quality; a two-way design plus control with several repeated measures</title>
-      <link>/meetings/2025/20250605_1130/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2025/20250605_1130/</link>
       <pubDate>Thu, 05 Jun 2025 11:30:00 +0000</pubDate>
-      <guid>/meetings/2025/20250605_1130/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2025/20250605_1130/</guid>
       <description>&lt;p&gt;In this study, I worked with researchers who were studying options for recycled phosphorus fertilizers, with particular interest in sewage sludge ash from the St. Paul Wastewater Treatment Plant. This ash contains significant amounts of phosphorus, which is essential to healthy plant development and is regularly applied in agronomic settings to ensure maximum crop yields. This study was originally developed as a two-way factorial design, with four phosphorus sources and five application rates. Various soil quality parameters were measured multiple times throughout the growing season for three years, and the crop was rotated between corn and soybeans. The initial complication was to realize that because one of the application rates was zero, the design was actually a two-way plus control design. This was made additionally complex because the effect of application rate on soil phosphorus was expected to be linear and so the rate of increase in soil for a given application rate was of interest. Finally, various random effects for repeated measures within each growing season and across years had to be considered.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Program Chair</title>
-      <link>/meetings/2023/programchair/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2023/programchair/</link>
       <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>/meetings/2023/programchair/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2023/programchair/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Group Discussion: Moving to a World Beyond “p &lt; 0.05”: How far have we come, and how far we have yet to go?</title>
-      <link>/meetings/2022/20220616_1330/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2022/20220616_1330/</link>
       <pubDate>Thu, 16 Jun 2022 13:30:00 +0000</pubDate>
-      <guid>/meetings/2022/20220616_1330/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2022/20220616_1330/</guid>
       <description>&lt;p&gt;After many years of statisticians working to help collaborators interpret p-values correctly, it feels like notable progress has been made since the 2016 ASA statement, with well publicized editorials in a wide variety of journals as well as publications for the general public.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;What progress have you seen, in both your collaborators and in the journals you publish in?&lt;/li&gt;
@@ -56,17 +56,17 @@ How has this changed (or not) in recent years?&lt;/li&gt;
     
     <item>
       <title>Participant</title>
-      <link>/meetings/2021/participants/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2021/participants/</link>
       <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>/meetings/2021/participants/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2021/participants/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Overview of Statistics as a Scientific Discipline and Practical Implications for the Evaluation of Faculty Excellence</title>
-      <link>/publication/statistics-as-a-scientific-discipline/</link>
+      <link>https://nccc170.github.io/nccc170-website/publication/statistics-as-a-scientific-discipline/</link>
       <pubDate>Fri, 05 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/statistics-as-a-scientific-discipline/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/publication/statistics-as-a-scientific-discipline/</guid>
       <description>&lt;p&gt;This document is an official position by the &lt;a href=&#34;https://www.amstat.org/policy-and-advocacy/asa-board-statements&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Board of Directors of the American Statistical Association&lt;/a&gt; on matters affecting the statistical profession.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Executive Summary&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Statistics is at the same time a dynamic, stand-alone science with its own core research agenda and an inherently collaborative discipline, developing in response to scientific needs. In this sense, statistics fundamentally differs from many other domain-specific disciplines in science. This difference poses unique challenges for defining the standards by which faculty excellence is evaluated across the teaching, research, and service components.&lt;/p&gt;
@@ -101,9 +101,9 @@ How has this changed (or not) in recent years?&lt;/li&gt;
     
     <item>
       <title>Participant</title>
-      <link>/meetings/2017/participants/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2017/participants/</link>
       <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>/meetings/2017/participants/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2017/participants/</guid>
       <description></description>
     </item>
     

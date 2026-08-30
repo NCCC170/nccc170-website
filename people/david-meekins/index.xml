@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>David Meekins | NCCC170</title>
-    <link>/people/david-meekins/</link>
-      <atom:link href="/people/david-meekins/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nccc170.github.io/nccc170-website/people/david-meekins/</link>
+      <atom:link href="https://nccc170.github.io/nccc170-website/people/david-meekins/index.xml" rel="self" type="application/rss+xml" />
     <description>David Meekins</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>/media/icon_hu4f7302a92513f633c47a59ec94129e6b_633_512x512_fill_lanczos_center_3.png</url>
+      <url>https://nccc170.github.io/nccc170-website/media/icon_hu4f7302a92513f633c47a59ec94129e6b_633_512x512_fill_lanczos_center_3.png</url>
       <title>David Meekins</title>
-      <link>/people/david-meekins/</link>
+      <link>https://nccc170.github.io/nccc170-website/people/david-meekins/</link>
     </image>
     
   </channel>

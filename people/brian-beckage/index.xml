@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Brian Beckage | NCCC170</title>
-    <link>/people/brian-beckage/</link>
-      <atom:link href="/people/brian-beckage/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nccc170.github.io/nccc170-website/people/brian-beckage/</link>
+      <atom:link href="https://nccc170.github.io/nccc170-website/people/brian-beckage/index.xml" rel="self" type="application/rss+xml" />
     <description>Brian Beckage</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>/people/brian-beckage/avatar_hu4921df485964ae1577ee31e1980bd495_103517_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://nccc170.github.io/nccc170-website/people/brian-beckage/avatar_hu4921df485964ae1577ee31e1980bd495_103517_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Brian Beckage</title>
-      <link>/people/brian-beckage/</link>
+      <link>https://nccc170.github.io/nccc170-website/people/brian-beckage/</link>
     </image>
     
   </channel>

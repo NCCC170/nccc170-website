@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sara Duke | NCCC170</title>
-    <link>/people/sara-duke/</link>
-      <atom:link href="/people/sara-duke/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nccc170.github.io/nccc170-website/people/sara-duke/</link>
+      <atom:link href="https://nccc170.github.io/nccc170-website/people/sara-duke/index.xml" rel="self" type="application/rss+xml" />
     <description>Sara Duke</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 13 Jun 2024 14:35:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_hu4f7302a92513f633c47a59ec94129e6b_633_512x512_fill_lanczos_center_3.png</url>
+      <url>https://nccc170.github.io/nccc170-website/media/icon_hu4f7302a92513f633c47a59ec94129e6b_633_512x512_fill_lanczos_center_3.png</url>
       <title>Sara Duke</title>
-      <link>/people/sara-duke/</link>
+      <link>https://nccc170.github.io/nccc170-website/people/sara-duke/</link>
     </image>
     
     <item>
       <title>What is Data? The Statistician’s Role in Data Management Planning</title>
-      <link>/meetings/2024/20240613_1435/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2024/20240613_1435/</link>
       <pubDate>Thu, 13 Jun 2024 14:35:00 +0000</pubDate>
-      <guid>/meetings/2024/20240613_1435/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2024/20240613_1435/</guid>
       <description>&lt;p&gt;In 2013, the White House Office of Science Technology Policy released a memorandum (Holdren) which mandated increasing access to the results of federally funded research.  Almost 10 years later, Dr. Alondra Nelson (Acting Director, OSTP) updated the memo to reflect “all peer-reviewed scholarly publications authored or co-authored by individuals or institutions resulting from federally funded research are made freely available and publicly accessible by default in agency-designated repositories without any embargo or delay after publication.”  As Area Statisticians for the Plains Area in the USDA/ARS, we were tasked to lead our scientists in embracing and moving towards an Open Access environment.  Data Management Best Practices is a tenet of OA, one which many of us learn by doing, but there are foundational rules and principles with which many scientists struggle. In this presentation, we will describe our communication and training strategy with ARS scientists to set them on an efficient path towards data sharing.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Participant</title>
-      <link>/meetings/2021/participants/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2021/participants/</link>
       <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>/meetings/2021/participants/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2021/participants/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Participant</title>
-      <link>/meetings/2020/participants/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2020/participants/</link>
       <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/meetings/2020/participants/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2020/participants/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Participant</title>
-      <link>/meetings/2019/participants/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2019/participants/</link>
       <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/meetings/2019/participants/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2019/participants/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Participant</title>
-      <link>/meetings/2018/participants/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2018/participants/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>/meetings/2018/participants/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2018/participants/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Overview of Statistics as a Scientific Discipline and Practical Implications for the Evaluation of Faculty Excellence</title>
-      <link>/publication/statistics-as-a-scientific-discipline/</link>
+      <link>https://nccc170.github.io/nccc170-website/publication/statistics-as-a-scientific-discipline/</link>
       <pubDate>Fri, 05 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/statistics-as-a-scientific-discipline/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/publication/statistics-as-a-scientific-discipline/</guid>
       <description>&lt;p&gt;This document is an official position by the &lt;a href=&#34;https://www.amstat.org/policy-and-advocacy/asa-board-statements&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Board of Directors of the American Statistical Association&lt;/a&gt; on matters affecting the statistical profession.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Executive Summary&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Statistics is at the same time a dynamic, stand-alone science with its own core research agenda and an inherently collaborative discipline, developing in response to scientific needs. In this sense, statistics fundamentally differs from many other domain-specific disciplines in science. This difference poses unique challenges for defining the standards by which faculty excellence is evaluated across the teaching, research, and service components.&lt;/p&gt;
@@ -92,9 +92,9 @@
     
     <item>
       <title>Participant</title>
-      <link>/meetings/2017/participants/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2017/participants/</link>
       <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>/meetings/2017/participants/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2017/participants/</guid>
       <description></description>
     </item>
     

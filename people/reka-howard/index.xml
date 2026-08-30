@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Réka Howard | NCCC170</title>
-    <link>/people/reka-howard/</link>
-      <atom:link href="/people/reka-howard/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nccc170.github.io/nccc170-website/people/reka-howard/</link>
+      <atom:link href="https://nccc170.github.io/nccc170-website/people/reka-howard/index.xml" rel="self" type="application/rss+xml" />
     <description>Réka Howard</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 11 Jun 2026 13:30:00 +0000</lastBuildDate>
     <image>
-      <url>/people/reka-howard/avatar_huc1559b099323a48b888417a62d8f38a2_142587_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://nccc170.github.io/nccc170-website/people/reka-howard/avatar_huc1559b099323a48b888417a62d8f38a2_142587_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Réka Howard</title>
-      <link>/people/reka-howard/</link>
+      <link>https://nccc170.github.io/nccc170-website/people/reka-howard/</link>
     </image>
     
     <item>
       <title>Best Practices for GLMM Implementation: Group Updates and Planning</title>
-      <link>/meetings/2026/20260611_1330/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2026/20260611_1330/</link>
       <pubDate>Thu, 11 Jun 2026 13:30:00 +0000</pubDate>
-      <guid>/meetings/2026/20260611_1330/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2026/20260611_1330/</guid>
       <description>&lt;p&gt;Our ongoing project initiated in 2024 and investigates best practices for the application of Generalized Linear Mixed Models (GLMMs), including topics in statistical modeling and software implementation. As we transition into the project&amp;rsquo;s next phase, this meeting will serve as a working session to review our progress and plan our future steps. We will prioritize discussions around our publication roadmap and the immediate actionable steps required to successfully deliver our findings.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>GLMM working group updates and plans to move forward</title>
-      <link>/meetings/2025/20250605_1430/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2025/20250605_1430/</link>
       <pubDate>Thu, 05 Jun 2025 14:30:00 +0000</pubDate>
-      <guid>/meetings/2025/20250605_1430/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2025/20250605_1430/</guid>
       <description>&lt;p&gt;Outline: Ongoing work on Best Practices for GLMM Implementation&lt;/p&gt;
 &lt;p&gt;Objectives of the Session
 I.	Articulate any remaining technical aspects of examples presented at CASANR
@@ -43,18 +43,18 @@ V.	New interest in joining the GLMM joint effort working group&lt;/p&gt;
     
     <item>
       <title>Statistical consulting training in academia</title>
-      <link>/meetings/2024/20240613_1530/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2024/20240613_1530/</link>
       <pubDate>Thu, 13 Jun 2024 15:30:00 +0000</pubDate>
-      <guid>/meetings/2024/20240613_1530/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2024/20240613_1530/</guid>
       <description>&lt;p&gt;Statistical consulting plays a critical role in advancing research and decision-making, so it is important to provide quality training to students and statisticians in this area to ensure competence, credibility, and ethical standard. In my presentation, I provide a detailed overview of the structured consulting courses provided by the Department of Statistics at University of Nebraska – Lincoln, along with the consulting activities available to master’s and PhD students. Following the presentation, the session will invite open discussions regarding consulting education in academia, emphasizing challenges and collaborative strategies to enhance students’ development into proficient statistical consultants.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Integrating genomic, weather, and secondary trait data for multiclass classification</title>
-      <link>/meetings/2024/20240613_1040/</link>
+      <link>https://nccc170.github.io/nccc170-website/meetings/2024/20240613_1040/</link>
       <pubDate>Thu, 13 Jun 2024 10:40:00 +0000</pubDate>
-      <guid>/meetings/2024/20240613_1040/</guid>
+      <guid>https://nccc170.github.io/nccc170-website/meetings/2024/20240613_1040/</guid>
       <description>&lt;p&gt;The development of genomic selection (GS) methods has allowed plant breeding programs to select favorable lines using genomic data before performing field trials. Improvements in genotyping technology and automated data collection have enabled scientists to characterize genotypes and phenotypes in more precise ways. However, these technologies are producing high-dimensional data sets which can be difficult to incorporate into statistical models. To leverage the different types and dimensions of data collected for the purpose of predicting desirable phenotypes, we proposed a three-stage classification method for multi-class traits by integrating three data types — genomic, weather, and secondary trait using chickpea data. The classifiers obtained using our method were highly sparse, allowing for a straightforward interpretation of relationships between the response and the selected predictors.&lt;/p&gt;
 </description>
     </item>
